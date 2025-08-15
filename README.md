@@ -1,1 +1,0 @@
-# uminimo.github.io
