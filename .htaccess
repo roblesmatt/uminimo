@@ -3,6 +3,7 @@ RewriteEngine on
 
 RewriteCond %{REQUEST_FILENAME} !-d
 
-RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteCond %{roblesmatt.github.io/uminimo/}\.html -f
 
 RewriteRule ^(.*)$ $1.html [NC,L]
+
