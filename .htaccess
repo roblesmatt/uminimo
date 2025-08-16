@@ -6,7 +6,7 @@
     RewriteBase /
 
 # Remove the .html extension
-    RewriteCond %{THE_REQUEST} ^GET\ (.*)\.html\ HTTP
+    RewriteCond %{THE_REQUEST} ^GET\ (.*)\.html\ HTTPS
     RewriteRule (.*)\.html$ $1 [R=301]
 
 # Remove index and reference the directory
