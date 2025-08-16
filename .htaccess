@@ -36,5 +36,5 @@ RewriteRule ^([^\.]+)$ $1.html [NC, L]
 The search engine may index these pages as duplicate content, 
 to overcome this add a <canonical> meta tag in the HTML file.
 Example:
-<link rel="canonical" href="https://roblesmatt.github.io/uminimo" />
+<link rel="canonical" href="https://roblesmatt.github.io/uminimo/bfree" />
   
