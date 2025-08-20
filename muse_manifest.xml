@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://uminimo.42web.io" resolutions="1x" timestamp="1755205511464">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://uminimo.42web.io" resolutions="1x" timestamp="1755646085826">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
     <file name="bfree.css" crc="134767950" ref="bfree"/>
     <file name="nomq_bfree.css" crc="3913556822" ref="bfree"/>
-    <file name="index.css" crc="205903542" ref="index"/>
-    <file name="nomq_index.css" crc="276472170" ref="index"/>
+    <file name="index.css" crc="4108407634" ref="index"/>
+    <file name="nomq_index.css" crc="4149514642" ref="index"/>
     <file name="briefing.css" crc="359261998" ref="briefing"/>
     <file name="nomq_briefing.css" crc="4291665483" ref="briefing"/>
   </folder>
@@ -133,8 +133,13 @@
     <file name="uiux.svg" crc="24529012" ref="index"/>
     <file name="marca_poster_u520748.png" crc="461284040" ref="index"/>
     <file name="uiux_poster_u520755.png" crc="4135318814" ref="index"/>
+    <file name="dog.png" crc="342244459" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dog-u510558-fr.png" crc="4060244942" ref="index"/>
+    <file name="dog-u510558-fr2.png" crc="233611939" ref="index"/>
   </folder>
-  <file name="index.html" crc="4037420506" seo="true" mt="1755205299448" redirect="true"/>
+  <file name="index.html" crc="3804416769" seo="true" mt="1755646059286" redirect="true"/>
   <file name="briefing.html" crc="456200048" seo="true" mt="1755121682713" redirect="true"/>
   <file name="bfree.html" crc="351300698" seo="true" mt="1755121682716" redirect="true"/>
 </manifest>
