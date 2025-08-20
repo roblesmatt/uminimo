@@ -40,6 +40,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: ftp.samkirkland.com
+        server: ftp.uminimo.com
         username: uminimo
         password: ${{ uminimo.ftp_password }}
