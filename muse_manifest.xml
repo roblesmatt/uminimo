@@ -1,0 +1,145 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1757703331637">
+  <folder name="css">
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="briefing.css" crc="109654953" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="bfree.css" crc="3811257149" ref="bfree"/>
+    <file name="nomq_bfree.css" crc="522628409" ref="bfree"/>
+    <file name="index.css" crc="132971596" ref="index"/>
+    <file name="nomq_index.css" crc="4266929661" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
+    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
+    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:briefing:bfree"/>
+    <file name="museutils.js" crc="3939489907" ref="index:briefing:bfree"/>
+    <file name="whatinput.js" crc="86476730" ref="index:briefing:bfree"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:briefing:bfree"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:briefing:bfree"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:briefing:bfree"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:briefing:bfree"/>
+    <file name="require.js" crc="4177726516" ref="index:briefing:bfree"/>
+    <file name="webpro.js" crc="3856315280" ref="briefing"/>
+    <file name="form_check.php" crc="4108222811" ref="briefing"/>
+    <file name="form_throttle.php" crc="503802655" ref="briefing"/>
+    <file name="form_process.php" crc="260214869" ref="briefing"/>
+    <file name="form-u509642.php" crc="223097661" ref="briefing"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4082534824" ref="index"/>
+    <file name="uminimo.svg" crc="438880562" ref="index:briefing:bfree"/>
+    <file name="uminimo_poster_u520593.png" crc="170056273" ref="index:briefing:bfree"/>
+    <file name="robles.jpg" crc="4120932972" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marca.svg" crc="3936182916" ref="index"/>
+    <file name="marca_poster_u520748.png" crc="461284040" ref="index"/>
+    <file name="ilustracao.svg" crc="454464797" ref="index"/>
+    <file name="ilustracao_poster_u520551.png" crc="3955437968" ref="index"/>
+    <file name="marketing.svg" crc="3860322477" ref="index"/>
+    <file name="marketing_poster_u520792.png" crc="4135318814" ref="index"/>
+    <file name="3d.svg" crc="132433951" ref="index"/>
+    <file name="3d_poster_u520785.png" crc="322509703" ref="index"/>
+    <file name="balao-site.jpg" crc="4034364887" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chihuahua.png" crc="456709896" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:briefing:bfree"/>
+    <file name="balao-u510491-fr.jpg" crc="4138410669" ref="index"/>
+    <file name="chihuahua-u510558-fr.png" crc="4205463562" ref="index"/>
+    <file name="balao-u510491-fr2.jpg" crc="3778694999" ref="index"/>
+    <file name="chihuahua-u510558-fr2.png" crc="119172445" ref="index"/>
+    <file name="anterior.svg" crc="421792776" ref="bfree"/>
+    <file name="anterior_poster_u520586.png" crc="286001516" ref="bfree"/>
+    <file name="proximo.svg" crc="47189384" ref="bfree"/>
+    <file name="proximo_poster_u520579.png" crc="501360552" ref="bfree"/>
+    <file name="fechar.svg" crc="163670555" ref="bfree"/>
+    <file name="fechar_poster_u520572.png" crc="73741850" ref="bfree"/>
+    <file name="logo.jpg" crc="4070300925" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="luminoso-sitec.jpg" crc="4033725967" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="bandeira.jpg" crc="3977431290" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="genero.jpg" crc="4229619256" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="etiqueta-sitec.jpg" crc="121879363" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="arara-camada 1.jpg" crc="491548839" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="balao-site2.jpg" crc="4157709668" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="bone.jpg" crc="189374027" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="sacola-logo2 copiar.jpg" crc="74330796" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="jaqueta1.jpg" crc="442837057" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="jaqueta2.jpg" crc="3778196667" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="jaqueta4.jpg" crc="339404348" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="jaqueta3.jpg" crc="4165880352" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="jaqueta5.jpg" crc="421723907" ref="bfree">
+      <caption webpage="bfree" alt=""/>
+    </file>
+    <file name="logo-u511083-fr.jpg" crc="4195362775" ref="bfree"/>
+    <file name="luminoso-u511074-fr.jpg" crc="4179563310" ref="bfree"/>
+    <file name="bandeira-u511082-fr.jpg" crc="3980251475" ref="bfree"/>
+    <file name="genero-u511223-fr.jpg" crc="425808111" ref="bfree"/>
+    <file name="etiqueta-u511081-fr.jpg" crc="449742112" ref="bfree"/>
+    <file name="arara-u511077-fr.jpg" crc="467109117" ref="bfree"/>
+    <file name="balao-u511076-fr.jpg" crc="4047804448" ref="bfree"/>
+    <file name="bone-u511079-fr.jpg" crc="407938569" ref="bfree"/>
+    <file name="sacola-u511078-fr.jpg" crc="137673319" ref="bfree"/>
+    <file name="jaqueta1-u511406-fr.jpg" crc="3937021107" ref="bfree"/>
+    <file name="jaqueta2-u511411-fr.jpg" crc="4244787931" ref="bfree"/>
+    <file name="jaqueta4-u511420-fr.jpg" crc="3822149278" ref="bfree"/>
+    <file name="jaqueta3-u511429-fr.jpg" crc="495485004" ref="bfree"/>
+    <file name="jaqueta5-u511438-fr.jpg" crc="4147483480" ref="bfree"/>
+    <file name="logo-u511083-fr2.jpg" crc="368854575" ref="bfree"/>
+    <file name="luminoso-u511074-fr2.jpg" crc="147434298" ref="bfree"/>
+    <file name="bandeira-u511082-fr2.jpg" crc="21394275" ref="bfree"/>
+    <file name="genero-u511223-fr2.jpg" crc="4048273073" ref="bfree"/>
+    <file name="etiqueta-u511081-fr2.jpg" crc="318861589" ref="bfree"/>
+    <file name="balao-u511076-fr2.jpg" crc="21395159" ref="bfree"/>
+    <file name="arara-u511077-fr2.jpg" crc="4083973957" ref="bfree"/>
+    <file name="bone-u511079-fr2.jpg" crc="3864308252" ref="bfree"/>
+    <file name="sacola-u511078-fr2.jpg" crc="357271831" ref="bfree"/>
+    <file name="jaqueta2-u511411-fr2.jpg" crc="4000505930" ref="bfree"/>
+    <file name="jaqueta3-u511429-fr2.jpg" crc="4234747542" ref="bfree"/>
+    <file name="jaqueta4-u511420-fr2.jpg" crc="3834430174" ref="bfree"/>
+    <file name="jaqueta5-u511438-fr2.jpg" crc="3854232699" ref="bfree"/>
+  </folder>
+  <file name="index.html" crc="97235857" seo="true" mt="1757703329929" redirect="true"/>
+  <file name="briefing.html" crc="4097875928" seo="true" mt="1757527401708" redirect="true"/>
+  <file name="bfree.html" crc="155938396" seo="true" mt="1757526926361" redirect="true"/>
+</manifest>
