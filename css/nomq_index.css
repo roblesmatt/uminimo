@@ -1,0 +1,206 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 500px;
+		max-width: 1210px;
+	}
+
+	#u519289-6
+	{
+		min-height: 53px;
+		width: 96.7%;
+		margin-left: 1.66%;
+	}
+
+	#pu516572
+	{
+		z-index: 10;
+		margin-top: 50px;
+		width: 100%;
+	}
+
+	#u516572
+	{
+		padding-top: 20px;
+		padding-bottom: 20.446423982929105px;
+		margin-right: -10000px;
+		width: 23.06%;
+		left: 1.66%;
+	}
+
+	#pu518807
+	{
+		width: 84.95%;
+	}
+
+	#u517034-4
+	{
+		min-height: 20px;
+		width: 83.97%;
+	}
+
+	#u516592-4
+	{
+		min-height: 35px;
+		margin-top: 14px;
+		width: 84.95%;
+		margin-left: 7.17%;
+	}
+
+	#u516573
+	{
+		padding-bottom: 20px;
+		margin-right: -10000px;
+		width: 22.9%;
+		left: 26.37%;
+	}
+
+	#u516586-4
+	{
+		min-height: 34px;
+		width: 85.56%;
+		margin-left: 7.23%;
+	}
+
+	#u516574
+	{
+		padding-bottom: 20.353455232931424px;
+		margin-right: -10000px;
+		width: 22.9%;
+		left: 50.91%;
+	}
+
+	#u516576
+	{
+		padding-bottom: 20.35345523293131px;
+		margin-right: -10000px;
+		width: 22.9%;
+		left: 75.46%;
+	}
+
+	#pu518841,#pu518825,#pu518850
+	{
+		margin-left: 20px;
+		width: 85.56%;
+	}
+
+	#u517048-4,#u517057-4,#u517066-4
+	{
+		min-height: 26px;
+		width: 83.97%;
+	}
+
+	#u516590-4,#u516589-4
+	{
+		min-height: 42px;
+		margin-top: 14px;
+		width: 85.56%;
+		margin-left: 7.23%;
+	}
+
+	#u510491
+	{
+		background-image: url("../images/balao-site.jpg?crc=4034364887");
+		width: 31.16%;
+		left: 1.66%;
+	}
+
+	#u510558
+	{
+		background-image: url("../images/chihuahua.png?crc=456709896");
+		width: 31.16%;
+		left: 34.47%;
+	}
+
+	#u510567
+	{
+		width: 31.16%;
+		left: 67.2%;
+	}
+
+	#pu510594
+	{
+		z-index: 8;
+		margin-top: 20px;
+		width: 100%;
+	}
+
+	#u510594
+	{
+		width: 31.16%;
+		left: 1.66%;
+	}
+
+	#u510576
+	{
+		width: 31.16%;
+		left: 34.47%;
+	}
+
+	#u510585
+	{
+		width: 31.16%;
+		left: 67.2%;
+	}
+
+	#u510491:hover,#u510558:hover,#u510567:hover,#u510594:hover,#u510576:hover,#u510585:hover
+	{
+		width: 31.16%;
+	}
+
+	#buttonu518771
+	{
+		padding-bottom: 14px;
+		width: 29.76%;
+		margin-left: 34.88%;
+	}
+
+	#buttonu518771:hover
+	{
+		width: 29.76%;
+		margin-left: 34.88%;
+	}
+
+	#buttonu518771.ButtonSelected
+	{
+		width: 29.76%;
+		margin-left: 34.88%;
+	}
+
+	#u518772-4
+	{
+		min-height: 12px;
+		margin-top: 13px;
+	}
+
+	#buttonu518771:hover #u518772-4
+	{
+		margin-top: 13px;
+		min-height: 12px;
+	}
+
+	#buttonu518771.ButtonSelected #u518772-4
+	{
+		margin-top: 13px;
+		min-height: 12px;
+	}
+
+	#u517471-4,#u517471-4-bw
+	{
+		min-height: 9px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 1420px);
+	}
+
