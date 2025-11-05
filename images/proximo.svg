@@ -1,0 +1,28 @@
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.173 28.347">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #aeb0b3;
+      }
+    </style>
+  </defs>
+  <title>proximo</title>
+  <g>
+    <g>
+      <rect class="cls-1" width="14.173" height="14.173"/>
+      <polygon class="cls-2" points="6.31 9.059 8.282 7.087 6.31 5.115 5.891 5.535 7.443 7.087 5.891 8.639 6.31 9.059"/>
+    </g>
+    <g>
+      <rect class="cls-1" y="14.173" width="14.173" height="14.173"/>
+      <polygon class="cls-3" points="6.31 23.232 8.282 21.26 6.31 19.288 5.891 19.708 7.443 21.26 5.891 22.812 6.31 23.232"/>
+    </g>
+  </g>
+</svg>
