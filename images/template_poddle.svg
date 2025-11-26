@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1032 1511" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-5155,-3403)">
+        <g id="template_poddle" transform="matrix(1,0,0,1,-0.90437,-1576.28)">
+            <rect x="5155.9" y="4980" width="1032" height="1509.99" style="fill:white;"/>
+            <g transform="matrix(-0.595431,7.29193e-17,-9.8332e-17,-0.802942,5674.82,10344.6)">
+                <path d="M666.962,5281.27L666.962,6200.6C666.962,6221.27 644.332,6238.05 616.459,6238.05L212.434,6238.05C184.56,6238.05 161.931,6221.27 161.931,6200.6L161.931,5281.27C161.931,5260.6 184.56,5243.82 212.434,5243.82L616.459,5243.82C644.332,5243.82 666.962,5260.6 666.962,5281.27Z" style="fill:rgb(137,103,95);"/>
+            </g>
+            <g transform="matrix(-0.763737,9.35309e-17,-9.8332e-17,-0.802942,6189.79,10344.6)">
+                <path d="M666.962,5291.86L666.962,6190.01C666.962,6216.52 644.332,6238.05 616.459,6238.05L212.434,6238.05C184.56,6238.05 161.931,6216.52 161.931,6190.01L161.931,5291.86C161.931,5265.35 184.56,5243.82 212.434,5243.82L616.459,5243.82C644.332,5243.82 666.962,5265.35 666.962,5291.86Z" style="fill:rgb(137,103,95);"/>
+            </g>
+        </g>
+    </g>
+</svg>
