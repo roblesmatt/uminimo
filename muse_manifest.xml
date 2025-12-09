@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765312612236">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765313556191">
   <folder name="css">
     <file name="site_global.css" crc="198762739"/>
-    <file name="index.css" crc="4172666762" ref="index"/>
-    <file name="nomq_index.css" crc="3793050883" ref="index"/>
+    <file name="index.css" crc="3827418240" ref="index"/>
+    <file name="nomq_index.css" crc="4140434582" ref="index"/>
     <file name="briefing.css" crc="3909747801" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
     <file name="dogzito.css" crc="4157253872" ref="dogzito"/>
@@ -148,7 +148,7 @@
     <file name="template_husky7.svg" crc="15869978" ref="dogzito"/>
     <file name="template_husky7_poster_u525221.png" crc="3771889846" ref="dogzito"/>
   </folder>
-  <file name="index.html" crc="154902070" seo="true" mt="1765312553054" redirect="true"/>
+  <file name="index.html" crc="203721071" seo="true" mt="1765313520324" redirect="true"/>
   <file name="briefing.html" crc="4108358194" seo="true" mt="1764685944038" redirect="true"/>
   <file name="dogzito.html" crc="4006738574" seo="true" mt="1765312198793" redirect="true"/>
 </manifest>
