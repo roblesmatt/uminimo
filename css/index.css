@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E4;
-	background-color: #21C480;
+	color: #0000ED;
+	background-color: #5D3731;
 }
 
 .js body
@@ -90,6 +90,13 @@
 	margin-left: 50%;
 }
 
+#pu510558
+{
+	width: 100%;
+	z-index: 4;
+	margin-top: 50px;
+}
+
 #u510558
 {
 	transition-duration: 0.3s;
@@ -102,6 +109,7 @@
 	z-index: 4;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	-webkit-transition-delay: 0s;
+	margin-right: -10000px;
 	-webkit-transition-duration: 0.3s;
 	opacity: 1;
 	background: #FFFFFF url("../images/site_chihuahua.svg?crc=147273566") no-repeat center top;
@@ -115,11 +123,11 @@
 
 #u510558:hover
 {
-	margin-bottom: 0px;
 	background-repeat: no-repeat;
 	border-radius: 500px;
 	background-position: center top;
 	min-height: 0px;
+	margin: 0px -10000px 0px 0%;
 	background-size: cover;
 }
 
@@ -135,6 +143,7 @@
 	transition-delay: 0s;
 	z-index: 24;
 	-webkit-transition-delay: 0s;
+	margin-right: -10000px;
 	-webkit-transition-duration: 0.3s;
 }
 
@@ -150,6 +159,7 @@
 	transition-delay: 0s;
 	z-index: 5;
 	-webkit-transition-delay: 0s;
+	margin-right: -10000px;
 	-webkit-transition-duration: 0.3s;
 }
 
@@ -165,14 +175,15 @@
 	transition-delay: 0s;
 	z-index: 6;
 	-webkit-transition-delay: 0s;
+	margin-right: -10000px;
 	-webkit-transition-duration: 0.3s;
 }
 
 #u523000:hover,#u510567:hover,#u510594:hover
 {
-	margin-bottom: 0px;
 	border-radius: 500px;
 	min-height: 0px;
+	margin: 0px -10000px 0px 0%;
 }
 
 #u510558 .fluid_height_spacer,#u523000 .fluid_height_spacer,#u510567 .fluid_height_spacer,#u510594 .fluid_height_spacer
@@ -1504,23 +1515,14 @@ body
 		max-width: 1210px;
 	}
 
-	#pu510558
-	{
-		z-index: 4;
-		margin-top: 50px;
-		width: 100%;
-	}
-
 	#u510558
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 3.31%;
 	}
 
 	#u510567
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 50.83%;
 	}
@@ -1534,24 +1536,19 @@ body
 
 	#u523000
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 3.31%;
 	}
 
 	#u510594
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 50.83%;
 	}
 
 	#u510558:hover,#u510567:hover,#u523000:hover,#u510594:hover
 	{
-		margin-right: -10000px;
-		margin-top: 0px;
 		width: 45.87%;
-		margin-left: 0%;
 	}
 
 	#pu523491
@@ -1714,23 +1711,14 @@ body
 		max-width: 860px;
 	}
 
-	#pu510558
-	{
-		z-index: 4;
-		margin-top: 50px;
-		width: 100%;
-	}
-
 	#u510558
 	{
-		margin-right: -10000px;
 		width: 41.87%;
 		left: 6.98%;
 	}
 
 	#u510567
 	{
-		margin-right: -10000px;
 		width: 41.87%;
 		left: 51.17%;
 	}
@@ -1744,24 +1732,19 @@ body
 
 	#u523000
 	{
-		margin-right: -10000px;
 		width: 41.87%;
 		left: 6.98%;
 	}
 
 	#u510594
 	{
-		margin-right: -10000px;
 		width: 41.87%;
 		left: 51.17%;
 	}
 
 	#u510558:hover,#u510567:hover,#u523000:hover,#u510594:hover
 	{
-		margin-right: -10000px;
-		margin-top: 0px;
 		width: 41.87%;
-		margin-left: 0%;
 	}
 
 	#pu523491
@@ -1922,58 +1905,50 @@ body
 
 	#u510558
 	{
-		margin-top: 50px;
-		width: 83.34%;
-		margin-left: 8.34%;
-	}
-
-	#u510558:hover
-	{
-		margin-right: 0px;
-		margin-top: 50px;
-		width: 83.34%;
-		margin-left: 8.34%;
+		width: 39.59%;
+		left: 8.34%;
 	}
 
 	#u523000
 	{
+		width: 39.59%;
+		left: 52.09%;
+	}
+
+	#pu510567
+	{
+		z-index: 5;
 		margin-top: 20px;
-		width: 83.34%;
-		margin-left: 8.34%;
+		width: 100%;
 	}
 
 	#u510567
 	{
-		margin-top: 20px;
-		width: 83.34%;
-		margin-left: 8.34%;
+		width: 39.59%;
+		left: 8.34%;
 	}
 
 	#u510594
 	{
-		margin-top: 20px;
-		width: 83.34%;
-		margin-left: 8.34%;
+		width: 39.59%;
+		left: 52.09%;
 	}
 
-	#u523000:hover,#u510567:hover,#u510594:hover
+	#u510558:hover,#u523000:hover,#u510567:hover,#u510594:hover
 	{
-		margin-right: 0px;
-		margin-top: 20px;
-		width: 83.34%;
-		margin-left: 8.34%;
+		width: 39.59%;
 	}
 
-	#u523491,#u523503,#u523512
+	#u523491
 	{
-		margin-top: 20px;
+		margin-top: 50px;
 		width: 83.34%;
 		margin-left: 8.13%;
 	}
 
-	#u523520
+	#u523503,#u523512,#u523520
 	{
-		margin-top: 21px;
+		margin-top: 20px;
 		width: 83.34%;
 		margin-left: 8.13%;
 	}
@@ -2031,21 +2006,21 @@ body
 	#buttonu518771
 	{
 		padding-bottom: 13px;
-		margin-top: 47px;
+		margin-top: 48px;
 		width: 75%;
 		margin-left: 11.88%;
 	}
 
 	#buttonu518771:hover
 	{
-		margin-top: 47px;
+		margin-top: 48px;
 		width: 75%;
 		margin-left: 11.88%;
 	}
 
 	#buttonu518771.ButtonSelected
 	{
-		margin-top: 47px;
+		margin-top: 48px;
 		width: 75%;
 		margin-left: 11.88%;
 	}
@@ -2080,7 +2055,7 @@ body
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 2571px);
+		height: calc(100vh - 1341px);
 	}
 
 	body

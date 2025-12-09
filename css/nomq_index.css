@@ -15,23 +15,14 @@
 		max-width: 1210px;
 	}
 
-	#pu510558
-	{
-		z-index: 4;
-		margin-top: 50px;
-		width: 100%;
-	}
-
 	#u510558
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 3.31%;
 	}
 
 	#u510567
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 50.83%;
 	}
@@ -45,24 +36,19 @@
 
 	#u523000
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 3.31%;
 	}
 
 	#u510594
 	{
-		margin-right: -10000px;
 		width: 45.87%;
 		left: 50.83%;
 	}
 
 	#u510558:hover,#u510567:hover,#u523000:hover,#u510594:hover
 	{
-		margin-right: -10000px;
-		margin-top: 0px;
 		width: 45.87%;
-		margin-left: 0%;
 	}
 
 	#pu523491
