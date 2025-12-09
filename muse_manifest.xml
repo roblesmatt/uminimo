@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765301809105">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765303979801">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="index.css" crc="88116996" ref="index"/>
+    <file name="index.css" crc="477163804" ref="index"/>
     <file name="nomq_index.css" crc="75568746" ref="index"/>
-    <file name="dogzito.css" crc="3862831362" ref="dogzito"/>
-    <file name="nomq_dogzito.css" crc="3310995" ref="dogzito"/>
-    <file name="briefing.css" crc="4058842535" ref="briefing"/>
+    <file name="briefing.css" crc="236164653" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="dogzito.css" crc="261682533" ref="dogzito"/>
+    <file name="nomq_dogzito.css" crc="3310995" ref="dogzito"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
@@ -91,8 +91,8 @@
     <file name="responsivo_poster_u525966.png" crc="249196975" ref="dogzito"/>
     <file name="desktop.svg" crc="4067675167" ref="dogzito"/>
     <file name="desktop_poster_u526211.png" crc="498412486" ref="dogzito"/>
-    <file name="desktop1.svg" crc="257434720" ref="dogzito"/>
-    <file name="desktop1_poster_u526217.png" crc="254530979" ref="dogzito"/>
+    <file name="desktop1.svg" crc="73282281" ref="dogzito"/>
+    <file name="desktop1_poster_u526223.png" crc="3951796443" ref="dogzito"/>
     <file name="ipad.svg" crc="3865980594" seo="true" ref="dogzito">
       <caption webpage="dogzito" alt=""/>
       <caption webpage="dogzito" alt=""/>
@@ -148,7 +148,7 @@
     <file name="template_husky7.svg" crc="15869978" ref="dogzito"/>
     <file name="template_husky7_poster_u525221.png" crc="3771889846" ref="dogzito"/>
   </folder>
-  <file name="index.html" crc="3999052373" seo="true" mt="1765301285260" redirect="true"/>
-  <file name="briefing.html" crc="4129735375" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="dogzito.html" crc="140555704" seo="true" mt="1765301691048" redirect="true"/>
+  <file name="index.html" crc="79404318" seo="true" mt="1765303551674" redirect="true"/>
+  <file name="briefing.html" crc="317177511" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="dogzito.html" crc="3773389261" seo="true" mt="1765303554418" redirect="true"/>
 </manifest>
