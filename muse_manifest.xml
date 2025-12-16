@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765844535270">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765846278176">
   <folder name="css">
-    <file name="site_global.css" crc="4162226542"/>
-    <file name="dogzito.css" crc="3812458198" ref="dogzito"/>
-    <file name="nomq_dogzito.css" crc="4040144389" ref="dogzito"/>
-    <file name="briefing.css" crc="257211078" ref="briefing"/>
-    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="index.css" crc="486376404" ref="index"/>
+    <file name="site_global.css" crc="198762739"/>
+    <file name="index.css" crc="4036065251" ref="index"/>
     <file name="nomq_index.css" crc="3947343682" ref="index"/>
+    <file name="briefing.css" crc="348005263" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="dogzito.css" crc="3935524706" ref="dogzito"/>
+    <file name="nomq_dogzito.css" crc="4040144389" ref="dogzito"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
     <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
     <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
@@ -87,12 +87,12 @@
     <file name="site_golden_poster_u522315.png" crc="452166237" ref="dogzito"/>
     <file name="site_poodle.svg" crc="4294298198" ref="dogzito"/>
     <file name="site_poodle_poster_u522291.png" crc="3909222684" ref="dogzito"/>
-    <file name="responsivo.svg" crc="4236856194" ref="dogzito"/>
-    <file name="responsivo_poster_u526640.png" crc="520719061" ref="dogzito"/>
-    <file name="desktop.svg" crc="503188258" ref="dogzito"/>
-    <file name="desktop_poster_u526618.png" crc="4014657038" ref="dogzito"/>
-    <file name="desktop1.svg" crc="3881578946" ref="dogzito"/>
-    <file name="desktop1_poster_u526632.png" crc="4184958238" ref="dogzito"/>
+    <file name="responsivo.svg" crc="370288607" ref="dogzito"/>
+    <file name="responsivo_poster_u526648.png" crc="4126621206" ref="dogzito"/>
+    <file name="desktop.svg" crc="438186617" ref="dogzito"/>
+    <file name="desktop_poster_u526664.png" crc="3953266162" ref="dogzito"/>
+    <file name="desktop1.svg" crc="3789172701" ref="dogzito"/>
+    <file name="desktop1_poster_u526656.png" crc="140846819" ref="dogzito"/>
     <file name="ipad.svg" crc="417731877" ref="dogzito"/>
     <file name="ipad_poster_u526610.png" crc="3868174482" ref="dogzito"/>
     <file name="ipad1.svg" crc="4013091115" ref="dogzito"/>
@@ -140,7 +140,7 @@
     <file name="template_husky7.svg" crc="15869978" ref="dogzito"/>
     <file name="template_husky7_poster_u525221.png" crc="3771889846" ref="dogzito"/>
   </folder>
-  <file name="index.html" crc="4285322958" seo="true" mt="1765844313524" redirect="true"/>
-  <file name="briefing.html" crc="3902563069" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="dogzito.html" crc="306979513" seo="true" mt="1765844490269" redirect="true"/>
+  <file name="index.html" crc="177371177" seo="true" mt="1765846228054" redirect="true"/>
+  <file name="briefing.html" crc="3919410057" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="dogzito.html" crc="295153315" seo="true" mt="1765845553574" redirect="true"/>
 </manifest>
