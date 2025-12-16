@@ -59,7 +59,7 @@
 
 	#pu521316
 	{
-		z-index: 49;
+		z-index: 47;
 		margin-top: 50px;
 		width: 100%;
 		left: 0%;
@@ -80,7 +80,7 @@
 
 	#pu524864
 	{
-		z-index: 29;
+		z-index: 27;
 		margin-top: 20px;
 		width: 100%;
 		left: 0%;
@@ -94,7 +94,7 @@
 
 	#pu521320
 	{
-		z-index: 50;
+		z-index: 48;
 		margin-top: 20px;
 		width: 100%;
 		left: 0%;
@@ -150,8 +150,9 @@
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u525647,.nosvg #u526202,#u526197
+	#u526197
 	{
+		margin-top: 20px;
 		margin-left: 1.71%;
 	}
 
@@ -160,50 +161,55 @@
 		padding-bottom: 64.78632478632478%;
 	}
 
-	#pu526007
+	#pu526495
 	{
 		z-index: 7;
-		margin-top: 19px;
+		margin-top: 20px;
 		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
 	}
 
-	#u521316,#u524864,#u526007
+	#u526495 .fluid_height_spacer,#u526570 .fluid_height_spacer
 	{
-		margin-right: -10000px;
-		width: 49.15%;
+		padding-bottom: 133.7391304347826%;
 	}
 
 	#pu526057
 	{
-		z-index: 13;
-		margin-top: 19px;
+		z-index: 4;
+		margin-top: 20px;
 		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
 	}
 
-	#u526057
+	#u521316,#u524864,#u526495,#u526057
 	{
 		margin-right: -10000px;
-		margin-top: 1px;
 		width: 49.15%;
 	}
 
-	#u524873,#u526022,#u526037
+	#u526054
+	{
+		margin-bottom: 0.17391304347826086%;
+		width: 99.83%;
+	}
+
+	#u524873,#u526570,#u526037
 	{
 		margin-right: -10000px;
 		width: 49.15%;
 		left: 50.86%;
 	}
 
-	.nosvg #u526197,#u521310
+	#u521310
 	{
+		margin-top: 19px;
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u521310
+	.nosvg #u525647,.nosvg #u526202,.nosvg #u526197,.nosvg #u521310
 	{
 		margin-left: 1.71%;
 	}
@@ -224,7 +230,7 @@
 
 	#pu521324
 	{
-		z-index: 22;
+		z-index: 20;
 		margin-right: -10000px;
 		width: 49.15%;
 	}
@@ -238,14 +244,14 @@
 
 	#pu521312
 	{
-		z-index: 24;
+		z-index: 22;
 		margin-right: -10000px;
 		width: 48.18%;
 	}
 
 	#pu525035
 	{
-		z-index: 26;
+		z-index: 24;
 		margin-right: -10000px;
 		width: 48.18%;
 		margin-left: 51.83%;
@@ -256,9 +262,14 @@
 		padding-bottom: 177.9783393501805%;
 	}
 
+	#u525044
+	{
+		margin-top: 20px;
+	}
+
 	#pu521314
 	{
-		z-index: 23;
+		z-index: 21;
 		margin-right: -10000px;
 		width: 49.15%;
 		margin-left: 50.86%;
@@ -293,7 +304,6 @@
 
 	#u521309
 	{
-		margin-top: 20px;
 		margin-left: 51.71%;
 	}
 
@@ -304,7 +314,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 16228px);
+		height: calc(100vh - 16154px);
 	}
 
 

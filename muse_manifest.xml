@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765315331151">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1765844535270">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="index.css" crc="3999482672" ref="index"/>
-    <file name="nomq_index.css" crc="3793050883" ref="index"/>
-    <file name="briefing.css" crc="3889562263" ref="briefing"/>
+    <file name="dogzito.css" crc="3812458198" ref="dogzito"/>
+    <file name="nomq_dogzito.css" crc="4040144389" ref="dogzito"/>
+    <file name="briefing.css" crc="257211078" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="dogzito.css" crc="59488684" ref="dogzito"/>
-    <file name="nomq_dogzito.css" crc="3310995" ref="dogzito"/>
+    <file name="index.css" crc="486376404" ref="index"/>
+    <file name="nomq_index.css" crc="3947343682" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
     <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
     <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
@@ -87,36 +87,28 @@
     <file name="site_golden_poster_u522315.png" crc="452166237" ref="dogzito"/>
     <file name="site_poodle.svg" crc="4294298198" ref="dogzito"/>
     <file name="site_poodle_poster_u522291.png" crc="3909222684" ref="dogzito"/>
-    <file name="responsivo.svg" crc="3975145987" ref="dogzito"/>
-    <file name="responsivo_poster_u525966.png" crc="249196975" ref="dogzito"/>
-    <file name="desktop.svg" crc="4067675167" ref="dogzito"/>
-    <file name="desktop_poster_u526211.png" crc="498412486" ref="dogzito"/>
-    <file name="desktop1.svg" crc="73282281" ref="dogzito"/>
-    <file name="desktop1_poster_u526223.png" crc="3951796443" ref="dogzito"/>
-    <file name="ipad.svg" crc="3865980594" seo="true" ref="dogzito">
+    <file name="responsivo.svg" crc="4236856194" ref="dogzito"/>
+    <file name="responsivo_poster_u526640.png" crc="520719061" ref="dogzito"/>
+    <file name="desktop.svg" crc="503188258" ref="dogzito"/>
+    <file name="desktop_poster_u526618.png" crc="4014657038" ref="dogzito"/>
+    <file name="desktop1.svg" crc="3881578946" ref="dogzito"/>
+    <file name="desktop1_poster_u526632.png" crc="4184958238" ref="dogzito"/>
+    <file name="ipad.svg" crc="417731877" ref="dogzito"/>
+    <file name="ipad_poster_u526610.png" crc="3868174482" ref="dogzito"/>
+    <file name="ipad1.svg" crc="4013091115" ref="dogzito"/>
+    <file name="ipad1_poster_u526602.png" crc="4176404158" ref="dogzito"/>
+    <file name="iphone1.svg" crc="4210425551" seo="true" ref="dogzito">
       <caption webpage="dogzito" alt=""/>
       <caption webpage="dogzito" alt=""/>
       <caption webpage="dogzito" alt=""/>
     </file>
-    <file name="ipad_poster_.png" crc="4135167619" ref="dogzito"/>
-    <file name="ipad1.svg" crc="460296357" seo="true" ref="dogzito">
+    <file name="iphone1_poster_.png" crc="128208070" ref="dogzito"/>
+    <file name="iphone.svg" crc="3988439012" seo="true" ref="dogzito">
       <caption webpage="dogzito" alt=""/>
       <caption webpage="dogzito" alt=""/>
       <caption webpage="dogzito" alt=""/>
     </file>
-    <file name="ipad1_poster_.png" crc="3873619152" ref="dogzito"/>
-    <file name="iphone1.svg" crc="125772781" seo="true" ref="dogzito">
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-    </file>
-    <file name="iphone1_poster_.png" crc="161704427" ref="dogzito"/>
-    <file name="iphone.svg" crc="4064315326" seo="true" ref="dogzito">
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-    </file>
-    <file name="iphone_poster_.png" crc="69839752" ref="dogzito"/>
+    <file name="iphone_poster_.png" crc="120075458" ref="dogzito"/>
     <file name="template_todos.svg" crc="511236894" ref="dogzito"/>
     <file name="template_todos_poster_u525234.png" crc="4155246194" ref="dogzito"/>
     <file name="template_poddle.svg" crc="3891622955" ref="dogzito"/>
@@ -148,7 +140,7 @@
     <file name="template_husky7.svg" crc="15869978" ref="dogzito"/>
     <file name="template_husky7_poster_u525221.png" crc="3771889846" ref="dogzito"/>
   </folder>
-  <file name="index.html" crc="48623868" seo="true" mt="1765315265308" redirect="true"/>
-  <file name="briefing.html" crc="238197736" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="dogzito.html" crc="139661150" seo="true" mt="1765312198793" redirect="true"/>
+  <file name="index.html" crc="4285322958" seo="true" mt="1765844313524" redirect="true"/>
+  <file name="briefing.html" crc="3902563069" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="dogzito.html" crc="306979513" seo="true" mt="1765844490269" redirect="true"/>
 </manifest>
