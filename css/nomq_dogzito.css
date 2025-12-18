@@ -128,14 +128,14 @@
 		padding-bottom: 125%;
 	}
 
-	#u526109 .fluid_height_spacer
-	{
-		padding-bottom: 48.205128205128204%;
-	}
-
-	#pu522903,#u526109,#u525647
+	#pu522903,#u526109
 	{
 		margin-top: 20px;
+		margin-left: 1.71%;
+	}
+
+	.nosvg #u526109,#u525647
+	{
 		margin-left: 1.71%;
 	}
 
@@ -144,15 +144,13 @@
 		padding-bottom: 58.119658119658126%;
 	}
 
-	#u526202
+	.nosvg #u525647,#u526202
 	{
-		margin-top: 20px;
 		margin-left: 1.71%;
 	}
 
-	#u526197
+	.nosvg #u526202,#u526197
 	{
-		margin-top: 20px;
 		margin-left: 1.71%;
 	}
 
@@ -209,7 +207,7 @@
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u525647,.nosvg #u526202,.nosvg #u526197,.nosvg #u521310
+	.nosvg #u526197,.nosvg #u521310
 	{
 		margin-left: 1.71%;
 	}
@@ -262,11 +260,6 @@
 		padding-bottom: 177.9783393501805%;
 	}
 
-	#u525044
-	{
-		margin-top: 20px;
-	}
-
 	#pu521314
 	{
 		z-index: 21;
@@ -304,6 +297,7 @@
 
 	#u521309
 	{
+		margin-top: 20px;
 		margin-left: 51.71%;
 	}
 
@@ -314,7 +308,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 16154px);
+		height: calc(100vh - 16760px);
 	}
 
 
