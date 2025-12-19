@@ -1,7 +1,16 @@
 .version.dogzito /* version checker */
 {
-	color: #0000F9;
-	background-color: #D891DA;
+	color: #000009;
+	background-color: #A837BA;
+}
+
+@font-face
+{
+	font-family: '__Open Sans_5';
+	src: url('../fonts/opensans-bolditalic-webfont.eot');
+	src: local('☺'), url('../fonts/opensans-bolditalic-webfont.woff') format('woff'), url('../fonts/opensans-bolditalic-webfont.svg') format('svg');
+	font-weight: 700;
+	font-style: italic;
 }
 
 @font-face
@@ -22,35 +31,26 @@
 	font-style: normal;
 }
 
-@font-face
-{
-	font-family: '__Open Sans_5';
-	src: url('../fonts/opensans-bolditalic-webfont.eot');
-	src: local('☺'), url('../fonts/opensans-bolditalic-webfont.woff') format('woff'), url('../fonts/opensans-bolditalic-webfont.svg') format('svg');
-	font-weight: 700;
-	font-style: italic;
-}
-
 #page
 {
-	border-width: 0px;
-	border-color: #000000;
-	background-color: #F1F1F1;
 	background-image: none;
 	margin-left: auto;
-	width: 100%;
+	border-color: #000000;
+	border-width: 0px;
 	margin-right: auto;
 	z-index: 1;
+	width: 100%;
+	background-color: #F1F1F1;
 }
 
 #buttonu524045
 {
-	border-color: #787878;
-	background-color: #FFFFFF;
-	position: fixed;
-	top: 0px;
-	z-index: 54;
 	min-height: 55px;
+	border-color: #787878;
+	position: fixed;
+	z-index: 54;
+	top: 0px;
+	background-color: #FFFFFF;
 }
 
 #buttonu524045:hover
@@ -74,15 +74,15 @@
 
 #buttonu524224
 {
-	width: 55px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	height: 55px;
-	filter: alpha(opacity=100);
-	z-index: 69;
-	position: relative;
 	border-color: #787878;
-	margin-right: -10000px;
 	opacity: 1;
+	z-index: 69;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	margin-right: -10000px;
+	position: relative;
+	width: 55px;
+	height: 55px;
 	background: #FFFFFF url("../images/anterior1.svg?crc=430490106") no-repeat center bottom;
 	background-size: cover;
 }
@@ -94,162 +94,162 @@
 
 #buttonu524224:hover
 {
+	height: 55px;
 	width: 55px;
-	background-position: center bottom;
 	min-height: 0px;
 	background-repeat: no-repeat;
-	height: 55px;
+	background-position: center bottom;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
 #buttonu524224:active
 {
+	height: 55px;
 	width: 55px;
-	background-position: center bottom;
 	min-height: 0px;
 	background-repeat: no-repeat;
-	height: 55px;
+	background-position: center bottom;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
 #buttonu524224.ButtonSelected
 {
+	height: 55px;
 	width: 55px;
-	background-position: center bottom;
 	min-height: 0px;
 	background-repeat: no-repeat;
-	height: 55px;
+	background-position: center bottom;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
 }
 
 #u524074-4
 {
-	font-family: '__Open Sans_5';
-	letter-spacing: 0px;
-	position: relative;
 	color: #B4B4B4;
-	line-height: 3.4;
+	letter-spacing: 0px;
+	font-family: '__Open Sans_5';
+	position: relative;
 	z-index: 59;
 	background-color: transparent;
-	margin-right: -10000px;
-	min-height: 55px;
 	font-weight: 700;
-	width: 35px;
+	line-height: 3.4;
+	min-height: 55px;
 	text-align: center;
+	width: 35px;
 	font-size: 16px;
+	margin-right: -10000px;
 }
 
 #buttonu524045:hover #u524074-4
 {
-	padding-top: 0px;
-	min-height: 55px;
-	width: 35px;
 	padding-bottom: 0px;
+	min-height: 55px;
+	padding-top: 0px;
+	width: 35px;
 	margin: 0px -10000px 0px 0%;
 }
 
 #buttonu524045:hover #u524074-4 p
 {
-	text-align: center;
 	line-height: 3.4;
 	font-size: 16px;
+	text-align: center;
 }
 
 #u524073-4
 {
-	font-family: '__Open Sans_5';
-	letter-spacing: 0px;
-	position: relative;
 	color: #B4B4B4;
-	line-height: 3.4;
+	letter-spacing: 0px;
+	font-family: '__Open Sans_5';
+	position: relative;
 	z-index: 55;
 	background-color: transparent;
-	margin-right: -10000px;
-	min-height: 55px;
 	font-weight: 700;
-	width: 35px;
+	line-height: 3.4;
+	min-height: 55px;
 	text-align: center;
+	width: 35px;
 	font-size: 16px;
+	margin-right: -10000px;
 }
 
 #buttonu524045.ButtonSelected #u524074-4,#buttonu524045:hover #u524073-4
 {
-	padding-top: 0px;
-	min-height: 55px;
-	width: 35px;
 	padding-bottom: 0px;
+	min-height: 55px;
+	padding-top: 0px;
+	width: 35px;
 	margin: 0px -10000px 0px 0%;
 }
 
 #buttonu524045.ButtonSelected #u524074-4 p,#buttonu524045:hover #u524073-4 p
 {
-	text-align: center;
 	line-height: 3.4;
 	font-size: 16px;
+	text-align: center;
 }
 
 #u524075-4
 {
-	font-family: '__Open Sans_5';
 	letter-spacing: 0px;
+	font-family: '__Open Sans_5';
 	position: relative;
-	line-height: 3.4;
 	z-index: 63;
 	background-color: transparent;
-	margin-right: -10000px;
-	min-height: 55px;
 	font-weight: 700;
+	line-height: 3.4;
+	min-height: 55px;
+	margin-right: -10000px;
 	width: 35px;
-	text-align: center;
 	font-size: 16px;
+	text-align: center;
 }
 
 #buttonu524045.ButtonSelected #u524073-4,#buttonu524045:hover #u524075-4
 {
-	padding-top: 0px;
-	min-height: 55px;
-	width: 35px;
 	padding-bottom: 0px;
+	min-height: 55px;
+	padding-top: 0px;
+	width: 35px;
 	margin: 0px -10000px 0px 0%;
 }
 
 #buttonu524045.ButtonSelected #u524075-4
 {
-	padding-top: 0px;
-	min-height: 55px;
-	width: 35px;
 	padding-bottom: 0px;
+	min-height: 55px;
+	padding-top: 0px;
+	width: 35px;
 	margin: 0px -10000px 0px 0%;
 }
 
 #buttonu524045.ButtonSelected #u524073-4 p,#buttonu524045:hover #u524075-4 p
 {
-	text-align: center;
 	line-height: 3.4;
 	font-size: 16px;
+	text-align: center;
 }
 
 #buttonu524045.ButtonSelected #u524075-4 p
 {
-	text-align: center;
 	line-height: 3.4;
 	font-size: 16px;
+	text-align: center;
 }
 
 #buttonu524207
 {
-	width: 55px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	height: 55px;
-	filter: alpha(opacity=100);
-	z-index: 68;
-	position: relative;
 	border-color: #787878;
-	margin-right: -10000px;
 	opacity: 1;
+	z-index: 68;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	margin-right: -10000px;
+	position: relative;
+	width: 55px;
+	height: 55px;
 	background: #FFFFFF url("../images/proximo1.svg?crc=329782524") no-repeat center bottom;
 	background-size: cover;
 }
@@ -261,22 +261,22 @@
 
 #buttonu524207:hover
 {
+	height: 55px;
 	width: 55px;
 	min-height: 0px;
 	background-repeat: no-repeat;
 	background-position: center bottom;
-	height: 55px;
 	margin: 0px -10000px 0px 0%;
 	background-size: cover;
 }
 
 #buttonu524207.ButtonSelected
 {
+	height: 55px;
 	width: 55px;
 	min-height: 0px;
 	background-repeat: no-repeat;
 	background-position: center bottom;
-	height: 55px;
 	margin: 0px -10000px 0px 0%;
 	background-size: cover;
 }
@@ -284,47 +284,47 @@
 #buttonu524189
 {
 	left: -55px;
-	width: 55px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	height: 55px;
-	filter: alpha(opacity=100);
-	z-index: 67;
-	position: relative;
-	margin-left: 100%;
 	border-color: #787878;
-	margin-right: -10000px;
 	opacity: 1;
+	z-index: 67;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	margin-left: 100%;
+	margin-right: -10000px;
+	position: relative;
+	width: 55px;
+	height: 55px;
 	background: #FFFFFF url("../images/fechar.svg?crc=4163833896") no-repeat center top;
 	background-size: cover;
 }
 
 .nosvg #buttonu524189
 {
+	background-image: url('../images/fechar_poster_u524618.png?crc=4121185911');
 	margin-left: 100%;
 	left: -55px;
-	background-image: url('../images/fechar_poster_u524618.png?crc=4121185911');
 }
 
 #buttonu524189:hover
 {
-	left: -55px;
+	height: 55px;
 	width: 55px;
 	min-height: 0px;
 	background-repeat: no-repeat;
+	left: -55px;
 	background-position: center bottom;
-	height: 55px;
 	margin: 0px -10000px 0px 100%;
 	background-size: cover;
 }
 
 #buttonu524189:active
 {
-	left: -55px;
+	height: 55px;
 	width: 55px;
 	min-height: 0px;
 	background-repeat: no-repeat;
+	left: -55px;
 	background-position: center top;
-	height: 55px;
 	margin: 0px -10000px 0px 100%;
 	background-size: cover;
 }
@@ -336,58 +336,58 @@
 
 #pu521319
 {
+	z-index: 30;
 	margin-top: 105px;
 	margin-right: -10000px;
-	z-index: 30;
 }
 
 #u521319
 {
-	left: 0%;
-	background-color: #FFFFFF;
-	position: relative;
-	border-radius: 10px;
 	padding-bottom: 30px;
+	left: 0%;
+	border-radius: 10px;
+	position: relative;
 	z-index: 30;
+	background-color: #FFFFFF;
 }
 
 #u521313-13
 {
-	font-family: '__Open Sans_5';
 	color: #000000;
-	margin-top: 30px;
+	font-family: '__Open Sans_5';
 	position: relative;
-	line-height: 2;
 	z-index: 31;
+	margin-top: 30px;
 	background-color: transparent;
-	margin-right: -10000px;
 	font-weight: 400;
-	text-align: justify;
+	line-height: 2;
+	margin-right: -10000px;
 	font-size: 13px;
+	text-align: justify;
 }
 
 #u521313
 {
-	font-family: '__Open Sans_5';
 	font-weight: 700;
 	font-style: italic;
+	font-family: '__Open Sans_5';
 }
 
 #u521313-3,#u521313-5,#u521313-7,#u521313-9
 {
-	font-family: '__Open Sans_5';
 	font-weight: 700;
+	font-family: '__Open Sans_5';
 }
 
 #u521316
 {
-	border-width: 0px;
+	border-radius: 10px;
+	border-color: transparent;
+	z-index: 47;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 47;
-	border-color: transparent;
+	border-width: 0px;
 	opacity: 1;
 	background: transparent url("../images/logo_site_1.svg?crc=514809865") no-repeat center center;
 	background-size: cover;
@@ -400,11 +400,11 @@
 
 #u521322
 {
+	border-radius: 10px;
+	z-index: 44;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 44;
 	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/logo_site_2.svg?crc=4051033416") no-repeat center center;
@@ -418,11 +418,11 @@
 
 #u521445
 {
+	border-radius: 10px;
+	z-index: 52;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 52;
 	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/logo_site_3.svg?crc=3820901826") no-repeat center center;
@@ -436,43 +436,43 @@
 
 #u524864
 {
-	background-color: #FFFFFF;
-	position: relative;
 	border-radius: 10px;
+	position: relative;
 	z-index: 27;
+	background-color: #FFFFFF;
 }
 
 #u524873
 {
-	background-color: #FFFFFF;
-	position: relative;
 	border-radius: 10px;
+	position: relative;
 	z-index: 28;
+	background-color: #FFFFFF;
 }
 
 #pu522903
 {
-	left: 0%;
-	width: 100%;
 	z-index: 29;
+	width: 100%;
+	left: 0%;
 }
 
 #u522903
 {
-	background-color: #6898CC;
-	position: relative;
 	border-radius: 10px;
 	margin-right: -10000px;
+	position: relative;
 	z-index: 29;
+	background-color: #6898CC;
 }
 
 #u521311
 {
+	border-radius: 10px;
+	z-index: 45;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 45;
 	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_chihuahua.svg?crc=147273566") no-repeat center center;
@@ -486,11 +486,11 @@
 
 #u521317
 {
+	border-radius: 10px;
+	z-index: 46;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 46;
 	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_husky.svg?crc=197483678") no-repeat center center;
@@ -504,11 +504,11 @@
 
 #u521320
 {
+	border-radius: 10px;
+	z-index: 48;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 48;
 	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_buldogue.svg?crc=87151301") no-repeat center top;
@@ -522,11 +522,11 @@
 
 #u521318
 {
+	border-radius: 10px;
+	z-index: 50;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 50;
 	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_golden.svg?crc=87063267") no-repeat center center;
@@ -540,11 +540,11 @@
 
 #u521640
 {
+	border-radius: 10px;
+	z-index: 53;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 53;
 	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_poodle.svg?crc=4294298198") no-repeat center center;
@@ -559,35 +559,35 @@
 #u526109
 {
 	left: 0%;
-	width: 100%;
+	border-radius: 10px;
+	z-index: 11;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 11;
+	width: 100%;
 	opacity: 1;
-	background: #FFFFFF url("../images/icones.svg?crc=509215176") no-repeat center center;
+	background: #FFFFFF url("../images/icones.svg?crc=4169888084") no-repeat center center;
 	background-size: contain;
 }
 
 .nosvg #u526109
 {
+	background-image: url('../images/icones_poster_u526759.png?crc=4280607186');
 	left: 0%;
-	background-image: url('../images/icones_poster_u526737.png?crc=425802198');
 }
 
 #u525647
 {
-	border-width: 0px;
 	left: 0%;
-	width: 100%;
+	border-radius: 10px;
+	border-color: transparent;
 	margin-top: 20px;
+	z-index: 12;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 12;
-	border-color: transparent;
+	border-width: 0px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/responsivo.svg?crc=370288607") no-repeat center center;
 	background-size: contain;
@@ -595,18 +595,18 @@
 
 .nosvg #u525647
 {
-	left: 0%;
 	background-image: url('../images/responsivo_poster_u526648.png?crc=4126621206');
+	left: 0%;
 }
 
 #u526202
 {
 	left: 0%;
 	margin-top: 20px;
+	z-index: 9;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	filter: alpha(opacity=100);
-	z-index: 9;
 	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/desktop.svg?crc=259178626") no-repeat left top;
@@ -615,20 +615,20 @@
 
 .nosvg #u526202
 {
-	left: 0%;
 	background-image: url('../images/desktop_poster_u526705.png?crc=309542668');
+	left: 0%;
 }
 
 #u526197
 {
 	left: 0%;
-	width: 100%;
+	border-radius: 10px;
 	margin-top: 20px;
+	z-index: 6;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 6;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/desktop1.svg?crc=185820961") no-repeat left top;
 	background-size: contain;
@@ -636,16 +636,16 @@
 
 .nosvg #u526197
 {
-	left: 0%;
 	background-image: url('../images/desktop1_poster_u526713.png?crc=4088320866');
+	left: 0%;
 }
 
 #u526495
 {
+	z-index: 7;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	filter: alpha(opacity=100);
-	z-index: 7;
 	opacity: 1;
 	background: transparent url("../images/ipad.svg?crc=4020553433") no-repeat left top;
 	background-size: contain;
@@ -658,11 +658,11 @@
 
 #u526570
 {
+	border-radius: 10px;
+	z-index: 8;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 8;
 	opacity: 1;
 	background: transparent url("../images/ipad1.svg?crc=3759694799") no-repeat left top;
 	background-size: contain;
@@ -675,41 +675,41 @@
 
 #u526037
 {
-	background-color: transparent;
 	position: relative;
 	z-index: 2;
+	background-color: transparent;
 }
 
 #u526034
 {
+	z-index: 3;
 	width: 100%;
 	display: block;
-	z-index: 3;
 }
 
 #u526057
 {
-	background-color: transparent;
-	position: relative;
 	border-radius: 10px;
+	position: relative;
 	z-index: 4;
+	background-color: transparent;
 }
 
 #u526054
 {
-	display: block;
 	z-index: 5;
+	display: block;
 }
 
 #u521310
 {
 	left: 0%;
-	width: 100%;
+	border-radius: 10px;
+	z-index: 49;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 49;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_todos.svg?crc=511236894") no-repeat center center;
 	background-size: cover;
@@ -717,17 +717,17 @@
 
 .nosvg #u521310
 {
-	left: 0%;
 	background-image: url('../images/template_todos_poster_u525234.png?crc=4155246194');
+	left: 0%;
 }
 
 #u521324
 {
+	border-radius: 10px;
+	z-index: 20;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 20;
 	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_poddle.svg?crc=3891622955") no-repeat center center;
@@ -741,11 +741,11 @@
 
 #u521314
 {
+	border-radius: 10px;
+	z-index: 21;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 21;
 	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_chihuahua.svg?crc=3826605889") no-repeat center center;
@@ -759,11 +759,11 @@
 
 #u521312
 {
+	border-radius: 10px;
+	z-index: 22;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 22;
 	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden1.svg?crc=4016038745") no-repeat center center;
@@ -777,11 +777,11 @@
 
 #u525035
 {
+	border-radius: 10px;
+	z-index: 24;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 24;
 	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden2.svg?crc=3930098115") no-repeat center center;
@@ -795,13 +795,13 @@
 
 #u525044
 {
-	width: 100%;
+	border-radius: 10px;
 	margin-top: 20px;
+	z-index: 25;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 25;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden3.svg?crc=115989689") no-repeat center center;
 	background-size: cover;
@@ -819,13 +819,13 @@
 
 #u525053
 {
-	width: 100%;
+	border-radius: 10px;
 	margin-top: 20px;
+	z-index: 26;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 26;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden4.svg?crc=4088406962") no-repeat center center;
 	background-size: cover;
@@ -838,12 +838,12 @@
 
 #u521323
 {
-	width: 100%;
+	border-radius: 10px;
+	z-index: 23;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px;
-	filter: alpha(opacity=100);
-	z-index: 23;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_buldogue.svg?crc=4291797559") no-repeat center center;
 	background-size: cover;
@@ -857,20 +857,20 @@
 #u526139
 {
 	left: 0%;
-	background-color: #9669CD;
-	position: relative;
 	border-radius: 10px;
-	width: 100%;
+	position: relative;
 	z-index: 10;
+	width: 100%;
+	background-color: #9669CD;
 }
 
 #u524841
 {
+	border-radius: 10px 10px 0px 0px ;
+	z-index: 13;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 10px 10px 0px 0px ;
-	filter: alpha(opacity=100);
-	z-index: 13;
 	width: 100%;
 	opacity: 1;
 	background: #9669CD url("../images/template_husky1.svg?crc=4266085094") no-repeat center center;
@@ -887,9 +887,9 @@
 	width: 100%;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	filter: alpha(opacity=100);
 	z-index: 14;
 	opacity: 1;
+	filter: alpha(opacity=100);
 	background: #9669CD url("../images/template_husky2.svg?crc=443844651") no-repeat center center;
 	background-size: cover;
 }
@@ -904,9 +904,9 @@
 	width: 100%;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	filter: alpha(opacity=100);
 	z-index: 15;
 	opacity: 1;
+	filter: alpha(opacity=100);
 	background: #9669CD url("../images/template_husky3.svg?crc=4263497713") no-repeat center center;
 	background-size: cover;
 }
@@ -918,10 +918,10 @@
 
 #u525165
 {
+	z-index: 16;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
 	filter: alpha(opacity=100);
-	z-index: 16;
 	width: 100%;
 	opacity: 1;
 	background: #9669CD url("../images/template_husky4.svg?crc=3760690211") no-repeat center center;
@@ -938,9 +938,9 @@
 	width: 100%;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	filter: alpha(opacity=100);
 	z-index: 17;
 	opacity: 1;
+	filter: alpha(opacity=100);
 	background: #9669CD url("../images/template_husky5.svg?crc=4190906368") no-repeat center center;
 	background-size: cover;
 }
@@ -955,9 +955,9 @@
 	width: 100%;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	filter: alpha(opacity=100);
 	z-index: 18;
 	opacity: 1;
+	filter: alpha(opacity=100);
 	background: #9669CD url("../images/template_husky6.svg?crc=507987087") no-repeat center center;
 	background-size: cover;
 }
@@ -969,11 +969,11 @@
 
 #u525212
 {
+	border-radius: 0px 0px 10px 10px ;
+	z-index: 19;
+	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	border-radius: 0px 0px 10px 10px ;
-	filter: alpha(opacity=100);
-	z-index: 19;
 	width: 100%;
 	opacity: 1;
 	background: #9669CD url("../images/template_husky7.svg?crc=15869978") no-repeat center center;
@@ -988,22 +988,22 @@
 #u521309
 {
 	left: -70px;
-	width: 140px;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	height: 50px;
 	border-radius: 10px 10px 0px 0px ;
-	filter: alpha(opacity=100);
-	z-index: 51;
-	position: relative;
 	opacity: 1;
+	z-index: 51;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	position: relative;
+	width: 140px;
+	height: 50px;
 	background: #000000 url("../images/uminimo.svg?crc=507500714") no-repeat center center;
 	background-size: contain;
 }
 
 .nosvg #u521309
 {
-	left: -70px;
 	background-image: url('../images/uminimo_poster_u524327.png?crc=330049046');
+	left: -70px;
 }
 
 .html
