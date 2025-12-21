@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1329 1329" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:50;">
+    <g id="ILUSTRAÇÃO">
+    </g>
+    <g id="LOGO">
+    </g>
+    <rect id="ICON" x="0" y="0" width="1328.74" height="1328.74" style="fill:white;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="1328.74" height="1328.74"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="CHAT">
+            <rect id="MENU" x="1018.72" y="73.819" width="236.22" height="236.22" style="fill:white;"/>
+            <path d="M1163.57,222.701L1163.56,222.696C1163.2,221.968 1162.79,221.262 1162.34,220.582C1161.63,219.518 1160.81,218.519 1159.89,217.601C1156.22,213.927 1151.23,211.862 1146.04,211.862L1108.08,211.862C1100.47,211.862 1094.31,205.7 1094.31,198.099L1094.31,163.173C1094.31,155.572 1100.47,149.41 1108.08,149.41L1165.06,149.41C1172.95,149.41 1179.35,155.806 1179.35,163.696L1179.35,214.516L1179.35,228.733C1179.35,230.706 1178.33,232.625 1176.5,233.683C1173.77,235.259 1170.28,234.324 1168.7,231.594L1163.57,222.701ZM1169.79,219.322L1172.27,223.608L1172.27,214.516L1172.27,163.696C1172.27,159.718 1169.04,156.493 1165.06,156.493L1108.08,156.493C1104.39,156.493 1101.39,159.484 1101.39,163.173L1101.39,198.099C1101.39,201.788 1104.39,204.779 1108.08,204.779L1146.04,204.779C1153.11,204.779 1159.9,207.59 1164.9,212.593C1166.15,213.842 1167.26,215.203 1168.23,216.651C1168.8,217.512 1169.32,218.404 1169.79,219.322Z"/>
+            <path d="M1117.02,172.118L1156.91,172.118" style="fill:none;stroke:black;stroke-width:7.08px;"/>
+            <path d="M1136.83,189.154L1156.91,189.154" style="fill:none;stroke:black;stroke-width:7.08px;"/>
+        </g>
+        <g id="SACOLA">
+            <rect id="MENU1" serif:id="MENU" x="782.5" y="73.819" width="236.22" height="236.22" style="fill:white;"/>
+            <g>
+                <path d="M927.903,169.594C932.476,169.594 936.807,171.507 939.699,174.804C942.591,178.102 943.738,182.434 942.822,186.605L934.768,223.291C933.319,229.889 927.083,234.627 919.849,234.627L880.222,234.627C872.826,234.627 866.499,229.68 865.223,222.899L858.319,186.212C857.543,182.088 858.766,177.856 861.659,174.65C864.553,171.445 868.82,169.594 873.319,169.594L927.903,169.594ZM927.903,176.677L873.319,176.677C870.857,176.677 868.501,177.642 866.918,179.396C865.537,180.926 864.91,182.934 865.281,184.902L872.184,221.589C872.855,225.152 876.336,227.544 880.222,227.544L919.849,227.544C923.658,227.544 927.087,225.246 927.849,221.772L935.903,185.086C936.34,183.099 935.751,181.046 934.374,179.475C932.793,177.672 930.403,176.677 927.903,176.677Z"/>
+                <path d="M882.598,170.763C882.598,158.879 890.669,149.231 900.611,149.231C910.552,149.231 918.624,158.879 918.624,170.763" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;"/>
+                <path d="M882.598,173.094L882.598,184.905" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;"/>
+                <path d="M918.624,173.094L918.624,184.905" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;"/>
+            </g>
+        </g>
+        <g id="CONTA">
+            <rect id="MENU2" serif:id="MENU" x="546.27" y="73.819" width="236.22" height="236.22" style="fill:white;"/>
+            <g id="conta">
+                <path d="M664.38,149.231C678.069,149.231 689.183,160.345 689.183,174.034C689.183,187.724 678.069,198.838 664.38,198.838C650.691,198.838 639.577,187.724 639.577,174.034C639.577,160.345 650.691,149.231 664.38,149.231ZM664.38,156.315C654.6,156.315 646.66,164.255 646.66,174.034C646.66,183.814 654.6,191.754 664.38,191.754C674.16,191.754 682.1,183.814 682.1,174.034C682.1,164.255 674.16,156.315 664.38,156.315Z"/>
+                <path d="M621.86,234.627C624.182,212.534 642.346,195.312 664.38,195.312C686.414,195.312 704.579,212.534 706.9,234.627" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;"/>
+            </g>
+        </g>
+        <g id="PESQUISA">
+            <rect id="MENU3" serif:id="MENU" x="310.049" y="73.819" width="236.22" height="236.22" style="fill:white;"/>
+            <g id="pesquisar">
+                <path d="M418.977,149.278C437.398,149.278 452.353,164.23 452.353,182.648C452.353,201.065 437.398,216.018 418.977,216.018C400.556,216.018 385.6,201.065 385.6,182.648C385.6,164.23 400.556,149.278 418.977,149.278ZM418.977,156.361C404.466,156.361 392.684,168.139 392.684,182.648C392.684,197.156 404.466,208.934 418.977,208.934C433.488,208.934 445.27,197.156 445.27,182.648C445.27,168.139 433.488,156.361 418.977,156.361Z"/>
+                <path d="M442.447,206.309L470.719,234.581" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;"/>
+            </g>
+        </g>
+        <g id="MENU4" serif:id="MENU">
+            <rect id="MENU5" serif:id="MENU" x="73.829" y="73.819" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS" d="M234.459,149.278L149.42,149.278" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+            <path id="MENOS1" serif:id="MENOS" d="M234.459,191.929L149.42,191.929" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+            <path id="MENOS2" serif:id="MENOS" d="M234.459,234.581L149.42,234.581" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENOS3" serif:id="MENOS">
+            <rect id="MENU6" serif:id="MENU" x="73.829" y="310.039" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS4" serif:id="MENOS" d="M234.459,428.15L149.42,428.15" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS">
+            <rect id="MENU7" serif:id="MENU" x="310.09" y="1018.7" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS5" serif:id="MENOS" d="M470.72,1136.81L385.68,1136.81" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS1" serif:id="MENIS">
+            <rect id="MENU8" serif:id="MENU" x="309.969" y="782.48" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS6" serif:id="MENOS" d="M470.599,900.591L385.559,900.591" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS2" serif:id="MENIS">
+            <rect id="MENU9" serif:id="MENU" x="73.809" y="1018.7" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS7" serif:id="MENOS" d="M234.439,1136.81L149.399,1136.81" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS3" serif:id="MENIS">
+            <rect id="MENU10" serif:id="MENU" x="73.688" y="782.48" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS8" serif:id="MENOS" d="M234.318,900.591L149.278,900.591" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS4" serif:id="MENIS">
+            <rect id="MENU11" serif:id="MENU" x="546.27" y="1018.7" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS9" serif:id="MENOS" d="M706.9,1136.81L621.86,1136.81" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS5" serif:id="MENIS">
+            <rect id="MENU12" serif:id="MENU" x="546.149" y="782.48" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS10" serif:id="MENOS" d="M706.779,900.591L621.739,900.591" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS6" serif:id="MENIS">
+            <rect id="MENU13" serif:id="MENU" x="782.551" y="1018.7" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS11" serif:id="MENOS" d="M943.181,1136.81L858.141,1136.81" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS7" serif:id="MENIS">
+            <rect id="MENU14" serif:id="MENU" x="782.43" y="782.48" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS12" serif:id="MENOS" d="M943.06,900.591L858.02,900.591" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS8" serif:id="MENIS">
+            <rect id="MENU15" serif:id="MENU" x="1018.83" y="1018.7" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS13" serif:id="MENOS" d="M1179.46,1136.81L1094.42,1136.81" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="MENIS9" serif:id="MENIS">
+            <rect id="MENU16" serif:id="MENU" x="1018.71" y="782.48" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS14" serif:id="MENOS" d="M1179.34,900.591L1094.3,900.591" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="CORACAO">
+            <rect id="MENU17" serif:id="MENU" x="73.839" y="546.26" width="236.22" height="236.22" style="fill:white;"/>
+            <path d="M191.949,636.059C192.524,636.059 193.057,635.706 193.36,635.125C202.164,618.321 217.105,619.611 225.83,628.185C252.203,654.102 211.121,692.99 196.671,705.224C193.782,707.669 190.116,707.669 187.228,705.224C172.777,692.99 131.695,654.102 158.068,628.185C166.794,619.611 181.734,618.321 190.538,635.125C190.842,635.706 191.375,636.059 191.949,636.059ZM191.949,643.142L189.423,642.758L187.232,641.716L185.503,640.211L184.261,638.408C181.783,633.679 178.807,630.79 175.504,629.648C171.031,628.101 166.358,629.97 163.033,633.238C154.862,641.268 155.427,650.96 159.312,660.241C166.378,677.123 183.66,692.923 191.804,699.818C191.893,699.893 192.006,699.893 192.094,699.818C200.238,692.923 217.521,677.123 224.587,660.241C228.471,650.96 229.037,641.268 220.865,633.238C217.54,629.97 212.868,628.101 208.395,629.648C205.091,630.79 202.115,633.679 199.639,638.404L198.396,640.211L196.667,641.716L194.475,642.758L191.949,643.142Z"/>
+        </g>
+        <g id="FECHAR">
+            <rect id="MENU18" serif:id="MENU" x="546.27" y="310.039" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS15" serif:id="MENOS" d="M694.446,458.216L634.314,398.084" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+            <path id="MENOS16" serif:id="MENOS" d="M634.314,458.216L694.446,398.084" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="FECHAR1" serif:id="FECHAR">
+            <rect id="MENU19" serif:id="MENU" x="310.06" y="310.039" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS17" serif:id="MENOS" d="M385.651,428.464L470.688,427.835" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+            <path id="MENOS18" serif:id="MENOS" d="M427.855,385.631L428.484,470.668" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="ENVIAR">
+            <rect id="MENU20" serif:id="MENU" x="310.07" y="546.26" width="236.22" height="236.22" style="fill:white;"/>
+            <path d="M470.7,664.37C470.7,678.543 400.282,706.89 388.759,706.89C377.236,706.89 401.562,664.37 401.562,664.37C401.562,664.37 377.236,621.85 388.759,621.85C400.282,621.85 470.7,650.197 470.7,664.37ZM393.612,629.849C393.967,631.323 394.417,632.966 394.933,634.366C399.276,646.141 407.71,660.853 407.71,660.853L409.723,664.37L407.71,667.888C407.71,667.888 399.276,682.6 394.933,694.374C394.417,695.775 393.967,697.418 393.612,698.892C395.533,698.368 397.83,697.648 400.403,696.803C414.945,692.03 436.895,682.744 451.464,673.773C455.56,671.251 459.043,668.786 461.48,666.449C462.115,665.84 462.812,664.956 463.252,664.37C462.812,663.784 462.115,662.9 461.48,662.291C459.043,659.954 455.56,657.489 451.464,654.967C436.895,645.996 414.945,636.71 400.403,631.937C397.83,631.092 395.533,630.372 393.612,629.849Z"/>
+            <path d="M465.751,664.37L401.562,664.37" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="CLIP">
+            <rect id="MENU21" serif:id="MENU" x="546.3" y="546.26" width="236.22" height="236.22" style="fill:white;"/>
+            <path d="M698.767,650.901L672.735,695.989C669.629,701.369 664.571,705.328 658.674,706.996C652.776,708.664 646.523,707.903 641.289,704.882C640.834,704.619 640.389,704.34 639.956,704.047C635.414,700.976 632.139,696.308 630.766,690.884C629.262,684.943 630.162,678.583 633.268,673.202L656.512,632.942L633.268,673.202L656.512,632.942C659.619,627.562 663.287,623.054 669.184,621.386C673.294,620.224 678.157,621.201 681.091,622.849C690.598,628.187 690.375,636.958 687.277,642.325C682.863,649.97 677.35,659.512 672.021,668.736C668.223,675.309 664.519,681.721 661.374,687.169C658.385,692.346 652.652,694.633 648.569,692.275L648.567,692.274C646.606,691.142 645.296,689.069 644.925,686.51C644.554,683.952 645.152,681.118 646.587,678.631L668.679,640.368" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="CARINHA">
+            <rect id="MENU22" serif:id="MENU" x="782.531" y="546.26" width="236.22" height="236.22" style="fill:white;"/>
+            <g>
+                <path d="M900.641,620.878C924.108,620.878 943.161,639.931 943.161,663.398C943.161,686.865 924.108,705.917 900.641,705.917C877.174,705.917 858.121,686.865 858.121,663.398C858.121,639.931 877.174,620.878 900.641,620.878ZM900.641,627.961C881.083,627.961 865.205,643.84 865.205,663.398C865.205,682.956 881.083,698.834 900.641,698.834C920.199,698.834 936.077,682.956 936.077,663.398C936.077,643.84 920.199,627.961 900.641,627.961Z"/>
+                <path d="M918.548,671.546C916.705,674.904 910.474,683.07 900.641,683.357C890.808,683.07 884.577,674.904 882.734,671.546" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+                <circle cx="915.894" cy="649.345" r="5.906"/>
+                <path d="M915.894,643.439C919.153,643.439 921.799,646.085 921.799,649.345C921.799,652.604 919.153,655.25 915.894,655.25C912.634,655.25 909.988,652.604 909.988,649.345C909.988,646.085 912.634,643.439 915.894,643.439ZM915.894,650.522C916.544,650.522 917.071,649.995 917.071,649.345C917.071,648.694 916.544,648.167 915.894,648.167C915.244,648.167 914.716,648.694 914.716,649.345C914.716,649.995 915.244,650.522 915.894,650.522Z"/>
+                <circle cx="885.388" cy="649.345" r="5.906"/>
+                <path d="M885.388,643.439C888.648,643.439 891.294,646.085 891.294,649.345C891.294,652.604 888.648,655.25 885.388,655.25C882.129,655.25 879.483,652.604 879.483,649.345C879.483,646.085 882.129,643.439 885.388,643.439ZM885.388,650.522C886.038,650.522 886.566,649.995 886.566,649.345C886.566,648.694 886.038,648.167 885.388,648.167C884.738,648.167 884.21,648.694 884.21,649.345C884.21,649.995 884.738,650.522 885.388,650.522Z"/>
+            </g>
+        </g>
+        <g id="CUPOM">
+            <rect id="MENU23" serif:id="MENU" x="1018.77" y="546.26" width="236.22" height="236.22" style="fill:white;"/>
+            <g>
+                <path d="M1179.4,676.181L1179.4,689.173C1179.4,693.872 1177.54,698.378 1174.21,701.701C1170.89,705.023 1166.38,706.89 1161.68,706.89L1112.08,706.89C1107.38,706.89 1102.87,705.023 1099.55,701.701C1096.23,698.378 1094.36,693.872 1094.36,689.173L1094.36,676.181C1100.88,676.181 1106.17,670.889 1106.17,664.37C1106.17,657.851 1100.88,652.559 1094.36,652.559L1094.36,639.567C1094.36,634.868 1096.23,630.362 1099.55,627.039C1102.87,623.717 1107.38,621.85 1112.08,621.85L1161.68,621.85C1166.38,621.85 1170.89,623.717 1174.21,627.039C1177.54,630.362 1179.4,634.868 1179.4,639.567L1179.4,652.559C1172.88,652.559 1167.59,657.851 1167.59,664.37C1167.59,670.889 1172.88,676.181 1179.4,676.181Z" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:2;"/>
+                <path d="M1124.96,621.85L1124.96,633.379" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;stroke-miterlimit:2;"/>
+                <path d="M1124.96,695.361L1124.96,706.89" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;stroke-miterlimit:2;"/>
+                <path d="M1124.96,649.606L1124.96,679.134" style="fill:none;stroke:black;stroke-width:7.08px;stroke-linejoin:miter;stroke-miterlimit:2;"/>
+            </g>
+        </g>
+        <g id="DESCER">
+            <rect id="MENU24" serif:id="MENU" x="782.5" y="310.039" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS19" serif:id="MENOS" d="M900.611,443.183L870.545,413.117" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+            <path id="MENOS20" serif:id="MENOS" d="M900.611,443.183L930.677,413.117" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+        <g id="SUBIR">
+            <rect id="MENU25" serif:id="MENU" x="1018.73" y="310.039" width="236.22" height="236.22" style="fill:white;"/>
+            <path id="MENOS21" serif:id="MENOS" d="M1136.84,413.117L1106.78,443.183" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+            <path id="MENOS22" serif:id="MENOS" d="M1136.84,413.117L1166.91,443.183" style="fill:none;stroke:black;stroke-width:7.08px;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
+</svg>
