@@ -41,13 +41,13 @@
 
 	#pu521319
 	{
-		width: 96.78%;
+		width: 96.7%;
 	}
 
 	#u521319
 	{
-		width: 72.59%;
-		margin-left: 15.38%;
+		width: 72.65%;
+		margin-left: 15.39%;
 	}
 
 	#u521313-13
@@ -61,7 +61,7 @@
 	{
 		z-index: 40;
 		margin-top: 50px;
-		width: 99.92%;
+		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
 	}
@@ -82,7 +82,7 @@
 	{
 		z-index: 20;
 		margin-top: 20px;
-		width: 99.92%;
+		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
 	}
@@ -109,7 +109,7 @@
 	{
 		z-index: 41;
 		margin-top: 20px;
-		width: 99.92%;
+		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
 	}
@@ -144,7 +144,6 @@
 	#pu522903,#u521310
 	{
 		margin-top: 20px;
-		width: 99.92%;
 		margin-left: 1.71%;
 	}
 
@@ -152,7 +151,7 @@
 	{
 		z-index: 0;
 		margin-top: 20px;
-		width: 99.92%;
+		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
 	}
@@ -212,13 +211,7 @@
 		margin-top: 20px;
 	}
 
-	#u527203
-	{
-		width: 99.92%;
-		margin-left: 1.8%;
-	}
-
-	.nosvg #u521310,.nosvg #u527203
+	.nosvg #u521310,#u527203
 	{
 		margin-left: 1.71%;
 	}
@@ -226,6 +219,12 @@
 	#u527203 .fluid_height_spacer,#u524841 .fluid_height_spacer,#u525118 .fluid_height_spacer,#u525127 .fluid_height_spacer,#u525165 .fluid_height_spacer,#u525166 .fluid_height_spacer
 	{
 		padding-bottom: 85.47008547008546%;
+	}
+
+	#u527217
+	{
+		margin-top: 20px;
+		margin-left: 1.71%;
 	}
 
 	#u521310 .fluid_height_spacer,#u527217 .fluid_height_spacer
@@ -236,39 +235,40 @@
 	#u527240
 	{
 		margin-top: 19px;
-		width: 99.92%;
 		margin-left: 1.71%;
 	}
 
-	#u527249
+	.nosvg #u527203,.nosvg #u527217,.nosvg #u527240,#u527249
 	{
-		width: 99.92%;
 		margin-left: 1.71%;
 	}
 
 	#u526139,#u527258
 	{
 		margin-top: 21px;
-		width: 99.92%;
 		margin-left: 1.71%;
 	}
 
-	#u527217,#u527267
+	#u527267
 	{
 		margin-top: 20px;
-		width: 99.92%;
+		margin-left: 1.71%;
+	}
+
+	.nosvg #u527249,.nosvg #u527258,.nosvg #u527267
+	{
 		margin-left: 1.71%;
 	}
 
 	#u521309
 	{
 		margin-top: 20px;
-		margin-left: 51.67%;
+		margin-left: 51.71%;
 	}
 
 	.nosvg #u521309
 	{
-		margin-left: 51.67%;
+		margin-left: 51.71%;
 	}
 
 	.css_verticalspacer .verticalspacer
