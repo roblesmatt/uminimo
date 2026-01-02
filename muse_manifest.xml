@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1767248784294">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1767358830479">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="briefing.css" crc="341043069" ref="briefing"/>
-    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="dogzito.css" crc="4276533482" ref="dogzito"/>
-    <file name="nomq_dogzito.css" crc="344074125" ref="dogzito"/>
-    <file name="index.css" crc="4289611716" ref="index"/>
+    <file name="index.css" crc="4048592170" ref="index"/>
     <file name="nomq_index.css" crc="3947343682" ref="index"/>
+    <file name="briefing.css" crc="3851822079" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="dogzito.css" crc="4010664790" ref="dogzito"/>
+    <file name="nomq_dogzito.css" crc="344074125" ref="dogzito"/>
   </folder>
   <folder name="fonts">
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
     <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
     <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
@@ -42,8 +42,8 @@
     <file name="favicon.ico" crc="138764580" ref="index"/>
     <file name="uminimo.svg" crc="507500714" ref="index:briefing:dogzito"/>
     <file name="uminimo_poster_u524327.png" crc="330049046" ref="index:briefing:dogzito"/>
-    <file name="site_chihuahua.svg" crc="147273566" ref="index:dogzito"/>
-    <file name="site_chihuahua_poster_u522307.png" crc="275761440" ref="index:dogzito"/>
+    <file name="site_chihuahua.svg" crc="4294166000" ref="index:dogzito"/>
+    <file name="site_chihuahua_poster_u527846.png" crc="334827421" ref="index:dogzito"/>
     <file name="blank.gif" crc="4208392903" ref="index:briefing:dogzito"/>
     <file name="marca.svg" crc="4160258697" ref="index"/>
     <file name="marca_poster_u523890.png" crc="3998542142" ref="index"/>
@@ -73,60 +73,58 @@
     <file name="proximo1_poster_u524610.png" crc="447422520" ref="dogzito"/>
     <file name="fechar.svg" crc="4163833896" ref="dogzito"/>
     <file name="fechar_poster_u524618.png" crc="4121185911" ref="dogzito"/>
-    <file name="logo_site_1.svg" crc="514809865" ref="dogzito"/>
-    <file name="logo_site_1_poster_u522147.png" crc="3764661925" ref="dogzito"/>
-    <file name="logo_site_2.svg" crc="4051033416" ref="dogzito"/>
-    <file name="logo_site_2_poster_u522155.png" crc="159178128" ref="dogzito"/>
+    <file name="logo_site_1.svg" crc="3867481040" ref="dogzito"/>
+    <file name="logo_site_1_poster_u527838.png" crc="4258004290" ref="dogzito"/>
+    <file name="logo_site_2.svg" crc="4178695581" ref="dogzito"/>
+    <file name="logo_site_2_poster_u527830.png" crc="118397689" ref="dogzito"/>
     <file name="logo_site_3.svg" crc="3820901826" ref="dogzito"/>
     <file name="logo_site_3_poster_u522523.png" crc="266646658" ref="dogzito"/>
-    <file name="site_husky.svg" crc="197483678" ref="dogzito"/>
-    <file name="site_husky_poster_u522323.png" crc="3819577682" ref="dogzito"/>
-    <file name="site_buldogue.svg" crc="87151301" ref="dogzito"/>
-    <file name="site_buldogue_poster_u522299.png" crc="365214262" ref="dogzito"/>
-    <file name="site_golden.svg" crc="87063267" ref="dogzito"/>
-    <file name="site_golden_poster_u522315.png" crc="452166237" ref="dogzito"/>
-    <file name="site_poodle.svg" crc="4294298198" ref="dogzito"/>
-    <file name="site_poodle_poster_u522291.png" crc="3909222684" ref="dogzito"/>
-    <file name="template_todos.svg" crc="3842482733" ref="dogzito"/>
-    <file name="template_todos_poster_u527566.png" crc="274401303" ref="dogzito"/>
-    <file name="template_poddle.svg" crc="231895641" ref="dogzito"/>
-    <file name="template_poddle_poster_u527622.png" crc="4001716621" ref="dogzito"/>
-    <file name="template_golden1.svg" crc="254672667" ref="dogzito"/>
-    <file name="template_golden1_poster_u527598.png" crc="266644963" ref="dogzito"/>
-    <file name="template_golden4.svg" crc="268647409" ref="dogzito"/>
-    <file name="template_golden4_poster_u527574.png" crc="406877260" ref="dogzito"/>
-    <file name="template_golden2.svg" crc="340507541" ref="dogzito"/>
-    <file name="template_golden2_poster_u527590.png" crc="227761985" ref="dogzito"/>
-    <file name="template_golden3.svg" crc="292081415" ref="dogzito"/>
-    <file name="template_golden3_poster_u527582.png" crc="429382119" ref="dogzito"/>
-    <file name="template_chihuahua.svg" crc="4192691692" ref="dogzito"/>
-    <file name="template_chihuahua_poster_u527614.png" crc="392640374" ref="dogzito"/>
-    <file name="template_buldogue.svg" crc="3844988435" ref="dogzito"/>
-    <file name="template_buldogue_poster_u527606.png" crc="4274033539" ref="dogzito"/>
-    <file name="template_husky.svg" crc="413125043" ref="dogzito"/>
-    <file name="template_husky_poster_u527558.png" crc="3801107224" ref="dogzito"/>
-    <file name="template_dalmata1.svg" crc="239678320" ref="dogzito"/>
-    <file name="template_dalmata1_poster_u527550.png" crc="288868809" ref="dogzito"/>
-    <file name="template_dalmata2.svg" crc="446896549" ref="dogzito"/>
-    <file name="template_dalmata2_poster_u527542.png" crc="4238737621" ref="dogzito"/>
-    <file name="template_dalmata3.svg" crc="3812919341" ref="dogzito"/>
-    <file name="template_dalmata3_poster_u527534.png" crc="296311716" ref="dogzito"/>
-    <file name="template_dalmata4.svg" crc="4039059823" ref="dogzito"/>
-    <file name="template_dalmata4_poster_u527526.png" crc="292682952" ref="dogzito"/>
-    <file name="template_dalmata5.svg" crc="4087895092" ref="dogzito"/>
-    <file name="template_dalmata5_poster_u527518.png" crc="3791252723" ref="dogzito"/>
-    <file name="template_higiene.svg" crc="4139472202" ref="dogzito"/>
-    <file name="template_higiene_poster_u527638.png" crc="445707609" ref="dogzito"/>
-    <file name="template_higiene1.svg" crc="4114456115" ref="dogzito"/>
-    <file name="template_higiene1_poster_u527646.png" crc="4509772" ref="dogzito"/>
-    <file name="template_higiene2.svg" crc="489530325" ref="dogzito"/>
-    <file name="template_higiene2_poster_u527654.png" crc="4274418001" ref="dogzito"/>
-    <file name="template_higiene3.svg" crc="307314730" ref="dogzito"/>
-    <file name="template_higiene3_poster_u527662.png" crc="394320248" ref="dogzito"/>
-    <file name="template_higiene4.svg" crc="3996265149" ref="dogzito"/>
-    <file name="template_higiene4_poster_u527670.png" crc="4274418001" ref="dogzito"/>
+    <file name="site_husky.svg" crc="110954768" ref="dogzito"/>
+    <file name="site_husky_poster_u527862.png" crc="3783809092" ref="dogzito"/>
+    <file name="template_buldogue.svg" crc="4143056945" ref="dogzito"/>
+    <file name="template_buldogue_poster_u527886.png" crc="3924119038" ref="dogzito"/>
+    <file name="site_golden.svg" crc="426594665" ref="dogzito"/>
+    <file name="site_golden_poster_u527854.png" crc="120745968" ref="dogzito"/>
+    <file name="site_poodle.svg" crc="253861610" ref="dogzito"/>
+    <file name="site_poodle_poster_u527870.png" crc="4290151206" ref="dogzito"/>
+    <file name="template_todos.svg" crc="49111487" ref="dogzito"/>
+    <file name="template_todos_poster_u527774.png" crc="4078493500" ref="dogzito"/>
+    <file name="template_poddle.svg" crc="324664814" ref="dogzito"/>
+    <file name="template_poddle_poster_u527718.png" crc="349859747" ref="dogzito"/>
+    <file name="template_golden1.svg" crc="458623996" ref="dogzito"/>
+    <file name="template_golden1_poster_u527742.png" crc="128083512" ref="dogzito"/>
+    <file name="template_golden4.svg" crc="177118253" ref="dogzito"/>
+    <file name="template_golden4_poster_u527766.png" crc="386671791" ref="dogzito"/>
+    <file name="template_golden2.svg" crc="4028134737" ref="dogzito"/>
+    <file name="template_golden2_poster_u527750.png" crc="3932731150" ref="dogzito"/>
+    <file name="template_golden3.svg" crc="100279021" ref="dogzito"/>
+    <file name="template_golden3_poster_u527758.png" crc="429562914" ref="dogzito"/>
+    <file name="template_chihuahua.svg" crc="4118567251" ref="dogzito"/>
+    <file name="template_chihuahua_poster_u527726.png" crc="377557357" ref="dogzito"/>
+    <file name="template_husky.svg" crc="3769389648" ref="dogzito"/>
+    <file name="template_husky_poster_u527782.png" crc="3925829244" ref="dogzito"/>
+    <file name="template_dalmata1.svg" crc="169241727" ref="dogzito"/>
+    <file name="template_dalmata1_poster_u527790.png" crc="354485995" ref="dogzito"/>
+    <file name="template_dalmata2.svg" crc="3961346644" ref="dogzito"/>
+    <file name="template_dalmata2_poster_u527798.png" crc="3971266806" ref="dogzito"/>
+    <file name="template_dalmata3.svg" crc="349224956" ref="dogzito"/>
+    <file name="template_dalmata3_poster_u527806.png" crc="4216540483" ref="dogzito"/>
+    <file name="template_dalmata4.svg" crc="292454538" ref="dogzito"/>
+    <file name="template_dalmata4_poster_u527814.png" crc="4258721752" ref="dogzito"/>
+    <file name="template_dalmata5.svg" crc="3991292139" ref="dogzito"/>
+    <file name="template_dalmata5_poster_u527822.png" crc="104770297" ref="dogzito"/>
+    <file name="template_higiene.svg" crc="4145174659" ref="dogzito"/>
+    <file name="template_higiene_poster_u527710.png" crc="189104343" ref="dogzito"/>
+    <file name="template_higiene1.svg" crc="3834570516" ref="dogzito"/>
+    <file name="template_higiene1_poster_u527702.png" crc="3901429822" ref="dogzito"/>
+    <file name="template_higiene2.svg" crc="289946022" ref="dogzito"/>
+    <file name="template_higiene2_poster_u527694.png" crc="4101534990" ref="dogzito"/>
+    <file name="template_higiene3.svg" crc="3977625852" ref="dogzito"/>
+    <file name="template_higiene3_poster_u527686.png" crc="4234741490" ref="dogzito"/>
+    <file name="template_higiene4.svg" crc="4155740380" ref="dogzito"/>
+    <file name="template_higiene4_poster_u527678.png" crc="173752672" ref="dogzito"/>
   </folder>
-  <file name="index.html" crc="3792565777" seo="true" mt="1767248178562" redirect="true"/>
-  <file name="briefing.html" crc="231587109" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="dogzito.html" crc="435880221" seo="true" mt="1767248200563" redirect="true"/>
+  <file name="index.html" crc="3842998151" seo="true" mt="1767358691631" redirect="true"/>
+  <file name="briefing.html" crc="4070831822" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="dogzito.html" crc="3799263653" seo="true" mt="1767358765032" redirect="true"/>
 </manifest>
