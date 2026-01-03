@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1762 1511" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,0,-3403)">
+<svg width="100%" height="100%" viewBox="0 0 1762 1510" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-3403.72)">
         <g id="template_todos" transform="matrix(0.974748,0,0,1.05461,-3178.28,-1848.31)">
-            <rect x="3260.61" y="4980.06" width="1807.49" height="1431.8" style="fill:rgb(217,229,242);"/>
+            <rect x="3260.61" y="4980.06" width="1807.49" height="1431.8" style="fill:rgb(180,203,230);"/>
             <g transform="matrix(1.02591,0,0,0.948218,3758.62,203.303)">
                 <path d="M666.962,5294.32L666.962,6187.55C666.962,6215.42 644.332,6238.05 616.459,6238.05L212.434,6238.05C184.56,6238.05 161.931,6215.42 161.931,6187.55L161.931,5294.32C161.931,5266.45 184.56,5243.82 212.434,5243.82L616.459,5243.82C644.332,5243.82 666.962,5266.45 666.962,5294.32Z" style="fill:rgb(245,209,128);"/>
             </g>
@@ -22,6 +22,8 @@
             <g transform="matrix(0.4157,0,0,0.28634,4547.07,4430.13)">
                 <path d="M666.962,5311.59L666.962,6170.28C666.962,6207.68 644.332,6238.05 616.459,6238.05L212.434,6238.05C184.56,6238.05 161.931,6207.68 161.931,6170.28L161.931,5311.59C161.931,5274.19 184.56,5243.82 212.434,5243.82L616.459,5243.82C644.332,5243.82 666.962,5274.19 666.962,5311.59Z" style="fill:rgb(171,211,183);"/>
             </g>
+        </g>
+        <g id="ILUSTRAÇÃO">
         </g>
     </g>
 </svg>
