@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1182 1537" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-35301,-3403)">
-        <g id="template_higiene3" transform="matrix(0.653447,0,0,1.07238,33170.4,-1936.81)">
+<svg width="100%" height="100%" viewBox="0 0 1182 1536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-35301,-4939)">
+        <g id="template_higiene5" transform="matrix(0.653447,0,0,1.07238,33170.4,-401.375)">
             <rect x="3260.61" y="4980.06" width="1807.49" height="1431.8" style="fill:rgb(217,229,242);"/>
             <clipPath id="_clip1">
                 <rect x="3260.61" y="4980.06" width="1807.49" height="1431.8"/>
             </clipPath>
             <g clip-path="url(#_clip1)">
-                <g transform="matrix(2.74017,0,-1.52768e-07,1.98045,3028.71,-6389.56)">
+                <g transform="matrix(2.74017,0,-1.52768e-07,1.98045,3028.71,-4957.76)">
                     <path d="M666.962,5286.4L666.962,6195.47C666.962,6218.97 644.332,6238.05 616.459,6238.05L212.434,6238.05C184.56,6238.05 161.931,6218.97 161.931,6195.47L161.931,5286.4C161.931,5262.9 184.56,5243.82 212.434,5243.82L616.459,5243.82C644.332,5243.82 666.962,5262.9 666.962,5286.4Z" style="fill:rgb(180,203,230);"/>
                 </g>
             </g>
