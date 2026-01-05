@@ -91,7 +91,24 @@
 
 	#u524864
 	{
+		padding-bottom: 60px;
 		margin-left: 1.71%;
+	}
+
+	#u528778
+	{
+		margin-right: -10000px;
+		margin-top: 60px;
+		width: 32.83%;
+		left: 5.05%;
+	}
+
+	#u528795
+	{
+		margin-right: -10000px;
+		margin-top: 78px;
+		width: 50.26%;
+		left: 44.11%;
 	}
 
 	#u522903
@@ -116,7 +133,6 @@
 
 	#u521318
 	{
-		margin-top: 1px;
 		width: 32.23%;
 	}
 
@@ -143,14 +159,14 @@
 		padding-bottom: 125%;
 	}
 
-	#pu522903,#u528549
+	#u528549
 	{
-		margin-top: 21px;
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u524864,.nosvg #u528549,#u521310
+	#pu522903,#u521310
 	{
+		margin-top: 21px;
 		margin-left: 1.71%;
 	}
 
@@ -239,12 +255,6 @@
 		margin-left: 1.71%;
 	}
 
-	#u526139
-	{
-		margin-top: 21px;
-		margin-left: 1.71%;
-	}
-
 	#u527203 .fluid_height_spacer,#u524841 .fluid_height_spacer,#u525118 .fluid_height_spacer,#u525127 .fluid_height_spacer,#u525165 .fluid_height_spacer,#u525166 .fluid_height_spacer
 	{
 		padding-bottom: 85.47008547008546%;
@@ -253,10 +263,11 @@
 	#u528538
 	{
 		height: 3508px;
+		margin-top: 21px;
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u521310,.nosvg #u527203,.nosvg #u528538
+	.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,#u526139,.nosvg #u528538
 	{
 		margin-left: 1.71%;
 	}
@@ -274,7 +285,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 15896px);
+		height: calc(100vh - 15165px);
 	}
 
 
