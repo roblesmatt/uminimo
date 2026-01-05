@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1767647908179">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1767649145928">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="index.css" crc="396271077" ref="index"/>
-    <file name="nomq_index.css" crc="3947343682" ref="index"/>
-    <file name="briefing.css" crc="4213996287" ref="briefing"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="briefing.css" crc="3815039051" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="dogzito.css" crc="3873308249" ref="dogzito"/>
-    <file name="nomq_dogzito.css" crc="349223515" ref="dogzito"/>
+    <file name="index.css" crc="4037886624" ref="index"/>
+    <file name="nomq_index.css" crc="3947343682" ref="index"/>
+    <file name="dogzito.css" crc="4016772185" ref="dogzito"/>
+    <file name="nomq_dogzito.css" crc="369787839" ref="dogzito"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
@@ -79,18 +79,8 @@
     <file name="logo_site_2_poster_u528622.png" crc="257815638" ref="dogzito"/>
     <file name="logo_site_3.svg" crc="3820901826" ref="dogzito"/>
     <file name="logo_site_3_poster_u522523.png" crc="266646658" ref="dogzito"/>
-    <file name="font1.svg" crc="3837739527" seo="true" ref="dogzito">
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-    </file>
-    <file name="font1_poster_.png" crc="3888648166" ref="dogzito"/>
-    <file name="font2.svg" crc="493113135" seo="true" ref="dogzito">
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-      <caption webpage="dogzito" alt=""/>
-    </file>
-    <file name="font2_poster_.png" crc="3803227371" ref="dogzito"/>
+    <file name="font.svg" crc="4284905148" ref="dogzito"/>
+    <file name="font_poster_u528830.png" crc="4238757724" ref="dogzito"/>
     <file name="site_buldogue.svg" crc="372485676" ref="dogzito"/>
     <file name="site_buldogue_poster_u528646.png" crc="174520106" ref="dogzito"/>
     <file name="site_golden.svg" crc="4133389063" ref="dogzito"/>
@@ -132,7 +122,7 @@
     <file name="template_layout_tecnico.svg" crc="22942449" ref="dogzito"/>
     <file name="template_layout_tecnico_poster_u528630.png" crc="252916333" ref="dogzito"/>
   </folder>
-  <file name="index.html" crc="4219968308" seo="true" mt="1767645964749" redirect="true"/>
-  <file name="briefing.html" crc="473318652" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="dogzito.html" crc="4292799354" seo="true" mt="1767647858745" redirect="true"/>
+  <file name="index.html" crc="3864234624" seo="true" mt="1767649048285" redirect="true"/>
+  <file name="briefing.html" crc="160801823" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="dogzito.html" crc="4185534501" seo="true" mt="1767649114235" redirect="true"/>
 </manifest>

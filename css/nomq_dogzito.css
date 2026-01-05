@@ -91,24 +91,8 @@
 
 	#u524864
 	{
-		padding-bottom: 60px;
+		height: 1287px;
 		margin-left: 1.71%;
-	}
-
-	#u528778
-	{
-		margin-right: -10000px;
-		margin-top: 60px;
-		width: 32.83%;
-		left: 5.05%;
-	}
-
-	#u528795
-	{
-		margin-right: -10000px;
-		margin-top: 78px;
-		width: 50.26%;
-		left: 44.11%;
 	}
 
 	#u522903
@@ -159,7 +143,7 @@
 		padding-bottom: 125%;
 	}
 
-	#u528549
+	.nosvg #u524864,#u528549
 	{
 		margin-left: 1.71%;
 	}
@@ -285,7 +269,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 15165px);
+		height: calc(100vh - 16012px);
 	}
 
 
