@@ -41,6 +41,7 @@
 
 	#pu521319
 	{
+		padding-bottom: 0px;
 		width: 96.7%;
 	}
 
@@ -89,10 +90,15 @@
 		left: 76.33%;
 	}
 
-	#pu529114
+	#u529116
 	{
-		width: 100%;
-		margin-left: 1.71%;
+		width: 32.23%;
+		left: 67.78%;
+	}
+
+	#u529114 .fluid_height_spacer,#u529115 .fluid_height_spacer,#u529116 .fluid_height_spacer
+	{
+		padding-bottom: 100.79575596816977%;
 	}
 
 	#u524864
@@ -107,6 +113,12 @@
 		width: 32.14%;
 	}
 
+	#u529115,#u521311
+	{
+		width: 32.23%;
+		left: 33.94%;
+	}
+
 	#pu521318
 	{
 		z-index: 49;
@@ -114,6 +126,11 @@
 		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
+	}
+
+	#u529114,#u521318
+	{
+		width: 32.23%;
 	}
 
 	#u521311 .fluid_height_spacer,#u521318 .fluid_height_spacer
@@ -145,31 +162,50 @@
 		margin-left: 1.71%;
 	}
 
-	#u529114,#u521318,#u528989,#u529062
+	#u528989
 	{
-		width: 32.23%;
+		width: 15.22%;
 	}
 
-	#u529115,#u521311,#u528998,#u529063
+	#u528998
 	{
-		width: 32.23%;
-		left: 33.94%;
+		margin-top: 1px;
+		width: 15.22%;
+		left: 16.93%;
 	}
 
-	#u529116,#u529021,#u529064
+	#u529021
 	{
-		width: 32.23%;
-		left: 67.78%;
+		width: 15.22%;
+		left: 33.77%;
 	}
 
-	#u529114 .fluid_height_spacer,#u529115 .fluid_height_spacer,#u529116 .fluid_height_spacer,#u528989 .fluid_height_spacer,#u528998 .fluid_height_spacer,#u529021 .fluid_height_spacer,#u529062 .fluid_height_spacer,#u529063 .fluid_height_spacer,#u529064 .fluid_height_spacer
+	#u529062
 	{
-		padding-bottom: 100.79575596816977%;
+		width: 15.22%;
+		left: 50.95%;
 	}
 
-	#u521310
+	#u529063
 	{
-		margin-top: 20px;
+		width: 15.22%;
+		left: 67.87%;
+	}
+
+	#u529064
+	{
+		width: 15.22%;
+		left: 84.79%;
+	}
+
+	#u528989 .fluid_height_spacer,#u528998 .fluid_height_spacer,#u529021 .fluid_height_spacer,#u529062 .fluid_height_spacer,#u529063 .fluid_height_spacer,#u529064 .fluid_height_spacer
+	{
+		padding-bottom: 100%;
+	}
+
+	#pu522903,#u521310
+	{
+		margin-top: 21px;
 		width: 100%;
 		margin-left: 1.71%;
 	}
@@ -259,16 +295,15 @@
 		width: 100%;
 	}
 
-	#pu522903,#pu528989,#u527203
+	#pu529114,#pu528989,#u527203
 	{
-		margin-top: 21px;
 		width: 100%;
 		margin-left: 1.71%;
 	}
 
 	#u526139
 	{
-		margin-top: 20px;
+		margin-top: 21px;
 		width: 100%;
 		margin-left: 1.71%;
 	}
@@ -281,19 +316,18 @@
 	#u528538
 	{
 		height: 3508px;
-		margin-top: 20px;
 		width: 100%;
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u524864,.nosvg #u528549,#pu529062,.nosvg #u521310,.nosvg #u527203,.nosvg #u528538
+	.nosvg #u524864,.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,.nosvg #u528538
 	{
 		margin-left: 1.71%;
 	}
 
 	#u521309
 	{
-		margin-top: 21px;
+		margin-top: 20px;
 		margin-left: 51.71%;
 		left: -70px;
 	}
@@ -306,7 +340,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 17187px);
+		height: calc(100vh - 16585px);
 	}
 
 

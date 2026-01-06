@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1767728203082">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1767729445159">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="briefing.css" crc="427516537" ref="briefing"/>
-    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="index.css" crc="307081381" ref="index"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="index.css" crc="140520762" ref="index"/>
     <file name="nomq_index.css" crc="70615128" ref="index"/>
-    <file name="dogzito.css" crc="3847854336" ref="dogzito"/>
-    <file name="nomq_dogzito.css" crc="4198720296" ref="dogzito"/>
+    <file name="dogzito.css" crc="132380397" ref="dogzito"/>
+    <file name="nomq_dogzito.css" crc="4262408891" ref="dogzito"/>
+    <file name="briefing.css" crc="218588903" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
@@ -140,7 +140,7 @@
     <file name="template_layout_tecnico.svg" crc="22942449" ref="dogzito"/>
     <file name="template_layout_tecnico_poster_u528630.png" crc="252916333" ref="dogzito"/>
   </folder>
-  <file name="index.html" crc="323059708" seo="true" mt="1767728029070" redirect="true"/>
-  <file name="briefing.html" crc="330386260" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="dogzito.html" crc="237440866" seo="true" mt="1767728161527" redirect="true"/>
+  <file name="index.html" crc="3962078158" seo="true" mt="1767728029070" redirect="true"/>
+  <file name="briefing.html" crc="107837273" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="dogzito.html" crc="4013307744" seo="true" mt="1767729394643" redirect="true"/>
 </manifest>
