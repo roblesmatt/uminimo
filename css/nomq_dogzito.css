@@ -41,7 +41,6 @@
 
 	#pu521319
 	{
-		padding-bottom: 0px;
 		width: 96.7%;
 	}
 
@@ -60,7 +59,7 @@
 
 	#pu521316
 	{
-		z-index: 46;
+		z-index: 39;
 		margin-top: 50px;
 		width: 100%;
 		left: 0%;
@@ -71,11 +70,6 @@
 	{
 		margin-right: -10000px;
 		width: 49.15%;
-	}
-
-	#u521316 .fluid_height_spacer
-	{
-		padding-bottom: 48.17391304347826%;
 	}
 
 	#u521322
@@ -90,123 +84,105 @@
 		left: 76.33%;
 	}
 
-	#u529116
+	#pu529114
 	{
-		width: 32.23%;
-		left: 67.78%;
-	}
-
-	#u529114 .fluid_height_spacer,#u529115 .fluid_height_spacer,#u529116 .fluid_height_spacer
-	{
-		padding-bottom: 100.79575596816977%;
-	}
-
-	#u524864
-	{
+		z-index: 2;
 		margin-top: 20px;
-		width: 100%;
-		margin-left: 1.71%;
-	}
-
-	#u522903
-	{
-		width: 32.14%;
-	}
-
-	#u529115,#u521311
-	{
-		width: 32.23%;
-		left: 33.94%;
-	}
-
-	#pu521318
-	{
-		z-index: 49;
-		margin-top: 19px;
 		width: 100%;
 		left: 0%;
 		margin-left: 1.71%;
 	}
 
-	#u529114,#u521318
+	#u529114
 	{
-		width: 32.23%;
+		width: 49.15%;
 	}
 
-	#u521311 .fluid_height_spacer,#u521318 .fluid_height_spacer
+	#u521316 .fluid_height_spacer,#u529114 .fluid_height_spacer
 	{
-		padding-bottom: 124.6684350132626%;
+		padding-bottom: 48.17391304347826%;
+	}
+
+	#u529116
+	{
+		width: 49.24%;
+		left: 50.77%;
+	}
+
+	#u529116 .fluid_height_spacer
+	{
+		padding-bottom: 48.09027777777778%;
+	}
+
+	#u524864
+	{
+		margin-top: 20px;
+		margin-left: 1.71%;
+	}
+
+	.nosvg #u524864,#u528549
+	{
+		margin-left: 1.71%;
+	}
+
+	#u522903
+	{
+		margin-top: 1px;
+		width: 32.14%;
+	}
+
+	#u521311
+	{
+		width: 32.23%;
+		left: 33.94%;
+	}
+
+	#u521320
+	{
+		margin-top: 1px;
+		width: 32.14%;
+		left: 67.87%;
+	}
+
+	#pu521318
+	{
+		z-index: 42;
+		margin-top: 20px;
+		width: 100%;
+		left: 0%;
+		margin-left: 1.71%;
+	}
+
+	#u521318
+	{
+		width: 32.14%;
 	}
 
 	#u521640
 	{
-		width: 32.14%;
-		left: 33.94%;
+		width: 32.23%;
+		left: 33.85%;
 	}
 
-	#u521320,#u521317
+	#u521311 .fluid_height_spacer,#u521640 .fluid_height_spacer
+	{
+		padding-bottom: 124.6684350132626%;
+	}
+
+	#u521317
 	{
 		width: 32.14%;
 		left: 67.87%;
 	}
 
-	#u522903 .fluid_height_spacer,#u521320 .fluid_height_spacer,#u521640 .fluid_height_spacer,#u521317 .fluid_height_spacer
+	#u522903 .fluid_height_spacer,#u521320 .fluid_height_spacer,#u521318 .fluid_height_spacer,#u521317 .fluid_height_spacer
 	{
 		padding-bottom: 125%;
 	}
 
-	#u528549
-	{
-		margin-top: 20px;
-		width: 100%;
-		margin-left: 1.71%;
-	}
-
-	#u528989
-	{
-		width: 15.22%;
-	}
-
-	#u528998
-	{
-		margin-top: 1px;
-		width: 15.22%;
-		left: 16.93%;
-	}
-
-	#u529021
-	{
-		width: 15.22%;
-		left: 33.77%;
-	}
-
-	#u529062
-	{
-		width: 15.22%;
-		left: 50.95%;
-	}
-
-	#u529063
-	{
-		width: 15.22%;
-		left: 67.87%;
-	}
-
-	#u529064
-	{
-		width: 15.22%;
-		left: 84.79%;
-	}
-
-	#u528989 .fluid_height_spacer,#u528998 .fluid_height_spacer,#u529021 .fluid_height_spacer,#u529062 .fluid_height_spacer,#u529063 .fluid_height_spacer,#u529064 .fluid_height_spacer
-	{
-		padding-bottom: 100%;
-	}
-
 	#pu522903,#u521310
 	{
-		margin-top: 21px;
-		width: 100%;
+		margin-top: 20px;
 		margin-left: 1.71%;
 	}
 
@@ -226,7 +202,7 @@
 
 	#pu521324
 	{
-		z-index: 20;
+		z-index: 13;
 		padding-bottom: 0px;
 		margin-right: -10000px;
 		width: 49.15%;
@@ -241,10 +217,15 @@
 
 	#pu521312
 	{
-		z-index: 22;
+		z-index: 15;
 		padding-bottom: 0px;
 		margin-right: -10000px;
 		width: 48.18%;
+	}
+
+	#u525053
+	{
+		margin-top: 20px;
 	}
 
 	#u525053 .fluid_height_spacer
@@ -254,7 +235,7 @@
 
 	#pu525035
 	{
-		z-index: 24;
+		z-index: 17;
 		padding-bottom: 0px;
 		margin-right: -10000px;
 		width: 48.35%;
@@ -273,15 +254,10 @@
 
 	#pu521314
 	{
-		z-index: 21;
+		z-index: 14;
 		margin-right: -10000px;
 		width: 49.15%;
 		margin-left: 50.86%;
-	}
-
-	#u521324,#u521312,#u525053,#u525035,#u521314
-	{
-		width: 100%;
 	}
 
 	#u521314 .fluid_height_spacer
@@ -289,22 +265,9 @@
 		padding-bottom: 137.3913043478261%;
 	}
 
-	#u525044,#u521323
-	{
-		margin-top: 20px;
-		width: 100%;
-	}
-
-	#pu529114,#pu528989,#u527203
-	{
-		width: 100%;
-		margin-left: 1.71%;
-	}
-
-	#u526139
+	#u527203
 	{
 		margin-top: 21px;
-		width: 100%;
 		margin-left: 1.71%;
 	}
 
@@ -316,31 +279,28 @@
 	#u528538
 	{
 		height: 3508px;
-		width: 100%;
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u524864,.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,.nosvg #u528538
+	.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,#u526139,.nosvg #u528538
 	{
 		margin-left: 1.71%;
 	}
 
 	#u521309
 	{
-		margin-top: 20px;
+		margin-top: 21px;
 		margin-left: 51.71%;
-		left: -70px;
 	}
 
 	.nosvg #u521309
 	{
 		margin-left: 51.71%;
-		left: -70px;
 	}
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 16585px);
+		height: calc(100vh - 16283px);
 	}
 
 
