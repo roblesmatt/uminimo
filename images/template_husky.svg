@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1772 1773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <rect id="template_husky" x="0.112" y="0.716" width="1771.65" height="1771.65" style="fill:rgb(228,217,242);"/>
-    <rect x="143.053" y="472.071" width="1485.77" height="828.944" style="fill:rgb(202,180,230);"/>
+<svg width="100%" height="100%" viewBox="0 0 1773 1773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="template_husky" x="0.706" y="0.716" width="1771.65" height="1771.65" style="fill:rgb(228,217,242);"/>
+    <rect x="143.647" y="472.071" width="1485.77" height="828.944" style="fill:rgb(181,150,220);"/>
     <g>
-        <path d="M1063.44,507.572L1063.44,1265.51C1063.44,1285.11 1047.53,1301.02 1027.94,1301.02L743.938,1301.02C724.344,1301.02 708.437,1285.11 708.437,1265.51L708.437,507.572C708.437,487.979 724.344,472.071 743.938,472.071L1027.94,472.071C1047.53,472.071 1063.44,487.979 1063.44,507.572Z" style="fill:none;stroke:black;stroke-width:2.01px;"/>
+        <path d="M1064.04,507.572L1064.04,1265.51C1064.04,1285.11 1048.13,1301.02 1028.53,1301.02L744.532,1301.02C724.938,1301.02 709.032,1285.11 709.032,1265.51L709.032,507.572C709.032,487.979 724.938,472.071 744.532,472.071L1028.54,472.071C1048.13,472.071 1064.04,487.979 1064.04,507.572Z" style="fill:none;stroke:black;stroke-width:2.01px;"/>
     </g>
 </svg>

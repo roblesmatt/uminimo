@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1772 1773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <rect id="template_dalmata4" x="0.04" y="0.421" width="1771.65" height="1771.65" style="fill:white;"/>
+<svg width="100%" height="100%" viewBox="0 0 1773 1773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="template_dalmata4" x="0.634" y="0.421" width="1771.65" height="1771.65" style="fill:rgb(195,214,235);"/>
     <g>
-        <path d="M796.34,428.031L568.974,1173.04C563.096,1192.3 542.688,1203.16 523.43,1197.28L244.274,1112.09C225.015,1106.21 214.152,1085.8 220.03,1066.54L447.395,321.538C453.273,302.279 473.68,291.415 492.939,297.292L772.095,382.487C791.353,388.364 802.217,408.773 796.34,428.031Z" style="fill:rgb(248,248,248);"/>
+        <path d="M796.934,428.031L569.568,1173.04C563.691,1192.3 543.283,1203.16 524.024,1197.28L244.869,1112.09C225.609,1106.21 214.746,1085.8 220.624,1066.54L447.99,321.538C453.867,302.279 474.275,291.415 493.534,297.292L772.689,382.487C791.948,388.364 802.812,408.773 796.934,428.031Z" style="fill:rgb(150,183,220);"/>
     </g>
     <g>
-        <path d="M1549.01,770.066L1182.67,1457.47C1173.2,1475.24 1151.09,1481.98 1133.32,1472.51L875.746,1335.24C857.976,1325.77 851.238,1303.66 860.708,1285.89L1227.05,598.482C1236.52,580.712 1258.63,573.973 1276.4,583.443L1533.97,720.711C1551.74,730.18 1558.48,752.297 1549.01,770.066Z" style="fill:rgb(248,248,248);"/>
+        <path d="M1549.61,770.066L1183.27,1457.47C1173.8,1475.24 1151.68,1481.98 1133.91,1472.51L876.34,1335.24C858.57,1325.77 851.833,1303.66 861.303,1285.89L1227.64,598.482C1237.11,580.712 1259.23,573.973 1277,583.443L1534.57,720.711C1552.34,730.18 1559.08,752.297 1549.61,770.066Z" style="fill:rgb(150,183,220);"/>
     </g>
 </svg>

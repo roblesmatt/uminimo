@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1182 1773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <rect id="template_poddle" x="0.332" y="0.716" width="1181.1" height="1771.65" style="fill:rgb(225,217,215);"/>
-    <path d="M889.185,520.936L889.185,1252.15C889.185,1270.66 874.153,1285.7 855.637,1285.7L587.26,1285.7C568.745,1285.7 553.713,1270.66 553.713,1252.15L553.713,520.936C553.713,502.421 568.745,487.389 587.26,487.389L855.637,487.389C874.153,487.389 889.185,502.421 889.185,520.936Z" style="fill:rgb(137,103,95);fill-opacity:0.6;"/>
-    <path d="M628.052,520.936L628.052,1252.15C628.052,1270.66 613.02,1285.7 594.505,1285.7L326.128,1285.7C307.613,1285.7 292.581,1270.66 292.581,1252.15L292.581,520.936C292.581,502.421 307.613,487.389 326.128,487.389L594.505,487.389C613.02,487.389 628.052,502.421 628.052,520.936Z" style="fill:rgb(196,179,175);"/>
+<svg width="100%" height="100%" viewBox="0 0 1183 1773" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="template_poddle" x="0.926" y="0.716" width="1181.1" height="1771.65" style="fill:rgb(225,217,215);"/>
+    <path d="M889.779,520.936L889.779,1252.15C889.779,1270.66 874.747,1285.7 856.232,1285.7L587.855,1285.7C569.339,1285.7 554.307,1270.66 554.307,1252.15L554.307,520.936C554.307,502.421 569.339,487.389 587.855,487.389L856.232,487.389C874.747,487.389 889.779,502.421 889.779,520.936Z" style="fill:rgb(137,103,95);"/>
+    <path d="M628.647,520.936L628.647,1252.15C628.647,1270.66 613.615,1285.7 595.1,1285.7L326.722,1285.7C308.207,1285.7 293.175,1270.66 293.175,1252.15L293.175,520.936C293.175,502.421 308.207,487.389 326.722,487.389L595.1,487.389C613.615,487.389 628.647,502.421 628.647,520.936Z" style="fill:rgb(172,148,143);"/>
 </svg>
