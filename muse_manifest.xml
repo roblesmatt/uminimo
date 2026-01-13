@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1768248076894">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1768332455299">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="briefing.css" crc="203892187" ref="briefing"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="briefing.css" crc="4290315382" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="index.css" crc="182350764" ref="index"/>
+    <file name="index.css" crc="490169105" ref="index"/>
     <file name="nomq_index.css" crc="70615128" ref="index"/>
-    <file name="totor.css" crc="3883036587" ref="totor"/>
-    <file name="nomq_totor.css" crc="195561553" ref="totor"/>
+    <file name="totor.css" crc="4121698920" ref="totor"/>
+    <file name="nomq_totor.css" crc="4144103531" ref="totor"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
@@ -89,12 +89,12 @@
     <file name="icon_poster_u529511.png" crc="308547901" ref="totor"/>
     <file name="site_dalmata.svg" crc="4178777515" ref="totor"/>
     <file name="site_dalmata_poster_u529831.png" crc="3867187021" ref="totor"/>
-    <file name="site_buldogue.svg" crc="157849734" ref="totor"/>
-    <file name="site_buldogue_poster_u529695.png" crc="192114019" ref="totor"/>
+    <file name="site_buldogue.svg" crc="3966623521" ref="totor"/>
+    <file name="site_buldogue_poster_u529847.png" crc="234544520" ref="totor"/>
     <file name="site_golden.svg" crc="4084056421" ref="totor"/>
     <file name="site_golden_poster_u529711.png" crc="4259464672" ref="totor"/>
-    <file name="site_poodle.svg" crc="3941380054" ref="totor"/>
-    <file name="site_poodle_poster_u529823.png" crc="22945019" ref="totor"/>
+    <file name="site_poodle.svg" crc="330413244" ref="totor"/>
+    <file name="site_poodle_poster_u529839.png" crc="60929869" ref="totor"/>
     <file name="site_husky.svg" crc="3859478175" ref="totor"/>
     <file name="site_husky_poster_u529671.png" crc="4005563020" ref="totor"/>
     <file name="template_todos.svg" crc="4230709565" ref="totor"/>
@@ -125,10 +125,20 @@
     <file name="template_dalmata4_poster_u529631.png" crc="3796219197" ref="totor"/>
     <file name="template_dalmata5.svg" crc="292686956" ref="totor"/>
     <file name="template_dalmata5_poster_u529639.png" crc="4247323800" ref="totor"/>
-    <file name="template_layout_tecnico.svg" crc="22942449" ref="totor"/>
-    <file name="template_layout_tecnico_poster_u529559.png" crc="252916333" ref="totor"/>
+    <file name="template_tecnico1.svg" crc="3832165074" ref="totor"/>
+    <file name="template_tecnico1_poster_u529855.png" crc="4074727697" ref="totor"/>
+    <file name="template_tecnico2.svg" crc="3913399854" ref="totor"/>
+    <file name="template_tecnico2_poster_u529872.png" crc="3887993936" ref="totor"/>
+    <file name="template_tecnico3.svg" crc="4074787885" ref="totor"/>
+    <file name="template_tecnico3_poster_u529889.png" crc="4217760136" ref="totor"/>
+    <file name="template_tecnico4.svg" crc="197319294" ref="totor"/>
+    <file name="template_tecnico4_poster_u529921.png" crc="3910396816" ref="totor"/>
+    <file name="template_tecnico5.svg" crc="210681262" ref="totor"/>
+    <file name="template_tecnico5_poster_u529938.png" crc="270708814" ref="totor"/>
+    <file name="template_tecnico6.svg" crc="420416156" ref="totor"/>
+    <file name="template_tecnico6_poster_u529955.png" crc="262690547" ref="totor"/>
   </folder>
-  <file name="index.html" crc="392775623" seo="true" mt="1768247536256" redirect="true"/>
-  <file name="briefing.html" crc="174139242" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="4049546701" seo="true" mt="1768248042067" redirect="true"/>
+  <file name="index.html" crc="514512545" seo="true" mt="1768331996472" redirect="true"/>
+  <file name="briefing.html" crc="4134502299" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="453075850" seo="true" mt="1768332059582" redirect="true"/>
 </manifest>
