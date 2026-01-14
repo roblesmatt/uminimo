@@ -272,51 +272,18 @@
 
 	#u528538
 	{
-		height: 1170px;
+		height: 3120px;
 		margin-left: 1.71%;
 	}
 
-	#u529863
-	{
-		height: 1170px;
-		margin-top: 21px;
-		margin-left: 1.71%;
-	}
-
-	#u529880
-	{
-		height: 1950px;
-		margin-left: 1.71%;
-	}
-
-	#u529912
-	{
-		height: 1170px;
-		margin-top: 20px;
-		margin-left: 1.71%;
-	}
-
-	#u529929
-	{
-		height: 1170px;
-		margin-left: 1.71%;
-	}
-
-	#u529946
-	{
-		height: 1170px;
-		margin-top: 21px;
-		margin-left: 1.71%;
-	}
-
-	.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,#u526139,.nosvg #u528538,.nosvg #u529863,.nosvg #u529880,.nosvg #u529912,.nosvg #u529929,.nosvg #u529946
+	.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,#u526139,.nosvg #u528538
 	{
 		margin-left: 1.71%;
 	}
 
 	#u521309
 	{
-		margin-top: 20px;
+		margin-top: 21px;
 		margin-left: 51.71%;
 	}
 
@@ -327,7 +294,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 20676px);
+		height: calc(100vh - 15895px);
 	}
 
 
