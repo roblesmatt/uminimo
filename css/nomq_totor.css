@@ -270,15 +270,19 @@
 		padding-bottom: 85.47008547008546%;
 	}
 
-	#u528538
+	.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,#u526139,#u528538
 	{
-		height: 3120px;
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u528549,.nosvg #u521310,.nosvg #u527203,#u526139,.nosvg #u528538
+	.nosvg #u528538
 	{
 		margin-left: 1.71%;
+	}
+
+	#u528538 .fluid_height_spacer
+	{
+		padding-bottom: 266.66666666666663%;
 	}
 
 	#u521309
