@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769003459927">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769009378380">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="index.css" crc="470614566" ref="index"/>
-    <file name="nomq_index.css" crc="70615128" ref="index"/>
-    <file name="briefing.css" crc="4059610057" ref="briefing"/>
+    <file name="briefing.css" crc="3829795709" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="totor.css" crc="4221587314" ref="totor"/>
-    <file name="nomq_totor.css" crc="419194368" ref="totor"/>
+    <file name="totor.css" crc="280955459" ref="totor"/>
+    <file name="nomq_totor.css" crc="4062935888" ref="totor"/>
+    <file name="index.css" crc="389055782" ref="index"/>
+    <file name="nomq_index.css" crc="70615128" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
@@ -113,12 +113,12 @@
     <file name="template_golden5_poster_u530400.png" crc="15267994" ref="totor"/>
     <file name="template_golden6.svg" crc="402446170" ref="totor"/>
     <file name="template_golden6_poster_u530408.png" crc="56487250" ref="totor"/>
-    <file name="template_poddle.svg" crc="3825618450" ref="totor"/>
-    <file name="template_poddle_poster_u530224.png" crc="4151337792" ref="totor"/>
+    <file name="template_poddle.svg" crc="106765619" ref="totor"/>
+    <file name="template_poddle_poster_u530535.png" crc="452686856" ref="totor"/>
     <file name="template_buldogue.svg" crc="3845766193" ref="totor"/>
     <file name="template_buldogue_poster_u530416.png" crc="4076264820" ref="totor"/>
-    <file name="template_husky.svg" crc="446908604" ref="totor"/>
-    <file name="template_husky_poster_u530448.png" crc="3767426637" ref="totor"/>
+    <file name="template_husky.svg" crc="3973049019" ref="totor"/>
+    <file name="template_husky_poster_u530527.png" crc="231881550" ref="totor"/>
     <file name="template_dalmata1.svg" crc="4173476414" ref="totor"/>
     <file name="template_dalmata1_poster_u530424.png" crc="37322742" ref="totor"/>
     <file name="template_dalmata2.svg" crc="4125748778" ref="totor"/>
@@ -134,7 +134,7 @@
     <file name="template_tecnico.svg" crc="220184432" ref="totor"/>
     <file name="template_tecnico_poster_u530344.png" crc="3771209718" ref="totor"/>
   </folder>
-  <file name="index.html" crc="4273947163" seo="true" mt="1769003233138" redirect="true"/>
-  <file name="briefing.html" crc="4175539190" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="324487756" seo="true" mt="1769003235166" redirect="true"/>
+  <file name="index.html" crc="4004046552" seo="true" mt="1769007241827" redirect="true"/>
+  <file name="briefing.html" crc="230940198" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="3825260736" seo="true" mt="1769009331699" redirect="true"/>
 </manifest>
