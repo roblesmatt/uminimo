@@ -262,19 +262,14 @@
 		margin-left: 50.86%;
 	}
 
-	#u521314 .fluid_height_spacer
-	{
-		padding-bottom: 137.3913043478261%;
-	}
-
 	#u521323
 	{
 		margin-top: 20px;
 	}
 
-	#u521323 .fluid_height_spacer
+	#u521314 .fluid_height_spacer,#u521323 .fluid_height_spacer
 	{
-		padding-bottom: 151.6521739130435%;
+		padding-bottom: 144.52173913043478%;
 	}
 
 	#u527203
