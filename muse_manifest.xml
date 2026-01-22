@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769009701620">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769067040704">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="briefing.css" crc="4143312037" ref="briefing"/>
-    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="totor.css" crc="3849448824" ref="totor"/>
+    <file name="totor.css" crc="4233424931" ref="totor"/>
     <file name="nomq_totor.css" crc="3870491853" ref="totor"/>
-    <file name="index.css" crc="3924028023" ref="index"/>
+    <file name="briefing.css" crc="377876309" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="index.css" crc="4063639868" ref="index"/>
     <file name="nomq_index.css" crc="70615128" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
     <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
     <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
@@ -42,8 +42,8 @@
     <file name="favicon.ico" crc="138764580" ref="index"/>
     <file name="uminimo.svg" crc="507500714" ref="index:briefing:totor"/>
     <file name="uminimo_poster_u524327.png" crc="330049046" ref="index:briefing:totor"/>
-    <file name="site_chihuahua.svg" crc="3982437982" ref="index:totor"/>
-    <file name="site_chihuahua_poster_u530519.png" crc="278196714" ref="index:totor"/>
+    <file name="site_chihuahua.svg" crc="3765559165" ref="index:totor"/>
+    <file name="site_chihuahua_poster_u530593.png" crc="242179431" ref="index:totor"/>
     <file name="blank.gif" crc="4208392903" ref="index:briefing:totor"/>
     <file name="marca.svg" crc="4160258697" ref="index"/>
     <file name="marca_poster_u523890.png" crc="3998542142" ref="index"/>
@@ -87,8 +87,8 @@
     <file name="font_poster_u529751.png" crc="3855587026" ref="totor"/>
     <file name="icon.svg" crc="289767743" ref="totor"/>
     <file name="icon_poster_u529511.png" crc="308547901" ref="totor"/>
-    <file name="site_poodle.svg" crc="376489574" ref="totor"/>
-    <file name="site_poodle_poster_u530320.png" crc="4254542388" ref="totor"/>
+    <file name="site_poodle.svg" crc="438491455" ref="totor"/>
+    <file name="site_poodle_poster_u530601.png" crc="3959678318" ref="totor"/>
     <file name="site_golden.svg" crc="293824826" ref="totor"/>
     <file name="site_golden_poster_u530336.png" crc="488091923" ref="totor"/>
     <file name="site_buldogue.svg" crc="3879190394" ref="totor"/>
@@ -97,10 +97,10 @@
     <file name="site_dalmata_poster_u530312.png" crc="214196804" ref="totor"/>
     <file name="site_husky.svg" crc="347055059" ref="totor"/>
     <file name="site_husky_poster_u530296.png" crc="3933047158" ref="totor"/>
-    <file name="template_todos.svg" crc="4019337469" ref="totor"/>
-    <file name="template_todos_poster_u530216.png" crc="1747546" ref="totor"/>
-    <file name="template_chihuahua.svg" crc="4166394288" ref="totor"/>
-    <file name="template_chihuahua_poster_u530248.png" crc="4118566381" ref="totor"/>
+    <file name="template_todos.svg" crc="321412806" ref="totor"/>
+    <file name="template_todos_poster_u530569.png" crc="529422987" ref="totor"/>
+    <file name="template_chihuahua.svg" crc="4209491490" ref="totor"/>
+    <file name="template_chihuahua_poster_u530585.png" crc="166488520" ref="totor"/>
     <file name="template_golden1.svg" crc="426305540" ref="totor"/>
     <file name="template_golden1_poster_u530376.png" crc="233399968" ref="totor"/>
     <file name="template_golden4.svg" crc="508108848" ref="totor"/>
@@ -115,8 +115,8 @@
     <file name="template_golden6_poster_u530408.png" crc="56487250" ref="totor"/>
     <file name="template_poddle.svg" crc="106765619" ref="totor"/>
     <file name="template_poddle_poster_u530535.png" crc="452686856" ref="totor"/>
-    <file name="template_buldogue.svg" crc="3845766193" ref="totor"/>
-    <file name="template_buldogue_poster_u530416.png" crc="4076264820" ref="totor"/>
+    <file name="template_buldogue.svg" crc="255348254" ref="totor"/>
+    <file name="template_buldogue_poster_u530577.png" crc="336406030" ref="totor"/>
     <file name="template_husky.svg" crc="3973049019" ref="totor"/>
     <file name="template_husky_poster_u530527.png" crc="231881550" ref="totor"/>
     <file name="template_dalmata1.svg" crc="4173476414" ref="totor"/>
@@ -134,7 +134,7 @@
     <file name="template_tecnico.svg" crc="220184432" ref="totor"/>
     <file name="template_tecnico_poster_u530344.png" crc="3771209718" ref="totor"/>
   </folder>
-  <file name="index.html" crc="71815944" seo="true" mt="1769007241827" redirect="true"/>
-  <file name="briefing.html" crc="4111331853" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="3827939883" seo="true" mt="1769009654121" redirect="true"/>
+  <file name="index.html" crc="529314068" seo="true" mt="1769066961718" redirect="true"/>
+  <file name="briefing.html" crc="165350473" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="244234595" seo="true" mt="1769066991336" redirect="true"/>
 </manifest>
