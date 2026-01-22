@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769099164622">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769099573640">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="totor.css" crc="3924096942" ref="totor"/>
-    <file name="nomq_totor.css" crc="4094721547" ref="totor"/>
-    <file name="index.css" crc="4266771114" ref="index"/>
-    <file name="nomq_index.css" crc="70615128" ref="index"/>
-    <file name="briefing.css" crc="309644343" ref="briefing"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="briefing.css" crc="4083446940" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="index.css" crc="3800014318" ref="index"/>
+    <file name="nomq_index.css" crc="70615128" ref="index"/>
+    <file name="totor.css" crc="313058341" ref="totor"/>
+    <file name="nomq_totor.css" crc="4094721547" ref="totor"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
     <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
     <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
@@ -124,7 +124,7 @@
     <file name="template_tecnico.svg" crc="410870639" ref="totor"/>
     <file name="template_tecnico_poster_u530713.png" crc="437923153" ref="totor"/>
   </folder>
-  <file name="index.html" crc="3968768430" seo="true" mt="1769098868283" redirect="true"/>
-  <file name="briefing.html" crc="255045112" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="412602311" seo="true" mt="1769099091963" redirect="true"/>
+  <file name="index.html" crc="48463857" seo="true" mt="1769098868283" redirect="true"/>
+  <file name="briefing.html" crc="4052795278" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="4051262458" seo="true" mt="1769099091963" redirect="true"/>
 </manifest>

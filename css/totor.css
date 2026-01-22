@@ -1,16 +1,7 @@
 .version.totor /* version checker */
 {
-	color: #0000E9;
-	background-color: #E4F7AE;
-}
-
-@font-face
-{
-	font-family: '__Open Sans_5';
-	src: url('../fonts/open-sans-v18-latin-700.eot');
-	src: local('☺'), url('../fonts/open-sans-v18-latin-700.woff') format('woff'), url('../fonts/open-sans-v18-latin-700.svg') format('svg');
-	font-weight: 700;
-	font-style: normal;
+	color: #000012;
+	background-color: #A8E425;
 }
 
 @font-face
@@ -25,6 +16,15 @@
 @font-face
 {
 	font-family: '__Open Sans_5';
+	src: url('../fonts/open-sans-v18-latin-700.eot');
+	src: local('☺'), url('../fonts/open-sans-v18-latin-700.woff') format('woff'), url('../fonts/open-sans-v18-latin-700.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: '__Open Sans_5';
 	src: url('../fonts/opensans-bolditalic-webfont.eot');
 	src: local('☺'), url('../fonts/opensans-bolditalic-webfont.woff') format('woff'), url('../fonts/opensans-bolditalic-webfont.svg') format('svg');
 	font-weight: 700;
@@ -33,24 +33,24 @@
 
 #page
 {
-	background-image: none;
 	margin-left: auto;
 	border-color: #000000;
-	z-index: 1;
 	margin-right: auto;
-	width: 100%;
 	background-color: #F1F1F1;
 	border-width: 0px;
+	width: 100%;
+	background-image: none;
+	z-index: 1;
 }
 
 #buttonu524045
 {
-	min-height: 55px;
-	position: fixed;
-	top: 0px;
-	background-color: #FFFFFF;
-	border-color: #787878;
 	z-index: 44;
+	position: fixed;
+	min-height: 55px;
+	top: 0px;
+	border-color: #787878;
+	background-color: #FFFFFF;
 }
 
 #buttonu524045:hover
@@ -67,21 +67,21 @@
 
 #buttonu524045_align_to_page
 {
-	margin-right: auto;
 	margin-left: auto;
+	margin-right: auto;
 	position: relative;
 }
 
 #buttonu524224
 {
-	margin-right: -10000px;
-	width: 55px;
+	z-index: 59;
 	height: 55px;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	position: relative;
-	z-index: 59;
 	border-color: #787878;
+	position: relative;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	width: 55px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: #FFFFFF url("../images/anterior1.svg?crc=430490106") no-repeat center bottom;
 	background-size: cover;
@@ -94,10 +94,10 @@
 
 #buttonu524224:hover
 {
-	background-position: center bottom;
-	background-repeat: no-repeat;
-	min-height: 0px;
 	width: 55px;
+	background-position: center bottom;
+	min-height: 0px;
+	background-repeat: no-repeat;
 	height: 55px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
@@ -105,10 +105,10 @@
 
 #buttonu524224:active
 {
-	background-position: center bottom;
-	background-repeat: no-repeat;
-	min-height: 0px;
 	width: 55px;
+	background-position: center bottom;
+	min-height: 0px;
+	background-repeat: no-repeat;
 	height: 55px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
@@ -116,10 +116,10 @@
 
 #buttonu524224.ButtonSelected
 {
-	background-position: center bottom;
-	background-repeat: no-repeat;
-	min-height: 0px;
 	width: 55px;
+	background-position: center bottom;
+	min-height: 0px;
+	background-repeat: no-repeat;
 	height: 55px;
 	margin: 0px -10000px 0px 0px;
 	background-size: cover;
@@ -127,25 +127,25 @@
 
 #u524074-4
 {
-	text-align: center;
 	color: #B4B4B4;
-	position: relative;
-	margin-right: -10000px;
-	font-size: 16px;
+	z-index: 49;
 	letter-spacing: 0px;
 	min-height: 55px;
-	background-color: transparent;
-	z-index: 49;
-	width: 35px;
-	font-family: '__Open Sans_5';
 	font-weight: 700;
+	position: relative;
 	line-height: 3.4;
+	font-family: '__Open Sans_5';
+	background-color: transparent;
+	width: 35px;
+	text-align: center;
+	margin-right: -10000px;
+	font-size: 16px;
 }
 
 #buttonu524045:hover #u524074-4
 {
-	width: 35px;
 	padding-top: 0px;
+	width: 35px;
 	min-height: 55px;
 	padding-bottom: 0px;
 	margin: 0px -10000px 0px 0%;
@@ -153,32 +153,32 @@
 
 #buttonu524045:hover #u524074-4 p
 {
+	line-height: 3.4;
 	text-align: center;
 	font-size: 16px;
-	line-height: 3.4;
 }
 
 #u524073-4
 {
-	text-align: center;
 	color: #B4B4B4;
-	position: relative;
-	margin-right: -10000px;
-	font-size: 16px;
+	z-index: 45;
 	letter-spacing: 0px;
 	min-height: 55px;
-	background-color: transparent;
-	z-index: 45;
-	width: 35px;
-	font-family: '__Open Sans_5';
 	font-weight: 700;
+	position: relative;
 	line-height: 3.4;
+	font-family: '__Open Sans_5';
+	background-color: transparent;
+	width: 35px;
+	text-align: center;
+	margin-right: -10000px;
+	font-size: 16px;
 }
 
 #buttonu524045.ButtonSelected #u524074-4,#buttonu524045:hover #u524073-4
 {
-	width: 35px;
 	padding-top: 0px;
+	width: 35px;
 	min-height: 55px;
 	padding-bottom: 0px;
 	margin: 0px -10000px 0px 0%;
@@ -186,31 +186,31 @@
 
 #buttonu524045.ButtonSelected #u524074-4 p,#buttonu524045:hover #u524073-4 p
 {
+	line-height: 3.4;
 	text-align: center;
 	font-size: 16px;
-	line-height: 3.4;
 }
 
 #u524075-4
 {
-	margin-right: -10000px;
-	position: relative;
-	text-align: center;
-	font-size: 16px;
+	z-index: 53;
 	letter-spacing: 0px;
 	min-height: 55px;
-	background-color: transparent;
-	z-index: 53;
-	width: 35px;
-	font-family: '__Open Sans_5';
 	font-weight: 700;
+	position: relative;
 	line-height: 3.4;
+	margin-right: -10000px;
+	background-color: transparent;
+	width: 35px;
+	text-align: center;
+	font-family: '__Open Sans_5';
+	font-size: 16px;
 }
 
 #buttonu524045.ButtonSelected #u524073-4,#buttonu524045:hover #u524075-4
 {
-	width: 35px;
 	padding-top: 0px;
+	width: 35px;
 	min-height: 55px;
 	padding-bottom: 0px;
 	margin: 0px -10000px 0px 0%;
@@ -218,8 +218,8 @@
 
 #buttonu524045.ButtonSelected #u524075-4
 {
-	width: 35px;
 	padding-top: 0px;
+	width: 35px;
 	min-height: 55px;
 	padding-bottom: 0px;
 	margin: 0px -10000px 0px 0%;
@@ -227,28 +227,28 @@
 
 #buttonu524045.ButtonSelected #u524073-4 p,#buttonu524045:hover #u524075-4 p
 {
+	line-height: 3.4;
 	text-align: center;
 	font-size: 16px;
-	line-height: 3.4;
 }
 
 #buttonu524045.ButtonSelected #u524075-4 p
 {
+	line-height: 3.4;
 	text-align: center;
 	font-size: 16px;
-	line-height: 3.4;
 }
 
 #buttonu524207
 {
-	margin-right: -10000px;
-	width: 55px;
+	z-index: 58;
 	height: 55px;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	position: relative;
-	z-index: 58;
 	border-color: #787878;
+	position: relative;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	width: 55px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: #FFFFFF url("../images/proximo1.svg?crc=329782524") no-repeat center bottom;
 	background-size: cover;
@@ -261,10 +261,10 @@
 
 #buttonu524207:hover
 {
-	background-position: center bottom;
-	background-repeat: no-repeat;
 	min-height: 0px;
+	background-position: center bottom;
 	width: 55px;
+	background-repeat: no-repeat;
 	height: 55px;
 	margin: 0px -10000px 0px 0%;
 	background-size: cover;
@@ -272,10 +272,10 @@
 
 #buttonu524207.ButtonSelected
 {
-	background-position: center bottom;
-	background-repeat: no-repeat;
 	min-height: 0px;
+	background-position: center bottom;
 	width: 55px;
+	background-repeat: no-repeat;
 	height: 55px;
 	margin: 0px -10000px 0px 0%;
 	background-size: cover;
@@ -283,16 +283,16 @@
 
 #buttonu524189
 {
-	margin-right: -10000px;
 	left: -55px;
-	width: 55px;
 	margin-left: 100%;
+	z-index: 57;
 	height: 55px;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	position: relative;
-	z-index: 57;
 	border-color: #787878;
+	position: relative;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	width: 55px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: #FFFFFF url("../images/fechar.svg?crc=4163833896") no-repeat center top;
 	background-size: cover;
@@ -301,17 +301,17 @@
 .nosvg #buttonu524189
 {
 	left: -55px;
-	background-image: url('../images/fechar_poster_u524618.png?crc=4121185911');
 	margin-left: 100%;
+	background-image: url('../images/fechar_poster_u524618.png?crc=4121185911');
 }
 
 #buttonu524189:hover
 {
-	left: -55px;
-	background-position: center bottom;
-	background-repeat: no-repeat;
 	min-height: 0px;
+	background-position: center bottom;
+	left: -55px;
 	width: 55px;
+	background-repeat: no-repeat;
 	height: 55px;
 	margin: 0px -10000px 0px 100%;
 	background-size: cover;
@@ -319,11 +319,11 @@
 
 #buttonu524189:active
 {
-	left: -55px;
-	background-position: center top;
-	background-repeat: no-repeat;
 	min-height: 0px;
+	background-position: center top;
+	left: -55px;
 	width: 55px;
+	background-repeat: no-repeat;
 	height: 55px;
 	margin: 0px -10000px 0px 100%;
 	background-size: cover;
@@ -336,8 +336,8 @@
 
 #pu521319
 {
-	margin-right: -10000px;
 	margin-top: 105px;
+	margin-right: -10000px;
 	z-index: 20;
 }
 
@@ -345,25 +345,25 @@
 {
 	left: 0%;
 	border-radius: 10px;
-	position: relative;
 	z-index: 20;
-	background-color: #FFFFFF;
+	position: relative;
 	padding-bottom: 30px;
+	background-color: #FFFFFF;
 }
 
 #u521313-13
 {
-	text-align: justify;
 	color: #000000;
-	position: relative;
-	margin-right: -10000px;
-	font-size: 13px;
-	background-color: transparent;
 	z-index: 21;
-	margin-top: 30px;
-	font-family: '__Open Sans_5';
+	position: relative;
 	font-weight: 400;
+	margin-top: 30px;
 	line-height: 2;
+	margin-right: -10000px;
+	background-color: transparent;
+	text-align: justify;
+	font-family: '__Open Sans_5';
+	font-size: 13px;
 }
 
 #u521313
@@ -381,13 +381,13 @@
 
 #u521316
 {
-	position: relative;
-	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	border-width: 0px;
 	z-index: 37;
-	border-radius: 10px;
+	position: relative;
+	border-width: 0px;
+	filter: alpha(opacity=100);
 	border-color: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	border-radius: 10px;
 	opacity: 1;
 	background: transparent url("../images/logo_site_1.svg?crc=94901394") no-repeat center center;
 	background-size: cover;
@@ -400,12 +400,12 @@
 
 #u521322
 {
-	margin-right: -10000px;
+	z-index: 34;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 34;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/logo_site_2.svg?crc=4196856951") no-repeat center center;
 	background-size: cover;
@@ -418,12 +418,12 @@
 
 #u521445
 {
-	margin-right: -10000px;
+	z-index: 42;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 42;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/logo_site_3.svg?crc=3974281768") no-repeat center center;
 	background-size: cover;
@@ -436,12 +436,12 @@
 
 #u529116
 {
-	margin-right: -10000px;
+	z-index: 4;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 4;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: #FFFFFF url("../images/cor2.svg?crc=4104871212") no-repeat center center;
 	background-size: contain;
@@ -454,12 +454,12 @@
 
 #u529114
 {
-	margin-right: -10000px;
+	z-index: 3;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 3;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: #000000 url("../images/cor1.svg?crc=493090095") no-repeat center center;
 	background-size: contain;
@@ -473,12 +473,12 @@
 #u524864
 {
 	left: 0%;
+	z-index: 19;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 19;
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: #FFFFFF url("../images/font.svg?crc=66497958") no-repeat center center;
 	background-size: cover;
@@ -498,13 +498,13 @@
 #u528549
 {
 	left: 0%;
+	z-index: 5;
 	position: relative;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 5;
 	margin-top: 20px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/icon.svg?crc=289767743") no-repeat center center;
 	background-size: cover;
@@ -518,19 +518,19 @@
 
 #pu521311
 {
-	left: 0%;
 	width: 100%;
+	left: 0%;
 	z-index: 35;
 }
 
 #u521311
 {
-	margin-right: -10000px;
+	z-index: 35;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 35;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_chihuahua.svg?crc=3765559165") no-repeat center center;
 	background-size: cover;
@@ -543,12 +543,12 @@
 
 #u521640
 {
-	margin-right: -10000px;
+	z-index: 43;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 43;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_poodle.svg?crc=438491455") no-repeat center center;
 	background-size: cover;
@@ -561,12 +561,12 @@
 
 #u521318
 {
-	margin-right: -10000px;
+	z-index: 40;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 40;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_golden.svg?crc=411968410") no-repeat center center;
 	background-size: cover;
@@ -579,12 +579,12 @@
 
 #u521320
 {
-	margin-right: -10000px;
+	z-index: 38;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 38;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_buldogue.svg?crc=3879190394") no-repeat center top;
 	background-size: cover;
@@ -597,12 +597,12 @@
 
 #u522903
 {
-	margin-right: -10000px;
+	z-index: 2;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 2;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_dalmata.svg?crc=4195258058") no-repeat left top;
 	background-size: cover;
@@ -615,12 +615,12 @@
 
 #u521317
 {
-	margin-right: -10000px;
+	z-index: 36;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 36;
 	border-radius: 10px;
+	margin-right: -10000px;
 	opacity: 1;
 	background: transparent url("../images/site_husky.svg?crc=347055059") no-repeat center center;
 	background-size: cover;
@@ -634,12 +634,12 @@
 #u521310
 {
 	left: 0%;
+	z-index: 39;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 39;
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_todos.svg?crc=4218628023") no-repeat center center;
 	background-size: cover;
@@ -653,12 +653,12 @@
 
 #u521324
 {
+	z-index: 12;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 12;
-	width: 100%;
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_chihuahua.svg?crc=236159158") no-repeat center center;
 	background-size: cover;
@@ -671,12 +671,12 @@
 
 #u521314
 {
+	z-index: 13;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 13;
-	width: 100%;
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_poddle.svg?crc=4216377591") no-repeat center center;
 	background-size: cover;
@@ -689,12 +689,12 @@
 
 #u521312
 {
+	z-index: 14;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 14;
-	width: 100%;
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden1.svg?crc=412967634") no-repeat center center;
 	background-size: cover;
@@ -712,12 +712,12 @@
 
 #u525035
 {
+	z-index: 16;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 16;
-	width: 100%;
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden2.svg?crc=3819972747") no-repeat center center;
 	background-size: cover;
@@ -730,13 +730,13 @@
 
 #u525044
 {
+	z-index: 17;
 	position: relative;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 17;
 	margin-top: 20px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden3.svg?crc=3963381608") no-repeat center center;
 	background-size: cover;
@@ -749,13 +749,13 @@
 
 #u525053
 {
+	z-index: 18;
 	position: relative;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 18;
 	margin-top: 20px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_golden4.svg?crc=464593124") no-repeat center center;
 	background-size: cover;
@@ -768,12 +768,12 @@
 
 #u521323
 {
+	z-index: 15;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 15;
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_buldogue.svg?crc=4028365489") no-repeat center center;
 	background-size: cover;
@@ -787,13 +787,13 @@
 #u527203
 {
 	left: 0%;
+	z-index: 7;
 	position: relative;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 7;
 	margin-top: 20px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_husky.svg?crc=759545") no-repeat center center;
 	background-size: cover;
@@ -807,22 +807,22 @@
 
 #u526139
 {
+	border-radius: 10px;
+	z-index: 8;
+	position: relative;
 	left: 0%;
 	width: 100%;
-	border-radius: 10px;
-	position: relative;
 	background-color: #B596DC;
-	z-index: 8;
 }
 
 #u524841
 {
+	z-index: 9;
 	position: relative;
 	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	z-index: 9;
-	width: 100%;
 	border-radius: 10px 10px 0px 0px ;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_dalmata1.svg?crc=3932354538") no-repeat center center;
 	background-size: cover;
@@ -835,11 +835,11 @@
 
 #u525118
 {
-	width: 100%;
-	z-index: 10;
-	position: relative;
-	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	position: relative;
+	width: 100%;
+	filter: alpha(opacity=100);
+	z-index: 10;
 	opacity: 1;
 	background: transparent url("../images/template_dalmata2.svg?crc=7348072") no-repeat center center;
 	background-size: cover;
@@ -852,11 +852,11 @@
 
 #u525127
 {
-	width: 100%;
-	z-index: 11;
-	position: relative;
-	filter: alpha(opacity=100);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	position: relative;
+	width: 100%;
+	filter: alpha(opacity=100);
+	z-index: 11;
 	opacity: 1;
 	background: transparent url("../images/template_dalmata3.svg?crc=4214355487") no-repeat center center;
 	background-size: cover;
@@ -870,13 +870,13 @@
 #u528538
 {
 	left: 0%;
+	z-index: 6;
 	position: relative;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	width: 100%;
-	z-index: 6;
 	margin-top: 19px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	border-radius: 10px;
+	width: 100%;
 	opacity: 1;
 	background: transparent url("../images/template_tecnico.svg?crc=410870639") no-repeat center center;
 	background-size: cover;
@@ -891,13 +891,13 @@
 #u521309
 {
 	left: -70px;
-	width: 140px;
+	z-index: 41;
 	height: 50px;
 	filter: alpha(opacity=100);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	position: relative;
-	z-index: 41;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	border-radius: 10px 10px 0px 0px ;
+	width: 140px;
 	opacity: 1;
 	background: #000000 url("../images/uminimo.svg?crc=507500714") no-repeat center center;
 	background-size: contain;
