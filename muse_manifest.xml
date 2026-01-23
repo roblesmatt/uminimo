@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769117351979">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769129641810">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="index.css" crc="194422517" ref="index"/>
-    <file name="nomq_index.css" crc="70615128" ref="index"/>
-    <file name="briefing.css" crc="511077249" ref="briefing"/>
-    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="totor.css" crc="3914731364" ref="totor"/>
+    <file name="totor.css" crc="4073435044" ref="totor"/>
     <file name="nomq_totor.css" crc="376970235" ref="totor"/>
+    <file name="briefing.css" crc="4186569776" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="index.css" crc="3941834818" ref="index"/>
+    <file name="nomq_index.css" crc="70615128" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
@@ -97,8 +97,8 @@
     <file name="site_dalmata_poster_u530312.png" crc="214196804" ref="totor"/>
     <file name="site_husky.svg" crc="347055059" ref="totor"/>
     <file name="site_husky_poster_u530296.png" crc="3933047158" ref="totor"/>
-    <file name="template_todos.svg" crc="230153049" ref="totor"/>
-    <file name="template_todos_poster_u530857.png" crc="3781769585" ref="totor"/>
+    <file name="template_todos.svg" crc="121343935" ref="totor"/>
+    <file name="template_todos_poster_u530888.png" crc="4181536557" ref="totor"/>
     <file name="template_chihuahua.svg" crc="4257340964" ref="totor"/>
     <file name="template_chihuahua_poster_u530849.png" crc="121912178" ref="totor"/>
     <file name="template_golden1.svg" crc="4168450937" ref="totor"/>
@@ -113,18 +113,18 @@
     <file name="template_poddle_poster_u530833.png" crc="4134869752" ref="totor"/>
     <file name="template_buldogue.svg" crc="4234821591" ref="totor"/>
     <file name="template_buldogue_poster_u530841.png" crc="469783624" ref="totor"/>
-    <file name="template_husky.svg" crc="129936755" ref="totor"/>
-    <file name="template_husky_poster_u530825.png" crc="3834192695" ref="totor"/>
-    <file name="template_dalmata1.svg" crc="4286381362" ref="totor"/>
-    <file name="template_dalmata1_poster_u530801.png" crc="383293494" ref="totor"/>
-    <file name="template_dalmata2.svg" crc="444398333" ref="totor"/>
-    <file name="template_dalmata2_poster_u530809.png" crc="258064206" ref="totor"/>
-    <file name="template_dalmata3.svg" crc="223138547" ref="totor"/>
-    <file name="template_dalmata3_poster_u530817.png" crc="4258167775" ref="totor"/>
+    <file name="template_dalmata.svg" crc="4047097826" ref="totor"/>
+    <file name="template_dalmata_poster_u530920.png" crc="534515254" ref="totor"/>
+    <file name="template_husky1.svg" crc="4286381362" ref="totor"/>
+    <file name="template_husky1_poster_u530896.png" crc="383293494" ref="totor"/>
+    <file name="template_husky2.svg" crc="444398333" ref="totor"/>
+    <file name="template_husky2_poster_u530904.png" crc="258064206" ref="totor"/>
+    <file name="template_husky3.svg" crc="223138547" ref="totor"/>
+    <file name="template_husky3_poster_u530912.png" crc="4258167775" ref="totor"/>
     <file name="template_tecnico.svg" crc="410870639" ref="totor"/>
     <file name="template_tecnico_poster_u530713.png" crc="437923153" ref="totor"/>
   </folder>
-  <file name="index.html" crc="427904973" seo="true" mt="1769116825847" redirect="true"/>
-  <file name="briefing.html" crc="3833383454" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="164471751" seo="true" mt="1769117302907" redirect="true"/>
+  <file name="index.html" crc="341685196" seo="true" mt="1769128996022" redirect="true"/>
+  <file name="briefing.html" crc="493448536" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="3888970523" seo="true" mt="1769128996783" redirect="true"/>
 </manifest>
