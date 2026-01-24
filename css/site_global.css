@@ -109,12 +109,6 @@ body
 	font-feature-settings: 'liga';
 }
 
-a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 a:link
 {
 	font-style: normal;

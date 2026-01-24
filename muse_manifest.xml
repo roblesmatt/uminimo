@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769222405048">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769224947897">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="index.css" crc="345132245" ref="index"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="index.css" crc="10085290" ref="index"/>
     <file name="nomq_index.css" crc="70615128" ref="index"/>
-    <file name="briefing.css" crc="4160747700" ref="briefing"/>
+    <file name="totor.css" crc="527120" ref="totor"/>
+    <file name="nomq_totor.css" crc="528057669" ref="totor"/>
+    <file name="briefing.css" crc="404963799" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="totor.css" crc="3812554062" ref="totor"/>
-    <file name="nomq_totor.css" crc="333429539" ref="totor"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
-    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
-    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
     <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
     <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
+    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
+    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
     <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
     <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
     <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
@@ -97,8 +97,8 @@
     <file name="site_dalmata_poster_u530312.png" crc="214196804" ref="totor"/>
     <file name="site_husky.svg" crc="347055059" ref="totor"/>
     <file name="site_husky_poster_u530296.png" crc="3933047158" ref="totor"/>
-    <file name="template_todos.svg" crc="4157010670" ref="totor"/>
-    <file name="template_todos_poster_u530960.png" crc="4057420484" ref="totor"/>
+    <file name="template_todos.svg" crc="493905338" ref="totor"/>
+    <file name="template_todos_poster_u531098.png" crc="449614962" ref="totor"/>
     <file name="template_chihuahua.svg" crc="4274106262" ref="totor"/>
     <file name="template_chihuahua_poster_u530968.png" crc="4198087414" ref="totor"/>
     <file name="template_golden1.svg" crc="4062653828" ref="totor"/>
@@ -116,15 +116,15 @@
     <file name="template_dalmata.svg" crc="3935377810" ref="totor"/>
     <file name="template_dalmata_poster_u530928.png" crc="4016395324" ref="totor"/>
     <file name="template_husky1.svg" crc="4243624917" ref="totor"/>
-    <file name="template_husky1_poster_u531032.png" crc="213072343" ref="totor"/>
-    <file name="template_husky2.svg" crc="4132926585" ref="totor"/>
-    <file name="template_husky2_poster_u531040.png" crc="39363243" ref="totor"/>
-    <file name="template_husky3.svg" crc="4048458338" ref="totor"/>
-    <file name="template_husky3_poster_u531048.png" crc="235662943" ref="totor"/>
-    <file name="template_tecnico.svg" crc="410870639" ref="totor"/>
-    <file name="template_tecnico_poster_u530713.png" crc="437923153" ref="totor"/>
+    <file name="template_husky1_poster_u531090.png" crc="213072343" ref="totor"/>
+    <file name="template_husky2.svg" crc="24490213" ref="totor"/>
+    <file name="template_husky2_poster_u531082.png" crc="4262131261" ref="totor"/>
+    <file name="template_husky3.svg" crc="469559148" ref="totor"/>
+    <file name="template_husky3_poster_u531074.png" crc="3956306292" ref="totor"/>
+    <file name="template_tecnico.svg" crc="226283431" ref="totor"/>
+    <file name="template_tecnico_poster_u531106.png" crc="4236028367" ref="totor"/>
   </folder>
-  <file name="index.html" crc="4284599591" seo="true" mt="1769219642628" redirect="true"/>
-  <file name="briefing.html" crc="66238254" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="514845176" seo="true" mt="1769222358982" redirect="true"/>
+  <file name="index.html" crc="4020475964" seo="true" mt="1769224799160" redirect="true"/>
+  <file name="briefing.html" crc="315243068" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="4131199922" seo="true" mt="1769224889268" redirect="true"/>
 </manifest>

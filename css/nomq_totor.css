@@ -285,13 +285,9 @@
 		margin-left: 1.71%;
 	}
 
-	#u528538 .fluid_height_spacer
-	{
-		padding-bottom: 266.66666666666663%;
-	}
-
 	#u521309
 	{
+		margin-top: 20px;
 		margin-left: 51.71%;
 	}
 
@@ -302,7 +298,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 13067px);
+		height: calc(100vh - 11117px);
 	}
 
 
