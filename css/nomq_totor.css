@@ -41,7 +41,6 @@
 
 	#pu521319
 	{
-		padding-bottom: 0px;
 		width: 96.7%;
 	}
 
@@ -222,11 +221,6 @@
 		width: 48.18%;
 	}
 
-	#u525053
-	{
-		margin-top: 20px;
-	}
-
 	#u525053 .fluid_height_spacer
 	{
 		padding-bottom: 177.9783393501805%;
@@ -253,19 +247,20 @@
 	#pu521314
 	{
 		z-index: 13;
+		padding-bottom: 0px;
 		margin-right: -10000px;
 		width: 49.15%;
 		margin-left: 50.86%;
 	}
 
-	#u521323
+	#u521314 .fluid_height_spacer
 	{
-		margin-top: 21px;
+		padding-bottom: 137.3913043478261%;
 	}
 
-	#u521314 .fluid_height_spacer,#u521323 .fluid_height_spacer
+	#u525053,#u521323
 	{
-		padding-bottom: 118.6086956521739%;
+		margin-top: 20px;
 	}
 
 	#u527203
@@ -274,7 +269,7 @@
 		margin-left: 1.71%;
 	}
 
-	#u527203 .fluid_height_spacer,#u524841 .fluid_height_spacer,#u525118 .fluid_height_spacer,#u525127 .fluid_height_spacer
+	#u524841 .fluid_height_spacer,#u525118 .fluid_height_spacer,#u525127 .fluid_height_spacer
 	{
 		padding-bottom: 85.47008547008546%;
 	}
@@ -307,7 +302,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 12898px);
+		height: calc(100vh - 13067px);
 	}
 
 

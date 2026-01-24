@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769219978228">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769222405048">
   <folder name="css">
     <file name="site_global.css" crc="198762739"/>
-    <file name="totor.css" crc="4152936649" ref="totor"/>
-    <file name="nomq_totor.css" crc="376970235" ref="totor"/>
-    <file name="briefing.css" crc="190560650" ref="briefing"/>
-    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="index.css" crc="3903957609" ref="index"/>
+    <file name="index.css" crc="345132245" ref="index"/>
     <file name="nomq_index.css" crc="70615128" ref="index"/>
+    <file name="briefing.css" crc="4160747700" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
+    <file name="totor.css" crc="3812554062" ref="totor"/>
+    <file name="nomq_totor.css" crc="333429539" ref="totor"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
@@ -124,7 +124,7 @@
     <file name="template_tecnico.svg" crc="410870639" ref="totor"/>
     <file name="template_tecnico_poster_u530713.png" crc="437923153" ref="totor"/>
   </folder>
-  <file name="index.html" crc="4221845627" seo="true" mt="1769219642628" redirect="true"/>
-  <file name="briefing.html" crc="224140978" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="361014902" seo="true" mt="1769219936136" redirect="true"/>
+  <file name="index.html" crc="4284599591" seo="true" mt="1769219642628" redirect="true"/>
+  <file name="briefing.html" crc="66238254" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="514845176" seo="true" mt="1769222358982" redirect="true"/>
 </manifest>
