@@ -78,12 +78,6 @@
 		left: 50.77%;
 	}
 
-	#u521445
-	{
-		width: 23.68%;
-		left: 76.33%;
-	}
-
 	#pu529114
 	{
 		z-index: 4;
@@ -120,14 +114,27 @@
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u524864,#u528549
+	#u528549
 	{
-		margin-left: 1.71%;
+		width: 23.68%;
 	}
 
-	#u528549 .fluid_height_spacer
+	#u531209
 	{
-		padding-bottom: 29.65811965811966%;
+		width: 23.68%;
+		left: 25.39%;
+	}
+
+	#u531218
+	{
+		width: 23.68%;
+		left: 50.95%;
+	}
+
+	#u521445,#u531227
+	{
+		width: 23.68%;
+		left: 76.33%;
 	}
 
 	#pu521311
@@ -185,7 +192,7 @@
 		padding-bottom: 125%;
 	}
 
-	.nosvg #u528549,#u521310
+	.nosvg #u524864,#pu528549,#u521310
 	{
 		margin-left: 1.71%;
 	}
@@ -264,7 +271,7 @@
 		padding-bottom: 137.3913043478261%;
 	}
 
-	#u525053,#u521323
+	#u521323
 	{
 		margin-top: 20px;
 	}
@@ -307,7 +314,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 10846px);
+		height: calc(100vh - 10776px);
 	}
 
 

@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1769256075611">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770151177553">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="totor.css" crc="463808218" ref="totor"/>
-    <file name="nomq_totor.css" crc="535217411" ref="totor"/>
+    <file name="totor.css" crc="423767174" ref="totor"/>
+    <file name="nomq_totor.css" crc="210845825" ref="totor"/>
     <file name="briefing.css" crc="75921945" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="index.css" crc="4257636857" ref="index"/>
+    <file name="index.css" crc="4011702771" ref="index"/>
     <file name="nomq_index.css" crc="70615128" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -85,8 +85,6 @@
     <file name="cor2_poster_u529807.png" crc="29197822" ref="totor"/>
     <file name="font.svg" crc="66497958" ref="totor"/>
     <file name="font_poster_u529751.png" crc="3855587026" ref="totor"/>
-    <file name="icon.svg" crc="4018848425" ref="totor"/>
-    <file name="icon_poster_u530865.png" crc="4054917969" ref="totor"/>
     <file name="site_poodle.svg" crc="498633756" ref="totor"/>
     <file name="site_poodle_poster_u531024.png" crc="436390743" ref="totor"/>
     <file name="site_golden.svg" crc="411968410" ref="totor"/>
@@ -119,8 +117,16 @@
     <file name="template_husky_poster_u531178.png" crc="4209764277" ref="totor"/>
     <file name="template_tecnico.svg" crc="226283431" ref="totor"/>
     <file name="template_tecnico_poster_u531106.png" crc="4236028367" ref="totor"/>
+    <file name="icon_1.svg" crc="272901577" ref="totor"/>
+    <file name="icon_1_poster_u531236.png" crc="434559167" ref="totor"/>
+    <file name="icon_2.svg" crc="321770747" ref="totor"/>
+    <file name="icon_2_poster_u531244.png" crc="337716713" ref="totor"/>
+    <file name="icon_3.svg" crc="425493727" ref="totor"/>
+    <file name="icon_3_poster_u531252.png" crc="4273823648" ref="totor"/>
+    <file name="icon_4.svg" crc="504927111" ref="totor"/>
+    <file name="icon_4_poster_u531260.png" crc="3960067473" ref="totor"/>
   </folder>
-  <file name="index.html" crc="395856089" seo="true" mt="1769255991505" redirect="true"/>
+  <file name="index.html" crc="320546686" seo="true" mt="1770150665898" redirect="true"/>
   <file name="briefing.html" crc="3884348757" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="4089486523" seo="true" mt="1769255992819" redirect="true"/>
+  <file name="totor.html" crc="4045145095" seo="true" mt="1770151135150" redirect="true"/>
 </manifest>
