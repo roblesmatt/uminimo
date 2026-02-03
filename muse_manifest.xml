@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770151177553">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770151786611">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="totor.css" crc="423767174" ref="totor"/>
-    <file name="nomq_totor.css" crc="210845825" ref="totor"/>
+    <file name="totor.css" crc="4143268958" ref="totor"/>
+    <file name="nomq_totor.css" crc="3786739667" ref="totor"/>
     <file name="briefing.css" crc="75921945" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
     <file name="index.css" crc="4011702771" ref="index"/>
@@ -39,12 +39,12 @@
     <file name="form-u509642.php" crc="223097661" ref="briefing"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="138764580" ref="index"/>
+    <file name="favicon.ico" crc="138764580" ref="index:totor"/>
     <file name="uminimo.svg" crc="507500714" ref="index:briefing:totor"/>
     <file name="uminimo_poster_u524327.png" crc="330049046" ref="index:briefing:totor"/>
     <file name="site_chihuahua.svg" crc="3765559165" ref="index:totor"/>
     <file name="site_chihuahua_poster_u530593.png" crc="242179431" ref="index:totor"/>
-    <file name="blank.gif" crc="4208392903" ref="index:briefing:totor"/>
+    <file name="blank.gif" crc="4208392903" ref="index:briefing"/>
     <file name="marca.svg" crc="4160258697" ref="index"/>
     <file name="marca_poster_u523890.png" crc="3998542142" ref="index"/>
     <file name="descer.svg" crc="4130963881" ref="index"/>
@@ -128,5 +128,5 @@
   </folder>
   <file name="index.html" crc="320546686" seo="true" mt="1770150665898" redirect="true"/>
   <file name="briefing.html" crc="3884348757" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="4045145095" seo="true" mt="1770151135150" redirect="true"/>
+  <file name="totor.html" crc="3771115733" seo="true" mt="1770151755604" redirect="true"/>
 </manifest>
