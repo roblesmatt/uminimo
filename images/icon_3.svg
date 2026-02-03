@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 238 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="icon_3" x="0.992" y="0" width="236.22" height="236.22" style="fill:white;"/>
+    <clipPath id="_clip1">
+        <rect x="0.992" y="0" width="236.22" height="236.22"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="BULDOGUE">
+            <rect id="MENU" x="0.992" y="0" width="236.22" height="236.22" style="fill:white;"/>
+            <path d="M115.596,160.63C117.393,156.277 119.192,146.702 121.515,143.139C123.194,140.564 128.134,139.215 129.536,139.253C131.847,139.315 134.763,142.588 137.506,144.034C148.833,150.005 160.475,131.312 161.436,120.55C161.513,119.679 161.624,115.742 161.541,114.95C161.328,112.907 151.826,108.787 151.645,108.756C151.263,108.691 152.998,94.725 138.087,92.386C136.667,92.163 138.352,87.787 135.511,78.028C135.138,76.748 127.57,85.625 126.854,83.921C125.115,79.785 120.237,75.499 117.215,75.592C112.835,75.725 111.871,80.478 111.557,84.952C111.504,85.716 111.04,92.323 110.956,94.509C110.9,95.956 109.178,96.117 106.817,99.126C100.584,107.07 101.86,113.085 100.376,113.122C93.562,113.291 93.53,119.464 92.1,119.538C83.346,119.994 85.118,121.06 76.582,124.108" style="fill:none;stroke:black;stroke-width:7.08px;"/>
+        </g>
+    </g>
+</svg>

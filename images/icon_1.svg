@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 238 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="icon_1" x="0.911" y="0" width="236.22" height="236.22" style="fill:white;"/>
+    <clipPath id="_clip1">
+        <rect x="0.911" y="0" width="236.22" height="236.22"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="HUSKY">
+            <rect id="MENU" x="0.911" y="0" width="236.22" height="236.22" style="fill:white;"/>
+            <path d="M138.023,160.63C138.276,158.379 138.424,155.796 138.403,152.831C138.361,146.807 136.304,136.841 137.163,136.436C140.31,134.954 155.317,139.292 160.478,124.571C162.917,117.615 160.915,117.251 156.976,115.472C144.035,109.627 143.142,110.027 142.523,106.801C140.604,96.803 130.853,95.985 130.646,92.28C130.547,90.495 130.783,84.081 128.883,78.588C127.95,75.89 116.473,95.932 115.789,90.262C115.431,87.285 112.723,73.542 108.563,75.85C101.451,79.796 96.969,97.05 95.459,99.22C89.329,108.034 85.756,114.075 82.159,127.869C82.024,128.389 80.198,135.795 76.502,139.398" style="fill:none;stroke:black;stroke-width:7.08px;"/>
+        </g>
+    </g>
+</svg>

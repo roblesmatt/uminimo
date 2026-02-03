@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 237 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="icon_4" x="0.032" y="0" width="236.22" height="236.22" style="fill:white;"/>
+    <clipPath id="_clip1">
+        <rect x="0.032" y="0" width="236.22" height="236.22"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="CHIHUAHUA">
+            <rect id="MENU" x="0.032" y="0" width="236.22" height="236.22" style="fill:white;"/>
+            <path d="M91.358,148.216C92.438,146.987 96.533,142.325 96.501,128.421C96.477,117.935 88.09,122.721 82.486,110.864C79.597,104.751 75.622,92.83 75.622,84.882C75.622,78.737 77.998,74.967 85.089,78.092C94.203,82.108 103.892,96 106.184,95.827C107.61,95.719 112.689,93.389 119.093,93.13C124.823,92.899 136.834,72.063 138.127,76.193C141.701,87.614 135.429,95.315 137.179,96.684C137.405,96.861 144.373,100.828 145.658,106.655C146.292,109.531 145.047,114.15 149.654,114.535C153.9,114.889 160.662,113.294 160.662,117.176C160.662,117.292 159.861,132.255 145.583,136.792C140.53,138.397 136.007,138.504 133.258,146.846C131.401,152.485 130.249,156.948 129.592,160.569" style="fill:none;stroke:black;stroke-width:7.08px;"/>
+        </g>
+    </g>
+</svg>
