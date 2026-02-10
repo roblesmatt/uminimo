@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770672736224">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770685079254">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="totor.css" crc="4078274551" ref="totor"/>
-    <file name="nomq_totor.css" crc="46516124" ref="totor"/>
-    <file name="briefing.css" crc="4253461810" ref="briefing"/>
-    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="index.css" crc="194751247" ref="index"/>
+    <file name="index.css" crc="4219144408" ref="index"/>
     <file name="nomq_index.css" crc="70615128" ref="index"/>
+    <file name="totor.css" crc="68121381" ref="totor"/>
+    <file name="nomq_totor.css" crc="499869818" ref="totor"/>
+    <file name="briefing.css" crc="4179038693" ref="briefing"/>
+    <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
     <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
     <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
@@ -113,14 +113,12 @@
     <file name="template_buldogue_poster_u531596.png" crc="171330644" ref="totor"/>
     <file name="template_dalmata.svg" crc="6209567" ref="totor"/>
     <file name="template_dalmata_poster_u531572.png" crc="3842175736" ref="totor"/>
-    <file name="template_husky1.svg" crc="210861399" ref="totor"/>
-    <file name="template_husky1_poster_u531758.png" crc="180444198" ref="totor"/>
-    <file name="template_husky2.svg" crc="416164689" ref="totor"/>
-    <file name="template_husky2_poster_u531766.png" crc="3932143031" ref="totor"/>
+    <file name="template_husky.svg" crc="4286251805" ref="totor"/>
+    <file name="template_husky_poster_u531804.png" crc="14602832" ref="totor"/>
     <file name="template_tecnico.svg" crc="226283431" ref="totor"/>
     <file name="template_tecnico_poster_u531106.png" crc="4236028367" ref="totor"/>
   </folder>
-  <file name="index.html" crc="418729119" seo="true" mt="1770672446460" redirect="true"/>
-  <file name="briefing.html" crc="532692244" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="463682713" seo="true" mt="1770672580724" redirect="true"/>
+  <file name="index.html" crc="125490271" seo="true" mt="1770684997565" redirect="true"/>
+  <file name="briefing.html" crc="4223863749" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="65996092" seo="true" mt="1770685048240" redirect="true"/>
 </manifest>
