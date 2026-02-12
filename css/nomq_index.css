@@ -10,65 +10,136 @@
 
 	#page
 	{
-		min-height: 748px;
+		min-height: 650px;
 		max-width: 1210px;
-	}
-
-	#u509890-bw
-	{
-		margin-top: 581px;
-	}
-
-	#u517471-4,#u517471-4-bw
-	{
-		min-height: 9px;
 	}
 
 	#accordionu533259
 	{
 		width: 93.39%;
-		left: 3.31%;
+		margin-left: 3.31%;
 	}
 
-	#u533261
+	#buttonu536524
 	{
-		padding-bottom: 39px;
+		padding-bottom: 15px;
+		width: 100%;
 	}
 
-	#pu534361
+	#u536525-4
 	{
-		width: 49.12%;
+		min-height: 20px;
+		margin-top: 15px;
+		width: 96.38%;
+		left: 1.77%;
 	}
 
-	#u534443
+	#buttonu536524:hover #u536525-4
 	{
-		margin-top: 25px;
+		margin-top: 15px;
+		min-height: 20px;
+		width: 96.38%;
 	}
 
-	#pu534375
+	#buttonu536535
 	{
-		width: 49.12%;
-		margin-left: 50.89%;
+		padding-bottom: 15px;
+		width: 100%;
 	}
 
-	#u534443:hover,#u534442
+	#buttonu536524:hover,#buttonu536535:hover
 	{
-		margin-top: 25px;
+		width: 100%;
 	}
 
-	#u534442:hover
+	#u536536-4
 	{
-		margin-top: 25px;
+		min-height: 20px;
+		margin-top: 15px;
+		width: 96.38%;
+		left: 1.77%;
 	}
 
-	#u533436
+	#buttonu536524.ButtonSelected #u536525-4,#buttonu536535:hover #u536536-4
 	{
-		padding-bottom: 19px;
+		margin-top: 15px;
+		min-height: 20px;
+		width: 96.38%;
+	}
+
+	#buttonu536551
+	{
+		padding-bottom: 15px;
+		width: 100%;
+	}
+
+	#buttonu536535.ButtonSelected,#buttonu536551:hover
+	{
+		width: 100%;
+	}
+
+	#u536552-4
+	{
+		min-height: 20px;
+		margin-top: 15px;
+		width: 96.38%;
+		left: 1.77%;
+	}
+
+	#buttonu536535.ButtonSelected #u536536-4,#buttonu536551:hover #u536552-4
+	{
+		margin-top: 15px;
+		min-height: 20px;
+		width: 96.38%;
+	}
+
+	#buttonu536567
+	{
+		padding-bottom: 15px;
+		width: 100%;
+	}
+
+	#buttonu536551.ButtonSelected,#buttonu536567:hover
+	{
+		width: 100%;
+	}
+
+	#buttonu536567.ButtonSelected
+	{
+		width: 100%;
+	}
+
+	#u536568-4
+	{
+		min-height: 20px;
+		margin-top: 15px;
+		width: 96.38%;
+		left: 1.77%;
+	}
+
+	#buttonu536551.ButtonSelected #u536552-4,#buttonu536567:hover #u536568-4
+	{
+		margin-top: 15px;
+		min-height: 20px;
+		width: 96.38%;
+	}
+
+	#buttonu536567.ButtonSelected #u536568-4
+	{
+		margin-top: 15px;
+		min-height: 20px;
+		width: 96.38%;
 	}
 
 	#u534935
 	{
+		margin-right: -10000px;
 		width: 23.81%;
+	}
+
+	#u534940
+	{
+		padding-bottom: 20px;
 	}
 
 	#u534993
@@ -78,11 +149,6 @@
 		left: 25.4%;
 	}
 
-	#u534997
-	{
-		width: 26px;
-	}
-
 	#u535307
 	{
 		margin-right: -10000px;
@@ -90,8 +156,9 @@
 		left: 50.8%;
 	}
 
-	#u534940,#u535311
+	#u535311
 	{
+		padding-top: 20px;
 		padding-bottom: 20px;
 	}
 
@@ -104,7 +171,8 @@
 
 	#u535997
 	{
-		padding-bottom: 20.000000000000284px;
+		padding-top: 20px;
+		padding-bottom: 20.000000000000227px;
 	}
 
 	#u534937,#u534996,#u535308,#u535994
@@ -118,16 +186,16 @@
 		min-height: 26px;
 	}
 
+	#u534939,#u534997,#u535310,#u535996
+	{
+		width: 26px;
+	}
+
 	#u534936-13,#u534995-19,#u535312-21,#u535993-11
 	{
 		min-height: 41px;
 		width: 85.14%;
 		margin-left: 7.44%;
-	}
-
-	#u533478
-	{
-		padding-bottom: 38px;
 	}
 
 	#u534235-33
@@ -157,8 +225,13 @@
 		width: 96.47%;
 	}
 
+	#u517471-4,#u517471-4-bw
+	{
+		min-height: 9px;
+	}
+
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 1653px);
+		height: calc(100vh - 650px);
 	}
 

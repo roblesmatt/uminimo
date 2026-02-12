@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770903539556">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770906233387">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="totor.css" crc="293854253" ref="totor"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="index.css" crc="3934858050" ref="index"/>
+    <file name="nomq_index.css" crc="291191953" ref="index"/>
+    <file name="totor.css" crc="331602186" ref="totor"/>
     <file name="nomq_totor.css" crc="4248615182" ref="totor"/>
-    <file name="index.css" crc="3773526632" ref="index"/>
-    <file name="nomq_index.css" crc="4139258475" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
-    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
-    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
     <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
     <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
+    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
+    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
+    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:totor"/>
@@ -26,9 +26,9 @@
     <file name="whatinput.js" crc="86476730" ref="index:totor"/>
     <file name="museconfig.js" crc="3936894949" ref="index:totor"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:totor"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:totor"/>
     <file name="webpro.js" crc="3856315280" ref="index"/>
     <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:totor"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index:totor"/>
     <file name="require.js" crc="4177726516" ref="index:totor"/>
   </folder>
@@ -42,9 +42,6 @@
     <file name="descer1_poster_u534914.png" crc="65033300" ref="index"/>
     <file name="subir1.svg" crc="430494084" ref="index"/>
     <file name="subir1_poster_u534922.png" crc="443359587" ref="index"/>
-    <file name="template_chihuahua.svg" crc="3893653169" ref="index:totor"/>
-    <file name="template_chihuahua_poster_u533235.png" crc="56519696" ref="index:totor"/>
-    <file name="blank.gif" crc="4208392903" ref="index:totor"/>
     <file name="marca.svg" crc="4160258697" ref="index"/>
     <file name="marca_poster_u534962.png" crc="3998542142" ref="index"/>
     <file name="ilustração.svg" crc="3915495784" ref="index"/>
@@ -73,6 +70,8 @@
     <file name="font_poster_u529751.png" crc="3855587026" ref="totor"/>
     <file name="template_todos.svg" crc="19012119" ref="totor"/>
     <file name="template_todos_poster_u531588.png" crc="4231625645" ref="totor"/>
+    <file name="template_chihuahua.svg" crc="3893653169" ref="totor"/>
+    <file name="template_chihuahua_poster_u533235.png" crc="56519696" ref="totor"/>
     <file name="template_poddle.svg" crc="4209980599" ref="totor"/>
     <file name="template_poddle_poster_u531580.png" crc="215587496" ref="totor"/>
     <file name="template_golden1.svg" crc="25261923" ref="totor"/>
@@ -92,6 +91,6 @@
     <file name="template_tecnico.svg" crc="4019730414" ref="totor"/>
     <file name="template_tecnico_poster_u533251.png" crc="4014410980" ref="totor"/>
   </folder>
-  <file name="index.html" crc="3840425086" seo="true" mt="1770903488926" redirect="true"/>
-  <file name="totor.html" crc="4210158775" seo="true" mt="1770868706907" redirect="true"/>
+  <file name="index.html" crc="229341923" seo="true" mt="1770906124273" redirect="true"/>
+  <file name="totor.html" crc="467484879" seo="true" mt="1770868706907" redirect="true"/>
 </manifest>
