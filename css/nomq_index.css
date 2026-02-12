@@ -14,10 +14,20 @@
 		max-width: 1210px;
 	}
 
+	#u509890-bw
+	{
+		margin-top: 581px;
+	}
+
+	#u517471-4,#u517471-4-bw
+	{
+		min-height: 9px;
+	}
+
 	#accordionu533259
 	{
 		width: 93.39%;
-		margin-left: 3.31%;
+		left: 3.31%;
 	}
 
 	#u533261
@@ -25,48 +35,30 @@
 		padding-bottom: 39px;
 	}
 
-	#u534361
+	#pu534361
 	{
-		margin-right: -10000px;
-		margin-top: 20px;
-		width: 49.12%;
-	}
-
-	#u534375
-	{
-		margin-right: -10000px;
-		margin-top: 20px;
-		width: 49.12%;
-		left: 50.89%;
-	}
-
-	#u534361:hover,#u534375:hover
-	{
-		margin-right: -10000px;
-		margin-top: 20px;
 		width: 49.12%;
 	}
 
 	#u534443
 	{
-		margin-right: -10000px;
-		margin-top: 600px;
-		width: 49.12%;
+		margin-top: 25px;
 	}
 
-	#u534442
+	#pu534375
 	{
-		margin-right: -10000px;
-		margin-top: 600px;
 		width: 49.12%;
-		left: 50.89%;
+		margin-left: 50.89%;
 	}
 
-	#u534443:hover,#u534442:hover
+	#u534443:hover,#u534442
 	{
-		margin-right: -10000px;
-		margin-top: 600px;
-		width: 49.12%;
+		margin-top: 25px;
+	}
+
+	#u534442:hover
+	{
+		margin-top: 25px;
 	}
 
 	#u533436
@@ -76,7 +68,6 @@
 
 	#u534935
 	{
-		margin-right: -10000px;
 		width: 23.81%;
 	}
 
@@ -113,7 +104,7 @@
 
 	#u535997
 	{
-		padding-bottom: 20.000000000000227px;
+		padding-bottom: 20.000000000000284px;
 	}
 
 	#u534937,#u534996,#u535308,#u535994
@@ -166,13 +157,8 @@
 		width: 96.47%;
 	}
 
-	#u517471-4,#u517471-4-bw
-	{
-		min-height: 9px;
-	}
-
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 850px);
+		height: calc(100vh - 1653px);
 	}
 

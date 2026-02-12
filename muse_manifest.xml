@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770902304046">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1770903539556">
   <folder name="css">
-    <file name="site_global.css" crc="4162226542"/>
-    <file name="index.css" crc="3924221559" ref="index"/>
-    <file name="nomq_index.css" crc="3783941099" ref="index"/>
-    <file name="totor.css" crc="452598668" ref="totor"/>
+    <file name="site_global.css" crc="198762739"/>
+    <file name="totor.css" crc="293854253" ref="totor"/>
     <file name="nomq_totor.css" crc="4248615182" ref="totor"/>
+    <file name="index.css" crc="3773526632" ref="index"/>
+    <file name="nomq_index.css" crc="4139258475" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
+    <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
+    <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:totor"/>
@@ -26,9 +26,9 @@
     <file name="whatinput.js" crc="86476730" ref="index:totor"/>
     <file name="museconfig.js" crc="3936894949" ref="index:totor"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:totor"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:totor"/>
     <file name="webpro.js" crc="3856315280" ref="index"/>
     <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:totor"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index:totor"/>
     <file name="require.js" crc="4177726516" ref="index:totor"/>
   </folder>
@@ -92,6 +92,6 @@
     <file name="template_tecnico.svg" crc="4019730414" ref="totor"/>
     <file name="template_tecnico_poster_u533251.png" crc="4014410980" ref="totor"/>
   </folder>
-  <file name="index.html" crc="203594622" seo="true" mt="1770902214106" redirect="true"/>
-  <file name="totor.html" crc="4081813136" seo="true" mt="1770868706907" redirect="true"/>
+  <file name="index.html" crc="3840425086" seo="true" mt="1770903488926" redirect="true"/>
+  <file name="totor.html" crc="4210158775" seo="true" mt="1770868706907" redirect="true"/>
 </manifest>
