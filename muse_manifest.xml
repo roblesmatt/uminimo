@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771079017370">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771086647707">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="totor.css" crc="527055183" ref="totor"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="index.css" crc="394278698" ref="index"/>
+    <file name="nomq_index.css" crc="4144924421" ref="index"/>
+    <file name="totor.css" crc="170276456" ref="totor"/>
     <file name="nomq_totor.css" crc="4248615182" ref="totor"/>
-    <file name="index.css" crc="4050803387" ref="index"/>
-    <file name="nomq_index.css" crc="184104210" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
     <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
     <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
     <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:totor"/>
@@ -36,16 +36,34 @@
     <file name="favicon.ico" crc="138764580" ref="index"/>
     <file name="uminimo.svg" crc="507500714" ref="index:totor"/>
     <file name="uminimo_poster_u524327.png" crc="330049046" ref="index:totor"/>
-    <file name="descer.svg" crc="4108422256" ref="index"/>
-    <file name="descer_poster_u534906.png" crc="203879019" ref="index"/>
-    <file name="descer1.svg" crc="4018703704" ref="index"/>
-    <file name="descer1_poster_u534914.png" crc="65033300" ref="index"/>
-    <file name="subir1.svg" crc="430494084" ref="index"/>
-    <file name="subir1_poster_u534922.png" crc="443359587" ref="index"/>
+    <file name="projetos1.svg" crc="264373417" ref="index"/>
+    <file name="projetos1_poster_u539829.png" crc="149562831" ref="index"/>
+    <file name="projetos2.svg" crc="4229319674" ref="index"/>
+    <file name="projetos2_poster_u539837.png" crc="3039118" ref="index"/>
+    <file name="projetos3.svg" crc="334168402" ref="index"/>
+    <file name="projetos3_poster_u539821.png" crc="387719383" ref="index"/>
     <file name="seta.svg" crc="430915055" ref="index"/>
     <file name="seta_poster_u538176.png" crc="169807037" ref="index"/>
+    <file name="servicos1.svg" crc="316094793" ref="index"/>
+    <file name="servicos1_poster_u539845.png" crc="315279070" ref="index"/>
+    <file name="servicos2.svg" crc="4051746529" ref="index"/>
+    <file name="servicos2_poster_u539853.png" crc="4093421755" ref="index"/>
+    <file name="servicos3.svg" crc="281676115" ref="index"/>
+    <file name="servicos3_poster_u539861.png" crc="335204869" ref="index"/>
+    <file name="sobre1.svg" crc="4170349953" ref="index"/>
+    <file name="sobre1_poster_u539869.png" crc="23086429" ref="index"/>
+    <file name="sobre2.svg" crc="3824669265" ref="index"/>
+    <file name="sobre2_poster_u539877.png" crc="287098154" ref="index"/>
+    <file name="sobre3.svg" crc="455069315" ref="index"/>
+    <file name="sobre3_poster_u539885.png" crc="4241237479" ref="index"/>
     <file name="robles.svg" crc="454361495" ref="index"/>
     <file name="robles_poster_u522849.png" crc="4216839046" ref="index"/>
+    <file name="contato1.svg" crc="4063063665" ref="index"/>
+    <file name="contato1_poster_u539893.png" crc="3875140424" ref="index"/>
+    <file name="contato2.svg" crc="4085896232" ref="index"/>
+    <file name="contato2_poster_u539901.png" crc="124205463" ref="index"/>
+    <file name="contato3.svg" crc="4097923838" ref="index"/>
+    <file name="contato3_poster_u539909.png" crc="3881594622" ref="index"/>
     <file name="anterior1.svg" crc="430490106" ref="totor"/>
     <file name="anterior1_poster_u524602.png" crc="528006061" ref="totor"/>
     <file name="proximo1.svg" crc="329782524" ref="totor"/>
@@ -87,6 +105,6 @@
     <file name="template_tecnico.svg" crc="4019730414" ref="totor"/>
     <file name="template_tecnico_poster_u533251.png" crc="4014410980" ref="totor"/>
   </folder>
-  <file name="index.html" crc="4257209546" seo="true" mt="1771078977767" redirect="true"/>
-  <file name="totor.html" crc="257214085" seo="true" mt="1770868706907" redirect="true"/>
+  <file name="index.html" crc="3981186497" seo="true" mt="1771086607867" redirect="true"/>
+  <file name="totor.html" crc="4222469169" seo="true" mt="1770868706907" redirect="true"/>
 </manifest>
