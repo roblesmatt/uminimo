@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771270201558">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771272578835">
   <folder name="css">
-    <file name="site_global.css" crc="198762739"/>
-    <file name="totor.css" crc="534893313" ref="totor"/>
-    <file name="nomq_totor.css" crc="466031308" ref="totor"/>
-    <file name="index.css" crc="219618077" ref="index"/>
-    <file name="nomq_index.css" crc="434799192" ref="index"/>
+    <file name="site_global.css" crc="4162226542"/>
+    <file name="index.css" crc="3991208679" ref="index"/>
+    <file name="nomq_index.css" crc="3965225999" ref="index"/>
+    <file name="totor.css" crc="3914201716" ref="totor"/>
+    <file name="nomq_totor.css" crc="435531015" ref="totor"/>
   </folder>
   <folder name="fonts">
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
-    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
-    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
-    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
-    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
-    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
-    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
+    <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
+    <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
+    <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
+    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
+    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:totor"/>
@@ -37,11 +37,11 @@
     <file name="uminimo.svg" crc="507500714" ref="index"/>
     <file name="uminimo_poster_u524327.png" crc="330049046" ref="index"/>
     <file name="descer.svg" crc="4108422256" ref="index"/>
-    <file name="descer_poster_u534906.png" crc="203879019" ref="index"/>
+    <file name="descer_poster_u540365.png" crc="203879019" ref="index"/>
     <file name="descer1.svg" crc="4018703704" ref="index"/>
-    <file name="descer1_poster_u534914.png" crc="65033300" ref="index"/>
+    <file name="descer1_poster_u540356.png" crc="65033300" ref="index"/>
     <file name="subir1.svg" crc="430494084" ref="index"/>
-    <file name="subir1_poster_u534922.png" crc="443359587" ref="index"/>
+    <file name="subir1_poster_u540386.png" crc="443359587" ref="index"/>
     <file name="robles.svg" crc="454361495" ref="index"/>
     <file name="robles_poster_u522849.png" crc="4216839046" ref="index"/>
     <file name="logo_site_1.svg" crc="289558929" ref="totor"/>
@@ -79,6 +79,6 @@
     <file name="template_tecnico.svg" crc="4019730414" ref="totor"/>
     <file name="template_tecnico_poster_u533251.png" crc="4014410980" ref="totor"/>
   </folder>
-  <file name="index.html" crc="283801916" seo="true" mt="1771268213446" redirect="true"/>
-  <file name="totor.html" crc="4097164313" seo="true" mt="1771269763287" redirect="true"/>
+  <file name="index.html" crc="4242863727" seo="true" mt="1771272413985" redirect="true"/>
+  <file name="totor.html" crc="494002139" seo="true" mt="1771271436851" redirect="true"/>
 </manifest>
