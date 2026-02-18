@@ -283,7 +283,7 @@
 	#pu523491
 	{
 		z-index: 21;
-		margin-top: 50px;
+		margin-top: 100px;
 		width: 100%;
 	}
 
@@ -336,6 +336,7 @@
 
 	#u521094
 	{
+		margin-top: 101px;
 		width: 93.39%;
 		margin-left: 3.31%;
 	}
@@ -363,21 +364,18 @@
 	#buttonu518771
 	{
 		padding-bottom: 14px;
-		margin-top: 48px;
 		width: 29.76%;
 		margin-left: 34.88%;
 	}
 
 	#buttonu518771:hover
 	{
-		margin-top: 48px;
 		width: 29.76%;
 		margin-left: 34.88%;
 	}
 
 	#buttonu518771.ButtonSelected
 	{
-		margin-top: 48px;
 		width: 29.76%;
 		margin-left: 34.88%;
 	}
@@ -407,6 +405,6 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 890px);
+		height: calc(100vh - 990px);
 	}
 
