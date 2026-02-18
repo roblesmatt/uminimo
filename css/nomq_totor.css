@@ -35,7 +35,6 @@
 
 	#pu531945
 	{
-		padding-bottom: 0px;
 		width: 96.7%;
 	}
 
@@ -125,7 +124,24 @@
 		padding-bottom: 59.82905982905983%;
 	}
 
-	#ppu531937
+	#u531937
+	{
+		margin-top: 21px;
+		margin-left: 1.71%;
+	}
+
+	#u531938
+	{
+		margin-top: 20px;
+		margin-left: 1.71%;
+	}
+
+	#u531938 .fluid_height_spacer
+	{
+		padding-bottom: 136.75213675213675%;
+	}
+
+	#ppu531939
 	{
 		z-index: 0;
 		margin-top: 20px;
@@ -134,79 +150,57 @@
 		margin-left: 1.71%;
 	}
 
-	#pu531937
+	#pu531939
 	{
-		z-index: 7;
-		padding-bottom: 0px;
+		z-index: 9;
+		padding-bottom: 1px;
 		margin-right: -10000px;
 		width: 49.15%;
 	}
 
-	#ppu531939
+	#u532701
 	{
-		z-index: 0;
-		margin-top: 20px;
-		width: 100%;
-	}
-
-	#pu531939
-	{
-		z-index: 9;
-		padding-bottom: 0px;
-		margin-right: -10000px;
-		width: 48.18%;
-	}
-
-	#u531943 .fluid_height_spacer
-	{
-		padding-bottom: 177.9783393501805%;
+		margin-top: 96px;
+		width: 1.71%;
+		left: 49.15%;
 	}
 
 	#pu531941
 	{
 		z-index: 11;
-		margin-right: -10000px;
-		width: 48.35%;
-		margin-left: 51.66%;
-	}
-
-	#u531941 .fluid_height_spacer
-	{
-		padding-bottom: 177.33812949640287%;
-	}
-
-	#u531942 .fluid_height_spacer
-	{
-		padding-bottom: 99.64028776978418%;
-	}
-
-	#pu531938
-	{
-		z-index: 8;
 		padding-bottom: 0px;
 		margin-right: -10000px;
 		width: 49.15%;
 		margin-left: 50.86%;
 	}
 
-	#u531938 .fluid_height_spacer
+	#u531943 .fluid_height_spacer,#u531941 .fluid_height_spacer
 	{
-		padding-bottom: 137.3913043478261%;
+		padding-bottom: 174.43478260869566%;
 	}
 
 	#u531940
 	{
 		margin-top: 20px;
-	}
-
-	#u531936
-	{
-		margin-top: 21px;
+		left: 0%;
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u531949,.nosvg #u531936,#u531932
+	.nosvg #u531949,.nosvg #u531937,.nosvg #u531938,#u531936
 	{
+		margin-left: 1.71%;
+	}
+
+	#u531932
+	{
+		margin-top: 21px;
+		left: 0%;
+		margin-left: 1.71%;
+	}
+
+	.nosvg #u531940,.nosvg #u531932
+	{
+		left: 0%;
 		margin-left: 1.71%;
 	}
 
@@ -216,7 +210,7 @@
 		margin-left: 1.71%;
 	}
 
-	.nosvg #u531932,.nosvg #u531935
+	.nosvg #u531936,.nosvg #u531935
 	{
 		margin-left: 1.71%;
 	}
@@ -233,7 +227,7 @@
 
 	.css_verticalspacer .verticalspacer
 	{
-		height: calc(100vh - 7940px);
+		height: calc(100vh - 12154px);
 	}
 
 

@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771431873649">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771442862738">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="totor.css" crc="4165274039" ref="totor"/>
-    <file name="nomq_totor.css" crc="3773383102" ref="totor"/>
-    <file name="briefing.css" crc="190574075" ref="briefing"/>
+    <file name="totor.css" crc="162518810" ref="totor"/>
+    <file name="nomq_totor.css" crc="490356634" ref="totor"/>
+    <file name="briefing.css" crc="3980815409" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="index.css" crc="326612761" ref="index"/>
-    <file name="nomq_index.css" crc="4242692679" ref="index"/>
+    <file name="index.css" crc="295464344" ref="index"/>
+    <file name="nomq_index.css" crc="4062555888" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
     <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
     <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
-    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
-    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
-    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
-    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
-    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
-    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
     <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
     <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
     <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
+    <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
+    <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
+    <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
+    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
+    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:briefing:totor"/>
@@ -42,16 +42,18 @@
     <file name="favicon.ico" crc="138764580" ref="index"/>
     <file name="uminimo.svg" crc="507500714" ref="index:briefing:totor"/>
     <file name="uminimo_poster_u524327.png" crc="330049046" ref="index:briefing:totor"/>
-    <file name="seta.svg" crc="430915055" ref="index"/>
-    <file name="seta_poster_u532353.png" crc="169807037" ref="index"/>
+    <file name="proximo.svg" crc="3759981555" ref="index:totor"/>
+    <file name="proximo_poster_u532551.png" crc="315632786" ref="index:totor"/>
+    <file name="proximo1.svg" crc="3769644600" ref="index:totor"/>
+    <file name="proximo1_poster_u532559.png" crc="482156039" ref="index:totor"/>
     <file name="marca.svg" crc="4160258697" ref="index"/>
     <file name="marca_poster_u523890.png" crc="3998542142" ref="index"/>
-    <file name="descer.svg" crc="389927862" ref="index"/>
-    <file name="descer_poster_u532205.png" crc="4176810164" ref="index"/>
-    <file name="descer1.svg" crc="200710166" ref="index"/>
-    <file name="descer1_poster_u532213.png" crc="4010304757" ref="index"/>
-    <file name="subir1.svg" crc="3984277669" ref="index"/>
-    <file name="subir1_poster_u532221.png" crc="3793729647" ref="index"/>
+    <file name="descer.svg" crc="3819950353" ref="index"/>
+    <file name="descer_poster_u532535.png" crc="4259330569" ref="index"/>
+    <file name="descer1.svg" crc="4211491039" ref="index"/>
+    <file name="descer1_poster_u532543.png" crc="239693984" ref="index"/>
+    <file name="subir1.svg" crc="4170106080" ref="index"/>
+    <file name="subir1_poster_u532567.png" crc="4096501509" ref="index"/>
     <file name="ilustração.svg" crc="3915495784" ref="index"/>
     <file name="ilustração_poster_u523874.png" crc="251387317" ref="index"/>
     <file name="marketing.svg" crc="444175459" ref="index"/>
@@ -66,10 +68,10 @@
     <file name="descer3_poster_u532237.png" crc="4043892391" ref="index"/>
     <file name="subir3.svg" crc="45684891" ref="index"/>
     <file name="subir3_poster_u532245.png" crc="378059594" ref="index"/>
-    <file name="anterior1.svg" crc="430490106" ref="totor"/>
-    <file name="anterior1_poster_u524602.png" crc="528006061" ref="totor"/>
-    <file name="proximo1.svg" crc="329782524" ref="totor"/>
-    <file name="proximo1_poster_u524610.png" crc="447422520" ref="totor"/>
+    <file name="anterior.svg" crc="88471217" ref="totor"/>
+    <file name="anterior_poster_u532685.png" crc="15109172" ref="totor"/>
+    <file name="anterior1.svg" crc="4278190853" ref="totor"/>
+    <file name="anterior1_poster_u532693.png" crc="4266939917" ref="totor"/>
     <file name="fechar.svg" crc="4163833896" ref="totor"/>
     <file name="fechar_poster_u524618.png" crc="4121185911" ref="totor"/>
     <file name="logo_site_1.svg" crc="289558929" ref="totor"/>
@@ -88,6 +90,8 @@
     <file name="template_todos_poster_u531588.png" crc="4231625645" ref="totor"/>
     <file name="template_chihuahua.svg" crc="3893653169" ref="totor"/>
     <file name="template_chihuahua_poster_u532128.png" crc="56519696" ref="totor"/>
+    <file name="template_poddle.svg" crc="4209980599" ref="totor"/>
+    <file name="template_poddle_poster_u531580.png" crc="215587496" ref="totor"/>
     <file name="template_golden1.svg" crc="25261923" ref="totor"/>
     <file name="template_golden1_poster_u531620.png" crc="89749974" ref="totor"/>
     <file name="template_golden4.svg" crc="4102635583" ref="totor"/>
@@ -96,8 +100,6 @@
     <file name="template_golden2_poster_u531612.png" crc="250102430" ref="totor"/>
     <file name="template_golden3.svg" crc="4175184785" ref="totor"/>
     <file name="template_golden3_poster_u531604.png" crc="4241522075" ref="totor"/>
-    <file name="template_poddle.svg" crc="4209980599" ref="totor"/>
-    <file name="template_poddle_poster_u531580.png" crc="215587496" ref="totor"/>
     <file name="template_buldogue.svg" crc="3788522188" ref="totor"/>
     <file name="template_buldogue_poster_u531596.png" crc="171330644" ref="totor"/>
     <file name="template_dalmata.svg" crc="3768392558" ref="totor"/>
@@ -107,7 +109,7 @@
     <file name="template_tecnico.svg" crc="4019730414" ref="totor"/>
     <file name="template_tecnico_poster_u532144.png" crc="4014410980" ref="totor"/>
   </folder>
-  <file name="index.html" crc="451403027" seo="true" mt="1771431823259" redirect="true"/>
-  <file name="briefing.html" crc="4124600932" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="187241170" seo="true" mt="1771421826132" redirect="true"/>
+  <file name="index.html" crc="3980813412" seo="true" mt="1771441916499" redirect="true"/>
+  <file name="briefing.html" crc="4115948154" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="65664516" seo="true" mt="1771440681295" redirect="true"/>
 </manifest>
