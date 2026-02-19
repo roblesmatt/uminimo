@@ -1,28 +1,27 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771455018442">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://roblesmatt.github.io/uminimo" resolutions="1x" timestamp="1771527245259">
   <folder name="css">
     <file name="site_global.css" crc="4162226542"/>
-    <file name="totor.css" crc="3953657532" ref="totor"/>
+    <file name="index.css" crc="3761284353" ref="index"/>
+    <file name="nomq_index.css" crc="520816274" ref="index"/>
+    <file name="info.css" crc="19583161" ref="info"/>
+    <file name="totor.css" crc="4274716365" ref="totor"/>
     <file name="nomq_totor.css" crc="490356634" ref="totor"/>
-    <file name="briefing.css" crc="246371539" ref="briefing"/>
+    <file name="briefing.css" crc="171862900" ref="briefing"/>
     <file name="nomq_briefing.css" crc="317004553" ref="briefing"/>
-    <file name="info.css" crc="40440023" ref="info"/>
-    <file name="nomq_info.css" crc="4263747878" ref="info"/>
-    <file name="index.css" crc="4037660917" ref="index"/>
-    <file name="nomq_index.css" crc="4063026588" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="open-sans-v18-latin-regular.woff" crc="416015119"/>
     <file name="open-sans-v18-latin-regular.eot" crc="3971334477"/>
     <file name="open-sans-v18-latin-regular.svg" crc="3796335645"/>
-    <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
-    <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
-    <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
-    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
-    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
-    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
     <file name="open-sans-v18-latin-700.woff" crc="4133300034"/>
     <file name="open-sans-v18-latin-700.eot" crc="13930888"/>
     <file name="open-sans-v18-latin-700.svg" crc="4147449607"/>
+    <file name="open-sans-v18-latin-italic.woff" crc="3774610731"/>
+    <file name="open-sans-v18-latin-italic.eot" crc="180336561"/>
+    <file name="open-sans-v18-latin-italic.svg" crc="4151093541"/>
+    <file name="opensans-bolditalic-webfont.woff" crc="63253711"/>
+    <file name="opensans-bolditalic-webfont.eot" crc="4282566780"/>
+    <file name="opensans-bolditalic-webfont.svg" crc="3956591526"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:briefing:totor:info"/>
@@ -33,7 +32,7 @@
     <file name="jquery.watch.js" crc="522499760" ref="index:briefing:totor:info"/>
     <file name="webpro.js" crc="3856315280" ref="index:briefing:info"/>
     <file name="musewpdisclosure.js" crc="4294234138" ref="index:info"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index:briefing:totor:info"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:briefing:totor"/>
     <file name="require.js" crc="4177726516" ref="index:briefing:totor:info"/>
     <file name="form_check.php" crc="4108222811" ref="briefing"/>
     <file name="form_throttle.php" crc="503802655" ref="briefing"/>
@@ -42,24 +41,25 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="138764580" ref="index"/>
+    <file name="uminimo.svg" crc="507500714" ref="index:briefing:totor"/>
+    <file name="uminimo_poster_u524327.png" crc="330049046" ref="index:briefing:totor"/>
     <file name="template_chihuahua.svg" crc="3893653169" ref="index:totor"/>
     <file name="template_chihuahua_poster_u532128.png" crc="56519696" ref="index:totor"/>
-    <file name="proximo.svg" crc="3759981555" ref="index:totor"/>
-    <file name="proximo_poster_u532551.png" crc="315632786" ref="index:totor"/>
-    <file name="proximo1.svg" crc="3769644600" ref="index:totor"/>
-    <file name="proximo1_poster_u532559.png" crc="482156039" ref="index:totor"/>
-    <file name="descer.svg" crc="3819950353" ref="index:info"/>
-    <file name="descer_poster_u532535.png" crc="4259330569" ref="index:info"/>
-    <file name="descer1.svg" crc="4211491039" ref="index:info"/>
-    <file name="descer1_poster_u532543.png" crc="239693984" ref="index:info"/>
-    <file name="subir1.svg" crc="4170106080" ref="index:info"/>
-    <file name="subir1_poster_u533741.png" crc="4096501509" ref="index:info"/>
-    <file name="uminimo.svg" crc="507500714" ref="briefing:totor"/>
-    <file name="uminimo_poster_u524327.png" crc="330049046" ref="briefing:totor"/>
+    <file name="blank.gif" crc="4208392903" ref="index:briefing:totor"/>
+    <file name="menu.svg" crc="3896078946" ref="index"/>
+    <file name="menu_poster_u535457.png" crc="443100722" ref="index"/>
+    <file name="descer2.svg" crc="3959786054" ref="index"/>
+    <file name="descer2_poster_u535465.png" crc="264274911" ref="index"/>
+    <file name="fechar1.svg" crc="3939061632" ref="index"/>
+    <file name="fechar1_poster_u534763.png" crc="4228831441" ref="index"/>
     <file name="anterior.svg" crc="88471217" ref="totor"/>
     <file name="anterior_poster_u532685.png" crc="15109172" ref="totor"/>
     <file name="anterior1.svg" crc="4278190853" ref="totor"/>
     <file name="anterior1_poster_u532693.png" crc="4266939917" ref="totor"/>
+    <file name="proximo.svg" crc="3759981555" ref="totor"/>
+    <file name="proximo_poster_u532551.png" crc="315632786" ref="totor"/>
+    <file name="proximo1.svg" crc="3769644600" ref="totor"/>
+    <file name="proximo1_poster_u532559.png" crc="482156039" ref="totor"/>
     <file name="fechar.svg" crc="4163833896" ref="totor"/>
     <file name="fechar_poster_u524618.png" crc="4121185911" ref="totor"/>
     <file name="logo_site_1.svg" crc="289558929" ref="totor"/>
@@ -94,19 +94,25 @@
     <file name="template_husky_poster_u531804.png" crc="14602832" ref="totor"/>
     <file name="template_tecnico.svg" crc="4019730414" ref="totor"/>
     <file name="template_tecnico_poster_u532144.png" crc="4014410980" ref="totor"/>
+    <file name="robles.svg" crc="454361495" ref="info"/>
+    <file name="robles_poster_u533891.png" crc="4216839046" ref="info"/>
     <file name="marca.svg" crc="4160258697" ref="info"/>
     <file name="marca_poster_u533624.png" crc="3998542142" ref="info"/>
+    <file name="descer.svg" crc="3819950353" ref="info"/>
+    <file name="descer_poster_u532535.png" crc="4259330569" ref="info"/>
+    <file name="descer1.svg" crc="4211491039" ref="info"/>
+    <file name="descer1_poster_u532543.png" crc="239693984" ref="info"/>
+    <file name="subir1.svg" crc="4170106080" ref="info"/>
+    <file name="subir1_poster_u533741.png" crc="4096501509" ref="info"/>
     <file name="ilustração.svg" crc="3915495784" ref="info"/>
     <file name="ilustração_poster_u533638.png" crc="251387317" ref="info"/>
     <file name="marketing.svg" crc="444175459" ref="info"/>
     <file name="marketing_poster_u533689.png" crc="4218389787" ref="info"/>
     <file name="mockup.svg" crc="4251249584" ref="info"/>
     <file name="mockup_poster_u533733.png" crc="3971622574" ref="info"/>
-    <file name="robles.svg" crc="454361495" ref="info"/>
-    <file name="robles_poster_u533891.png" crc="4216839046" ref="info"/>
   </folder>
-  <file name="index.html" crc="4166948827" seo="true" mt="1771454964362" redirect="true"/>
-  <file name="briefing.html" crc="456919526" seo="true" mt="1764685944038" redirect="true"/>
-  <file name="totor.html" crc="4261153453" seo="true" mt="1771440681295" redirect="true"/>
-  <file name="info.html" crc="4208624548" seo="true" mt="1771454970417" redirect="true"/>
+  <file name="index.html" crc="3780229776" seo="true" mt="1771527192415" redirect="true"/>
+  <file name="briefing.html" crc="179118605" seo="true" mt="1764685944038" redirect="true"/>
+  <file name="totor.html" crc="3959984748" seo="true" mt="1771440681295" redirect="true"/>
+  <file name="info.html" crc="4013893101" seo="true" mt="1771527047388" redirect="true"/>
 </manifest>
