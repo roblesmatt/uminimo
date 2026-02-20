@@ -4,20 +4,19 @@
 
 .version.info /* version checker */
 {
-	color: #0000FA;
-	background-color: #B83AFD;
+	color: #000003;
+	background-color: #B4F13A;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 666.950000000001px;
+	min-height: 667px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
-	background-color: #222222;
+	background-color: #FFFFFF;
 	padding-top: 20px;
-	padding-bottom: 0px;
 	width: 100%;
 	max-width: 480px;
 	margin-left: auto;
@@ -26,14 +25,14 @@
 
 #pu535483
 {
-	z-index: 135;
+	z-index: 134;
 	margin-left: 40px;
 	width: 83.34%;
 }
 
 #u535483
 {
-	z-index: 135;
+	z-index: 134;
 	width: 52px;
 	height: 52px;
 	opacity: 1;
@@ -53,13 +52,14 @@
 
 #u535475-6
 {
-	z-index: 129;
+	z-index: 128;
 	min-height: 52px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: justify;
 	font-size: 13px;
+	color: #000000;
 	line-height: 2;
 	position: relative;
 	margin-right: -10000px;
@@ -69,20 +69,19 @@
 
 #u535475-4
 {
-	color: #7F7F7F;
 	font-family: '__Open Sans_5';
 	font-weight: 400;
 	font-style: italic;
 }
 
-#u535484-13
+#u535484-12
 {
 	z-index: 2;
 	min-height: 52px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #7F7F7F;
+	color: #000000;
 	text-align: justify;
 	font-size: 13px;
 	line-height: 2;
@@ -96,20 +95,13 @@
 
 #u535475-2,#u535484-2,#u535484-4,#u535484-6,#u535484-8
 {
-	color: #FFFFFF;
-	font-family: '__Open Sans_5';
-	font-weight: 700;
-}
-
-#u535484-9
-{
 	font-family: '__Open Sans_5';
 	font-weight: 700;
 }
 
 #accordionu534416
 {
-	z-index: 20;
+	z-index: 19;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -122,7 +114,7 @@
 
 #u534417
 {
-	z-index: 21;
+	z-index: 20;
 	background-color: transparent;
 	position: relative;
 	width: 100%;
@@ -130,7 +122,7 @@
 
 #u534418-5
 {
-	z-index: 22;
+	z-index: 21;
 	min-height: 66px;
 	border-width: 0px;
 	border-color: transparent;
@@ -142,7 +134,7 @@
 	padding-bottom: 10px;
 	position: relative;
 	width: 100%;
-	background: #222222 url("../images/descer.svg?crc=3819950353") no-repeat right center;
+	background: #FFFFFF url("../images/descer.svg?crc=3819950353") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -156,7 +148,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
+	background: #F1F1F1 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -171,7 +163,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -186,7 +178,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -202,9 +194,15 @@
 	font-weight: bold;
 }
 
+#u535641
+{
+	margin-top: 7px;
+	margin-bottom: -7px;
+}
+
 #u535631
 {
-	z-index: 27;
+	z-index: 26;
 	width: 26px;
 	height: 26px;
 	opacity: 1;
@@ -214,11 +212,16 @@
 	background-size: cover;
 }
 
+.nosvg #u535631
+{
+	background-image: url('../images/marca_poster_u535634.png?crc=3998542142');
+}
+
 #u534419
 {
-	z-index: 29;
+	z-index: 28;
 	border-color: #FFFFFF;
-	background-color: #000000;
+	background-color: #F1F1F1;
 	border-radius: 0px 0px 10px 10px ;
 	position: relative;
 	width: 100%;
@@ -226,12 +229,12 @@
 
 #u534420-14
 {
-	z-index: 30;
+	z-index: 29;
 	min-height: 52px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #7F7F7F;
+	color: #000000;
 	line-height: 1.6;
 	font-size: 13px;
 	font-weight: 400;
@@ -248,7 +251,7 @@
 
 #accordionu534425
 {
-	z-index: 44;
+	z-index: 43;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -261,7 +264,7 @@
 
 #u534426
 {
-	z-index: 45;
+	z-index: 44;
 	background-color: transparent;
 	position: relative;
 	width: 100%;
@@ -269,7 +272,7 @@
 
 #u534427-5
 {
-	z-index: 46;
+	z-index: 45;
 	min-height: 66px;
 	border-width: 0px;
 	border-color: transparent;
@@ -281,7 +284,7 @@
 	padding-bottom: 10px;
 	position: relative;
 	width: 100%;
-	background: #222222 url("../images/descer.svg?crc=3819950353") no-repeat right center;
+	background: #FFFFFF url("../images/descer.svg?crc=3819950353") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -295,7 +298,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
+	background: #F1F1F1 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -310,7 +313,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -325,7 +328,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -334,23 +337,28 @@
 	font-weight: bold;
 }
 
-#u536013
+#u535660
 {
-	z-index: 51;
+	z-index: 50;
 	width: 26px;
 	height: 26px;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	background: transparent url("../images/marca.svg?crc=4160258697") no-repeat center center;
+	background: transparent url("../images/ilustra%c3%a7%c3%a3o.svg?crc=3915495784") no-repeat center center;
 	background-size: cover;
+}
+
+.nosvg #u535660
+{
+	background-image: url('../images/ilustra%c3%a7%c3%a3o_poster_u535685.png?crc=251387317');
 }
 
 #u534428
 {
-	z-index: 53;
+	z-index: 52;
 	border-color: #FFFFFF;
-	background-color: #000000;
+	background-color: #F1F1F1;
 	border-radius: 0px 0px 10px 10px ;
 	position: relative;
 	width: 100%;
@@ -358,12 +366,12 @@
 
 #u534429-20
 {
-	z-index: 54;
+	z-index: 53;
 	min-height: 52px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #7F7F7F;
+	color: #000000;
 	line-height: 1.6;
 	font-size: 13px;
 	font-weight: 400;
@@ -375,7 +383,7 @@
 
 #accordionu534432
 {
-	z-index: 74;
+	z-index: 73;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -388,7 +396,7 @@
 
 #u534433
 {
-	z-index: 75;
+	z-index: 74;
 	background-color: transparent;
 	position: relative;
 	width: 100%;
@@ -396,7 +404,7 @@
 
 #u534436-5
 {
-	z-index: 76;
+	z-index: 75;
 	min-height: 66px;
 	border-width: 0px;
 	border-color: transparent;
@@ -408,7 +416,7 @@
 	padding-bottom: 10px;
 	position: relative;
 	width: 100%;
-	background: #222222 url("../images/descer.svg?crc=3819950353") no-repeat right center;
+	background: #FFFFFF url("../images/descer.svg?crc=3819950353") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -422,7 +430,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
+	background: #F1F1F1 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -437,7 +445,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -452,7 +460,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -461,23 +469,28 @@
 	font-weight: bold;
 }
 
-#u536019
+#u535680
 {
-	z-index: 81;
+	z-index: 80;
 	width: 26px;
 	height: 26px;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	background: transparent url("../images/marca.svg?crc=4160258697") no-repeat center center;
+	background: transparent url("../images/marketing.svg?crc=444175459") no-repeat center center;
 	background-size: cover;
+}
+
+.nosvg #u535680
+{
+	background-image: url('../images/marketing_poster_u535786.png?crc=4218389787');
 }
 
 #u534434
 {
-	z-index: 83;
+	z-index: 82;
 	border-color: #FFFFFF;
-	background-color: #000000;
+	background-color: #F1F1F1;
 	border-radius: 0px 0px 10px 10px ;
 	position: relative;
 	width: 100%;
@@ -485,12 +498,12 @@
 
 #u534435-22
 {
-	z-index: 84;
+	z-index: 83;
 	min-height: 52px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #7F7F7F;
+	color: #000000;
 	line-height: 1.6;
 	font-size: 13px;
 	font-weight: 400;
@@ -502,7 +515,7 @@
 
 #accordionu534442
 {
-	z-index: 106;
+	z-index: 105;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -515,7 +528,7 @@
 
 #u534443
 {
-	z-index: 107;
+	z-index: 106;
 	background-color: transparent;
 	position: relative;
 	width: 100%;
@@ -523,7 +536,7 @@
 
 #u534444-5
 {
-	z-index: 108;
+	z-index: 107;
 	min-height: 66px;
 	border-width: 0px;
 	border-color: transparent;
@@ -535,7 +548,7 @@
 	padding-bottom: 10px;
 	position: relative;
 	width: 100%;
-	background: #222222 url("../images/descer.svg?crc=3819950353") no-repeat right center;
+	background: #FFFFFF url("../images/descer.svg?crc=3819950353") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -554,7 +567,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
+	background: #F1F1F1 url("../images/descer1.svg?crc=4211491039") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -574,7 +587,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -589,7 +602,7 @@
 	min-height: 66px;
 	width: 100%;
 	margin: 0px 0px 0px 0%;
-	background: #000000 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
+	background: #F1F1F1 url("../images/subir1.svg?crc=4170106080") no-repeat right center;
 	background-size: 60px 60px;
 }
 
@@ -611,7 +624,7 @@
 
 #u534418-4,#u534427-4,#u534436-4,#u534444-4
 {
-	color: #FFFFFF;
+	color: #000000;
 	text-align: left;
 	font-size: 13px;
 	line-height: 1.6;
@@ -625,34 +638,34 @@
 	padding-top: 2px;
 }
 
-#u535641,#u536012,#u536018,#u536030
+#u535659,#u535679,#u535699
 {
-	margin-top: 7px;
-	margin-bottom: -7px;
+	margin-top: 6px;
+	margin-bottom: -6px;
 }
 
-#u536031
+#u535700
 {
-	z-index: 113;
+	z-index: 112;
 	width: 26px;
 	height: 26px;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
-	background: transparent url("../images/marca.svg?crc=4160258697") no-repeat center center;
+	background: transparent url("../images/mockup.svg?crc=4251249584") no-repeat center center;
 	background-size: cover;
 }
 
-.nosvg #u535631,.nosvg #u536013,.nosvg #u536019,.nosvg #u536031
+.nosvg #u535700
 {
-	background-image: url('../images/marca_poster_u535634.png?crc=3998542142');
+	background-image: url('../images/mockup_poster_u533733.png?crc=3971622574');
 }
 
 #u534445
 {
-	z-index: 115;
+	z-index: 114;
 	border-color: #FFFFFF;
-	background-color: #000000;
+	background-color: #F1F1F1;
 	border-radius: 0px 0px 10px 10px ;
 	position: relative;
 	width: 100%;
@@ -660,12 +673,12 @@
 
 #u534446-12
 {
-	z-index: 116;
+	z-index: 115;
 	min-height: 52px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	color: #7F7F7F;
+	color: #000000;
 	line-height: 1.6;
 	font-size: 13px;
 	font-weight: 400;
@@ -688,16 +701,17 @@
 
 #buttonu534410
 {
-	z-index: 15;
-	border-width: 0px;
-	border-color: transparent;
+	z-index: 14;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #000000;
 	background-color: #000000;
 	border-radius: 10px;
 	padding-bottom: 13px;
-	margin-top: 34px;
+	margin-top: 37px;
 	position: relative;
 	width: 75%;
-	margin-left: 12.71%;
+	margin-left: 12.09%;
 }
 
 #buttonu534410:hover
@@ -705,7 +719,7 @@
 	background-color: transparent;
 	min-height: 0px;
 	width: 75%;
-	margin: 34px 0px 0px 12.708333333333332%;
+	margin: 37px 0px 0px 12.083333333333334%;
 }
 
 #buttonu534410.ButtonSelected
@@ -713,18 +727,18 @@
 	background-color: #000000;
 	min-height: 0px;
 	width: 75%;
-	margin: 34px 0px 0px 12.708333333333332%;
+	margin: 37px 0px 0px 12.083333333333334%;
 }
 
 #u534411-4
 {
-	z-index: 16;
+	z-index: 15;
 	min-height: 12px;
 	background-color: transparent;
 	text-align: center;
 	font-size: 13px;
 	line-height: 1.8;
-	color: #7F7F7F;
+	color: #F1F1F1;
 	letter-spacing: 1px;
 	font-family: '__Open Sans_5';
 	font-weight: 700;
@@ -754,20 +768,22 @@
 
 #buttonu534410:hover #u534411-4 p
 {
-	color: #FFFFFF;
+	color: #000000;
 	visibility: inherit;
 }
 
 #buttonu534410.ButtonSelected #u534411-4 p
 {
-	color: #7F7F7F;
+	color: #F1F1F1;
 	visibility: inherit;
 }
 
 #u535363
 {
-	z-index: 128;
+	z-index: 127;
 	height: 40px;
+	top: -3px;
+	margin-bottom: -3px;
 	position: relative;
 	width: 8.34%;
 	margin-left: 67.71%;
@@ -783,7 +799,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 741px);
+	height: calc(100vh - 747px);
 }
 
 #muse_css_mq,.html

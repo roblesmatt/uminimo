@@ -8,9 +8,25 @@
 		display: block;
 	}
 
-	#page
+	#page,#buttonu536250_align_to_page
 	{
 		max-width: 1210px;
+	}
+
+	#pamphletu536088
+	{
+		width: 4.55%;
+		left: 92.15%;
+	}
+
+	#pu536089
+	{
+		left: -700%;
+	}
+
+	#u536235
+	{
+		min-height: 602px;
 	}
 
 	#u535366
@@ -97,32 +113,6 @@
 	#u517471-4-bw
 	{
 		margin-top: 40px;
-	}
-
-	#accordionu535265
-	{
-		position: relative;
-		left: -50%;
-		margin-left: 240px;
-		width: 100%;
-		max-width: 480px;
-	}
-
-	#u535348
-	{
-		min-height: 602px;
-		width: 100%;
-	}
-
-	#accordionu535265-wrapper
-	{
-		position: fixed;
-		top: 20px;
-		z-index: 13;
-		left: 50%;
-		margin-left: 105px;
-		width: 39.67%;
-		max-width: 480px;
 	}
 
 	.css_verticalspacer .verticalspacer

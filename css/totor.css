@@ -1,7 +1,7 @@
 .version.totor /* version checker */
 {
-	color: #000003;
-	background-color: #AA8C28;
+	color: #000008;
+	background-color: #480D31;
 }
 
 @font-face
@@ -35,7 +35,7 @@
 {
 	width: 100%;
 	z-index: 1;
-	background-color: #000000;
+	background-color: #F1F1F1;
 	background-image: none;
 	margin-right: auto;
 	min-height: 500px;
@@ -49,7 +49,7 @@
 	border-color: #787878;
 	top: 0px;
 	z-index: 34;
-	background-color: #222222;
+	background-color: #FFFFFF;
 	min-height: 55px;
 	position: fixed;
 }
@@ -84,7 +84,7 @@
 	position: relative;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	width: 55px;
-	background: #222222 url("../images/anterior.svg?crc=88471217") no-repeat center bottom;
+	background: #FFFFFF url("../images/anterior.svg?crc=88471217") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -97,7 +97,7 @@
 	min-height: 0px;
 	width: 55px;
 	margin: 0px -10000px 0px 0px;
-	background: #222222 url("../images/anterior1.svg?crc=4278190853") no-repeat center bottom;
+	background: #FFFFFF url("../images/anterior1.svg?crc=4278190853") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -110,7 +110,7 @@
 	min-height: 0px;
 	width: 55px;
 	margin: 0px -10000px 0px 0px;
-	background: #222222 url("../images/anterior1.svg?crc=4278190853") no-repeat center bottom;
+	background: #FFFFFF url("../images/anterior1.svg?crc=4278190853") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -128,7 +128,7 @@
 	min-height: 0px;
 	width: 55px;
 	margin: 0px -10000px 0px 0px;
-	background: #222222 url("../images/anterior.svg?crc=88471217") no-repeat center bottom;
+	background: #FFFFFF url("../images/anterior.svg?crc=88471217") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -139,7 +139,7 @@
 
 #u531956-4
 {
-	color: #7F7F7F;
+	color: #000000;
 	letter-spacing: 0px;
 	font-size: 16px;
 	z-index: 39;
@@ -172,7 +172,7 @@
 
 #u531955-4
 {
-	color: #7F7F7F;
+	color: #B4B4B4;
 	letter-spacing: 0px;
 	font-size: 16px;
 	z-index: 35;
@@ -205,9 +205,8 @@
 
 #u531957-4
 {
-	color: #7F7F7F;
 	letter-spacing: 0px;
-	font-size: 16px;
+	width: 35px;
 	z-index: 43;
 	background-color: transparent;
 	text-align: center;
@@ -217,7 +216,7 @@
 	font-weight: 700;
 	font-family: '__Open Sans_5';
 	min-height: 55px;
-	width: 35px;
+	font-size: 16px;
 }
 
 #buttonu531952.ButtonSelected #u531955-4,#buttonu531952:hover #u531957-4
@@ -263,7 +262,7 @@
 	position: relative;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	width: 55px;
-	background: #222222 url("../images/proximo.svg?crc=3759981555") no-repeat center bottom;
+	background: #FFFFFF url("../images/proximo.svg?crc=3759981555") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -276,7 +275,7 @@
 	min-height: 0px;
 	width: 55px;
 	margin: 0px -10000px 0px 0%;
-	background: #222222 url("../images/proximo1.svg?crc=3769644600") no-repeat center bottom;
+	background: #FFFFFF url("../images/proximo1.svg?crc=3769644600") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -294,7 +293,7 @@
 	min-height: 0px;
 	width: 55px;
 	margin: 0px -10000px 0px 0%;
-	background: #222222 url("../images/proximo.svg?crc=3759981555") no-repeat center bottom;
+	background: #FFFFFF url("../images/proximo.svg?crc=3759981555") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -316,7 +315,7 @@
 	position: relative;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	width: 55px;
-	background: #222222 url("../images/fechar.svg?crc=4163833896") no-repeat center top;
+	background: #FFFFFF url("../images/fechar.svg?crc=4163833896") no-repeat center top;
 	background-size: cover;
 }
 
@@ -370,12 +369,12 @@
 	z-index: 15;
 	position: relative;
 	left: 0%;
-	background-color: #222222;
+	background-color: #FFFFFF;
 }
 
 #u531946-13
 {
-	color: #7F7F7F;
+	color: #000000;
 	font-size: 13px;
 	z-index: 16;
 	background-color: transparent;
