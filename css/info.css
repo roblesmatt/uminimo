@@ -4,8 +4,8 @@
 
 .version.info /* version checker */
 {
-	color: #000003;
-	background-color: #B4F13A;
+	color: #000002;
+	background-color: #A3BE58;
 }
 
 #page
@@ -82,9 +82,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
+	line-height: 2;
 	text-align: justify;
 	font-size: 13px;
-	line-height: 2;
 	font-family: '__Open Sans_5';
 	font-weight: 400;
 	margin-top: 26px;
@@ -625,9 +625,9 @@
 #u534418-4,#u534427-4,#u534436-4,#u534444-4
 {
 	color: #000000;
+	line-height: 1.6;
 	text-align: left;
 	font-size: 13px;
-	line-height: 1.6;
 	font-family: '__Open Sans_5';
 	font-weight: 700;
 	margin-left: 10px;
@@ -737,8 +737,8 @@
 	background-color: transparent;
 	text-align: center;
 	font-size: 13px;
-	line-height: 1.8;
 	color: #F1F1F1;
+	line-height: 1.8;
 	letter-spacing: 1px;
 	font-family: '__Open Sans_5';
 	font-weight: 700;
@@ -825,18 +825,18 @@ body
 @font-face
 {
 	font-family: '__Open Sans_5';
-	src: url('../fonts/open-sans-v18-latin-italic.eot');
-	src: local('☺'), url('../fonts/open-sans-v18-latin-italic.woff') format('woff'), url('../fonts/open-sans-v18-latin-italic.svg') format('svg');
-	font-weight: 400;
-	font-style: italic;
+	src: url('../fonts/open-sans-v18-latin-700.eot');
+	src: local('☺'), url('../fonts/open-sans-v18-latin-700.woff') format('woff'), url('../fonts/open-sans-v18-latin-700.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Open Sans_5';
-	src: url('../fonts/open-sans-v18-latin-700.eot');
-	src: local('☺'), url('../fonts/open-sans-v18-latin-700.woff') format('woff'), url('../fonts/open-sans-v18-latin-700.svg') format('svg');
-	font-weight: 700;
-	font-style: normal;
+	src: url('../fonts/open-sans-v18-latin-italic.eot');
+	src: local('☺'), url('../fonts/open-sans-v18-latin-italic.woff') format('woff'), url('../fonts/open-sans-v18-latin-italic.svg') format('svg');
+	font-weight: 400;
+	font-style: italic;
 }
 
